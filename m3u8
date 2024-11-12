@@ -15,12 +15,11 @@ http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddf
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,ALVAR0TV NOTAS◉r
 http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
 
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,FUTBOL + 1 COL◉
-http://c24u.xyz:8080/live/Rivera2020/Rivera2020/333453.ts
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,LIVERPOOL FUTBOL ◉
+http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/508216.ts
 
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,FUTBOL + 2 ◉
-http://fortv.cc:8080/live/5djSbC/538755/78717.ts
-#lista del 2023 a marzo2025#
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,FUTBOL + SKY ◉
+http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/508248.ts
 
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,FUTBOL + 3 SUPER ◉
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609319.ts
@@ -61,29 +60,30 @@ http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/144048.ts
 
 
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/g6yTxxq/En-Vivo-Alvarotv.png" ,PPV EXCLUSIVOS + ◉ (1)
-http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/129155.ts
+http://fortv.cc:8080/live/5djSbC/538755/167742.ts
 
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/g6yTxxq/En-Vivo-Alvarotv.png" ,PPV EXCLUSIVOS + ◉ (2)
-http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/129163.ts
+http://fortv.cc:8080/live/5djSbC/538755/167743.ts
 
 
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/g6yTxxq/En-Vivo-Alvarotv.png" ,PPV EXCLUSIVOS + ◉ (3)
-http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/317910.ts
+http://fortv.cc:8080/live/5djSbC/538755/167744.ts
 
 
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/g6yTxxq/En-Vivo-Alvarotv.png" ,PPV EXCLUSIVOS + ◉ (4)
-http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/317914.ts
+http://fortv.cc:8080/live/5djSbC/538755/167745.ts
 
 
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/g6yTxxq/En-Vivo-Alvarotv.png" ,PPV EXCLUSIVOS + ◉ (5)
-http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/317919.ts
+http://fortv.cc:8080/live/5djSbC/538755/35264.ts
 
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/g6yTxxq/En-Vivo-Alvarotv.png" ,PPV EXCLUSIVOS + ◉ (6)
-http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/129150.ts
+http://fortv.cc:8080/live/5djSbC/538755/167748.ts
 
 
 
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/g6yTxxq/En-Vivo-Alvarotv.png" ,PPV EXCLUSIVOS + ◉ (5)
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/g6yTxxq/En-Vivo-Alvarotv.png" ,PPV EXCLUSIVOS + ◉ (7)
+http://fortv.cc:8080/live/5djSbC/538755/167749.ts
 
 ●●●●●●●●
 
@@ -128,7 +128,10 @@ http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/499075.ts
 ●●●
 
 
-#EXTINF:-1 group-title="🔵ESPN|FOX DEPORTES" tvg-logo="https://i.ibb.co/C0QRh3G/espn-Deportes.png" , ESPN DEPORTES
+#EXTINF:-1 group-title="🔵ESPN|FOX DEPORTES" tvg-logo="https://i.ibb.co/C0QRh3G/espn-Deportes.png" , ESPN DEPORTES (1)
+http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/598167.ts
+
+#EXTINF:-1 group-title="🔵ESPN|FOX DEPORTES" tvg-logo="https://i.ibb.co/C0QRh3G/espn-Deportes.png" , ESPN DEPORTES (2)
 http://tv.proyectox.vip:8080/live/AliceA8977/LSQMzQcvIv/9544.ts
 
 
