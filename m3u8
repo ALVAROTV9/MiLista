@@ -1,6 +1,6 @@
 #EXTM3U8
 
-#*********  11/NOV/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+#*********  13/NOV/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************PROPIO ***************
 #https://bit.ly/alvarotv2025 | rentry org : alvarotvNotas#
 
@@ -24,10 +24,16 @@ http://stklatino.dynns.com:2082/live/patriciobriano/aTF5rqkPK8zh/57108.ts
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,LIVERPOOL FUTBOL ◉
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/508216.ts
 
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,FUTBOL + SKY ◉
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS SKY SPORTS 1
+http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/604549.ts
+
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS SKY SPORTS 2
+http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/604550.ts
+
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS SKY SPORTS 3
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/508248.ts
 
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,FUTBOL + 3 SUPER ◉
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,SOLO FUTBOL
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609319.ts
 
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/jRYSgrH/laLiga.png" ,LA LIGA ◉
@@ -96,8 +102,8 @@ http://fortv.cc:8080/live/5djSbC/538755/167749.ts
 #EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,ALVAR0TV NOTAS◉r
 http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
 
-#EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,alvarotv
-http://190.90.252.200:16001/play/a001/index.m3u8
+#EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,
+
 
 #EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,WIN SPORTS +(1)
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/611250.ts
@@ -227,7 +233,7 @@ http://tv.proyectox.vip:8080/live/AliceA8977/LSQMzQcvIv/9552.ts
 
 
 #EXTINF:-1 group-title="🔵SPORTS | DIRECTV|TIGO|TNT|TUDN|BEIN|" tvg-logo="https://i.ibb.co/zQHLjvX/bein-Sports.png" ,BEIN SPORTS ñ (2)
-http://31.42.187.37:25461/live/C42AFE290824/C42AFE290824/4096.ts
+http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/523093.ts
 
 
 #EXTINF:-1 group-title="🔵SPORTS | DIRECTV|TIGO|TNT|TUDN|BEIN|" tvg-logo="https://i.ibb.co/GcXMPSv/tudn.png" ,TUDN MEX (1)
@@ -375,10 +381,22 @@ http://14225021914.com/446686613/v144b5856g/494
 #EXTINF:-1 group-title="🔵CINE PREMIUM" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,ALVAR0TV NOTAS◉r
 http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
 
+#EXTINF:-1 group-title="🔵CINE PREMIUM" tvg-logo="https://i.ibb.co/gj3v2dH/netf1x.png" ,NETFLIX SUSPENSO 1
+http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/523116.ts
 
-#EXTINF:-1 group-title="🔵CINE PREMIUM" tvg-logo="https://i.ibb.co/CBQGF4L/hbo1.png" ,HBO
-http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/414468
+#EXTINF:-1 group-title="🔵CINE PREMIUM" tvg-logo="https://i.ibb.co/gj3v2dH/netf1x.png" ,NETFLIX TERROR
+http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/523119.ts
+
+#EXTINF:-1 group-title="🔵CINE PREMIUM" tvg-logo="https://i.ibb.co/gj3v2dH/netf1x.png" ,NETFLIX CINEMA
+http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/523120.ts
+
+#EXTINF:-1 group-title="🔵CINE PREMIUM" tvg-logo="https://i.ibb.co/CBQGF4L/hbo1.png" ,HBO (1)
+
+
 #EXTINF:-1 group-title="🔵CINE PREMIUM" tvg-logo="https://i.ibb.co/CBQGF4L/hbo1.png" ,HBO (2)
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/414468
+
+#EXTINF:-1 group-title="🔵CINE PREMIUM" tvg-logo="https://i.ibb.co/CBQGF4L/hbo1.png" ,HBO (3)
 http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/55
 #EXTINF:-1 group-title="🔵CINE PREMIUM" tvg-logo="https://i.ibb.co/KDprzsd/hbo2.png" ,HBO 2
 http://legiontv.online:80/Casa123/Casa123/1070839
@@ -406,23 +424,9 @@ http://legiontv.online:80/Casa123/Casa123/1070855
 http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/9697
 #EXTINF:-1 group-title="🔵CINE PREMIUM" tvg-logo="https://i.ibb.co/PzdWS5m/hbo-Xtreme.png" ,HBO Xtreme (2)
 http://legiontv.online:80/Casa123/Casa123/1070856
-#EXTINF:-1 group-title="🔵CINE PREMIUM" tvg-logo="https://i.ibb.co/gj3v2dH/netf1x.png" ,NETFLIX TERROR
-http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/306264
-#EXTINF:-1 group-title="🔵CINE PREMIUM" tvg-logo="https://i.ibb.co/gj3v2dH/netf1x.png" ,NETFLIX INFANTIL HD
-http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/305779
-#EXTINF:-1 group-title="🔵CINE PREMIUM" tvg-logo="https://i.ibb.co/gj3v2dH/netf1x.png" ,NETFLIX 3
-http://189850286594527886.ofgd1018.xyz:80/me819618/KWcxmukujdT/941475
-#EXTINF:-1 group-title="🔵CINE PREMIUM" tvg-logo="https://i.ibb.co/gj3v2dH/netf1x.png" ,NETFLIX CINEMA 01
-http://legiontv.online:80/Casa123/Casa123/1078691
-#EXTINF:-1 group-title="🔵CINE PREMIUM" tvg-logo="https://i.ibb.co/gj3v2dH/netf1x.png" ,NETFLIX CINEMA 02
-http://legiontv.online:80/Casa123/Casa123/1078692
-#EXTINF:-1 group-title="🔵CINE PREMIUM" tvg-logo="https://i.ibb.co/gj3v2dH/netf1x.png" ,NETFLIX CINEMA 03
-http://legiontv.online:80/Casa123/Casa123/1078693
-#EXTINF:-1 group-title="🔵CINE PREMIUM" tvg-logo="https://i.ibb.co/gj3v2dH/netf1x.png" ,NETFLIX TERROR 24/7
-http://legiontv.online:80/Casa123/Casa123/1078507
-#EXTINF:-1 group-title="🔵CINE PREMIUM" tvg-logo="https://i.ibb.co/gj3v2dH/netf1x.png" ,NETFLIX VIP
-http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/305781
-#EXTINF:-1 group-title="🔵CINE PREMIUM" tvg-logo="https://i.ibb.co/gj3v2dH/netf1x.png" ,NETFLIX 1 VIP
+
+
+
 http://legiontv.online:80/Casa123/Casa123/1078646
 #EXTINF:-1 group-title="🔵CINE PREMIUM" tvg-logo="https://i.ibb.co/Y8hS9CF/golden-Plus.png" ,GOLDEN PLUS
 http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/9662
@@ -498,6 +502,8 @@ http://legiontv.online:80/Casa123/Casa123/1071000
 #EXTINF:-1 group-title="🔵INFANTILES" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,ALVAR0TV NOTAS◉r
 http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
 
+#EXTINF:-1 group-title="🔵INFANTILES" tvg-logo="https://i.ibb.co/8rVQfT0/kids.png" ,EL REINO INFANTIL
+http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/523137.ts
 
 #EXTINF:-1 group-title="🔵INFANTILES" tvg-logo="https://i.ibb.co/8rVQfT0/kids.png" ,LOS PITUFOS venuschile
 http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/398006
@@ -509,20 +515,29 @@ http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/398044
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 group-title="🔵INFANTILES" tvg-logo="https://i.ibb.co/8rVQfT0/kids.png" ,MiCKEY MOUSE venuschl
 http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/398035
-#EXTINF:-1 group-title="🔵INFANTILES" tvg-logo="https://i.ibb.co/8rVQfT0/kids.png" ,PADRINOS MÁGICOS zuiowy
-http://zuiowy.net:8080/Valencia3tv/nTyPVx07sc/155035
-#EXTINF:-1 group-title="🔵INFANTILES" tvg-logo="https://i.ibb.co/8rVQfT0/kids.png" ,MASHA Y.EL OSO daleplaym3u
-http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/7cb8efca-90f3-4deb-86ea-dbea64aec885.m3u8
+#EXTINF:-1 group-title="🔵INFANTILES" tvg-logo="https://i.ibb.co/8rVQfT0/kids.png" ,PINGUINOS DE MADAGASCAR zuiowy
+http://tv.iprotv.live/live/ProYeCtoX998/NuevaProyectoRw/129565.ts
+
+#EXTINF:-1 group-title="🔵INFANTILES" tvg-logo="https://i.ibb.co/8rVQfT0/kids.png" ,LOONEY TOONES
+http://tv.iprotv.live/live/ProYeCtoX998/NuevaProyectoRw/132815.ts
+
+
+
 #EXTINF:-1 group-title="🔵INFANTILES" tvg-logo="https://i.ibb.co/6vz9zPR/nick-Junior.png" ,NICK HD
-http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/fdd81347-ab34-4bcd-aab4-a06399afe403.m3u8
+
+
 #EXTINF:-1 group-title="🔵INFANTILES" tvg-logo="https://i.ibb.co/6vz9zPR/nick-Junior.png" ,NICK JR
-http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/bde1a892-a80a-43da-9074-2eb6cdf127eb.m3u8
+
+
 #EXTINF:-1 group-title="🔵INFANTILES" tvg-logo="https://i.ibb.co/vvXhxzr/disneyXd.png" ,DISNEY XD
-http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/28d9d5ec-5dc7-4be3-8eca-aa53e5c99b7f.m3u8
+http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/604501.ts
+
 #EXTINF:-1 group-title="🔵INFANTILES" tvg-logo="https://i.ibb.co/5cZPrMD/discovery-Kids.png" ,DISCOVERY KIDS
-http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/1f3afef5-9a9a-4d92-ace7-a6dc5ac8c0c.m3u8
+
+
 #EXTINF:-1 group-title="🔵INFANTILES" tvg-logo="https://i.ibb.co/4gZJ8gP/cartoon-Net.png" ,CARTOON NETWORK
-http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/cc4a2526-cc6b-40c7-879f-0f2849ca7274.m3u8
+http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/604481.ts
+
 
 
 ●●●●●
