@@ -733,17 +733,17 @@ http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/148367.ts
 
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/VTRnftb/caraxoltv.png" tvg-id="Caracol.co" ,CARACOL SPORTS
 http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/8483
-#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/VTRnftb/caraxoltv.png" tvg-id="Caracol.co" ,CARACOL AHORA
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/VTRnftb/caraxoltv.png" tvg-id="Caracol.co" ,CARACOL NOTICIAS
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/13322.ts
 
-#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,NTN24
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,COL|NTN24
 http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/60761.ts
 
-#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,RCN
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,COL|RCN
 http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/432644.ts
 
 
-#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,CANAL 1
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,COL|CANAL 1
 http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/57781.ts
 
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,DISNEY+
@@ -751,84 +751,87 @@ http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/405855.ts
 
 
 
-#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,TELEMUNDO
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,EEUU|TELEMUNDO
 http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/483869.ts
 
 
 
-#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,UNIMAS
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,EEUU|UNIMAS
 http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/483885.ts
 
 
 
-#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,UNIVISION
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,EEUU|UNIVISION
 http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/483897.ts
 
 
-#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,UNIVISION DEPORTES
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,EEUU|UNIVISION DEPORTES
 http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/493549.ts
 
 
 
-#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,LAS ESTRELLAS MEX
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,MEXICO|LAS ESTRELLAS
 http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/305448.ts
 
 
-#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,AZTECA 1
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,MEXICO|AZTECA 1
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/2547.ts
 
-#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,CANAL 5 MEX
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,MEXICO|CANAL 5
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/2561.ts
 
-#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,TELEAMAZONAS ECUADOR
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,ECUADOR|TELEAMAZONAS
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/2385.ts
 
 
-#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,ECUAVISA ECUADOR
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,ECUADOR|ECUAVISA
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/2382.ts
 
-#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,GAMAVISION ECUADOR
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,ECYADOR|GAMAVISION
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/2383.ts
 
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,CHILETV
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/37973.ts
 
 
-#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,MEGA CHILE
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,CHILE|MEGA
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/2354.ts
 
-#EXTINF:0 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,ESPN 2
-http://190.90.252.200:16001/play/a09d/index.m3u8
+#EXTINF:0 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,BRASIL|GLOBO
+http://fortv.cc:8080/live/5djSbC/538755/21020.ts
 
-#EXTINF:0 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,ESPN 1
+#EXTINF:0 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,PERU|LATINA
 http://190.90.252.200:16001/play/a09a/index.m3u8
 
-#EXTINF:0 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,Espn 3
-http://190.90.252.200:16001/play/a09b/index.m3u8
+#EXTINF:0 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,PERU|AMERICA TV
+http://fortv.cc:8080/live/5djSbC/538755/110637.ts
 
-#EXTINF:0 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,espn 4
-http://190.90.252.200:16001/play/a07v/index.m3u8
+#EXTINF:0 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,PERU|PANAMERICANA
+http://fortv.cc:8080/live/5djSbC/538755/110633.ts
 
 #EXTINF:0 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,WIN SPORTS
 http://190.90.252.200:16001/play/a09q/index.m3u8
 
-#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,uRUGUAY|A+TV
+http://fortv.cc:8080/live/5djSbC/538755/164922.ts
 
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,URUGUAY|CANAL 4
+http://fortv.cc:8080/live/5djSbC/538755/164923.ts
 
-#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,VENEZUELA|TELEVEN
+http://fortv.cc:8080/live/5djSbC/538755/164931.ts
 
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,VENEZUELA|GLOBOVISION
+http://fortv.cc:8080/live/5djSbC/538755/164934.ts
 
-#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,ARGENTINA|AMERICA TV
+http://fortv.cc:8080/live/5djSbC/538755/164881.ts
 
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,ARGENTINA|EL NUEVE
+http://fortv.cc:8080/live/5djSbC/538755/164869.ts
 
-#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,
-
-#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,
-
-#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,
-
-#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,
-
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,ARGENTINA|TELEFE
+http://fortv.cc:8080/live/5djSbC/538755/164870.ts
 
 
  ●●●●●●
