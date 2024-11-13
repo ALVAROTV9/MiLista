@@ -36,7 +36,10 @@ http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/508248.ts
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,SOLO FUTBOL
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609319.ts
 
-#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/jRYSgrH/laLiga.png" ,LA LIGA ◉
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/jRYSgrH/laLiga.png" ,LA LIGA 1◉
+http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/371415.ts
+
+#EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/jRYSgrH/laLiga.png" ,LA LIGA 2◉
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609313.ts
 
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/25n2c5D/premier-League.png" ,PREMIER LEAGUE 1 ◉
@@ -531,8 +534,8 @@ http://venuschiletv.lat:8880/live/ofmmepeiph/7hbetrPUAGbD/398051.ts
 
 
 
-#EXTINF:-1 group-title="🔵INFANTILES" tvg-logo="https://i.ibb.co/8rVQfT0/kids.png" ,
-
+#EXTINF:-1 group-title="🔵INFANTILES" tvg-logo="https://i.ibb.co/8rVQfT0/kids.png" ,SEMILLITAS
+http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/371444.ts
 
 
 #EXTINF:-1 group-title="🔵INFANTILES" tvg-logo="https://i.ibb.co/8rVQfT0/kids.png" ,EL CHAVO DEL 8
