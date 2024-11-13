@@ -16,7 +16,7 @@ http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddf
 http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
 
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,ESPN + EVENTO 1 ★
-http://stklatino.dynns.com:2082/live/patriciobriano/aTF5rqkPK8zh/56934.ts
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/50562.ts
 
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,ESPN + EVENTO 2 ★★
 http://stklatino.dynns.com:2082/live/patriciobriano/aTF5rqkPK8zh/57108.ts
@@ -138,6 +138,9 @@ http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/499075.ts
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/598167.ts
 
 #EXTINF:-1 group-title="🔵ESPN|FOX DEPORTES" tvg-logo="https://i.ibb.co/C0QRh3G/espn-Deportes.png" , ESPN DEPORTES (2)
+http://supersonictv.live:8080/live/247340/764085/22222.ts
+
+#EXTINF:-1 group-title="🔵ESPN|FOX DEPORTES" tvg-logo="https://i.ibb.co/C0QRh3G/espn-Deportes.png" , ESPN DEPORTES (3)
 http://tv.proyectox.vip:8080/live/AliceA8977/LSQMzQcvIv/9544.ts
 
 
@@ -314,6 +317,9 @@ http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/339550.ts
 
 #EXTINF:-1 group-title="🔵ESPN|FOX DEPORTES" tvg-logo="https://i.ibb.co/R3hWPZ0/espn5.png" , ESPN 6
 http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/339552.ts
+
+#EXTINF:-1 group-title="🔵ESPN|FOX DEPORTES" tvg-logo="https://i.ibb.co/R3hWPZ0/espn5.png" , ESPN 6
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/54541.ts
 
 
 #EXTINF:-1 group-title="🔵SPORTS | DIRECTV|TIGO|TNT|TUDN|BEIN|" tvg-logo="https://i.ibb.co/G02z1wt/claro-Sports.png" ,CLARO SPORT
@@ -520,7 +526,15 @@ http://daleplay.club:8080/live/020524.020202.052424./mjkN8LDcJYvn/cc4a2526-cc6b-
 
 #EXTINF:-1 group-title="🔵ADULTOS" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,ALVAR0TV NOTAS◉r
 http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
- 
+
+#EXTINF:-1 group-title="🔵ADULTOS" tvg-logo="https://i.ibb.co/SQZc624/alvarotv9-Adult.png" ,GABBI CARTER (EXCLUSIVO)
+http://206.212.244.71:8080/live/4wVQA7/625159/215559.ts
+
+#EXTINF:-1 group-title="🔵ADULTOS" tvg-logo="https://i.ibb.co/SQZc624/alvarotv9-Adult.png" ,GINEBRA BELUCCI (EXXLUSIVO)
+http://206.212.244.71:8080/live/4wVQA7/625159/215565.ts
+
+#EXTINF:-1 group-title="🔵ADULTOS" tvg-logo="https://i.ibb.co/SQZc624/alvarotv9-Adult.png" ,ABELLA DANGER
+
 
 #EXTINF:-1 group-title="🔵ADULTOS" tvg-logo="https://i.ibb.co/SQZc624/alvarotv9-Adult.png" ,ABELLA DANGER
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/652293.ts
@@ -757,8 +771,41 @@ http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/493549.ts
 http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/305448.ts
 
 
-#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,GLOBO BR
-http://tvmate.icu:8080/live/k4Svp2/645504/164824.ts
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,AZTECA 1
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/2547.ts
+
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,CANAL 5 MEX
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/2561.ts
+
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,TELEAMAZONAS ECUADOR
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/2385.ts
 
 
-●●●●●●
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,ECUAVISA ECUADOR
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/2382.ts
+
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,GAMAVISION ECUADOR
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/2383.ts
+
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,CHILETV
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/37973.ts
+
+
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,MEGA CHILE
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/2354.ts
+
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,AZTECA 1
+
+
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,AZTECA 1
+
+
+
+
+
+
+
+
+
+
+ ●●●●●●
