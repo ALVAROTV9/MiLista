@@ -797,19 +797,19 @@ http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/37973.ts
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,MEGA CHILE
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/2354.ts
 
-#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,ESPN 2
+#EXTINF:0 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,ESPN 2
 http://190.90.252.200:16001/play/a09d/index.m3u8
 
-#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,ESPN 1
+#EXTINF:0 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,ESPN 1
 http://190.90.252.200:16001/play/a09a/index.m3u8
 
-#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,Espn 3
+#EXTINF:0 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,Espn 3
 http://190.90.252.200:16001/play/a09b/index.m3u8
 
-#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,espn 4
+#EXTINF:0 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,espn 4
 http://190.90.252.200:16001/play/a07v/index.m3u8
 
-#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,WIN SPORTS
+#EXTINF:0 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,WIN SPORTS
 http://190.90.252.200:16001/play/a09q/index.m3u8
 
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,
