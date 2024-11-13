@@ -96,7 +96,7 @@ http://fortv.cc:8080/live/5djSbC/538755/167749.ts
 #EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,ALVAR0TV NOTAS◉r
 http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
 
-#EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,WIN SPORTS +(alvarotv)
+#EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,WIN SPORTS + alvarotv
 http://186.190.231.179:8000/play/a05g/index.m3u8
 
 #EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,WIN SPORTS +(1)
