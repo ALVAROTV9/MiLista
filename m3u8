@@ -104,6 +104,16 @@ http://fortv.cc:8080/live/5djSbC/538755/167749.ts
 
 #EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,ALVAR0TV NOTAS◉r
 http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
+#EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/hFxFspt/win-Sports.png" tvg-id="winsports.co" ,WIN SPORTS (P1)
+http://tv.proyectox.vip:8080/live/AliceA8977/LSQMzQcvIv/8505.ts
+
+#EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/hFxFspt/win-Sports.png" ,WIN SPORTS (D1)
+http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/69293.ts
+
+#EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/hFxFspt/win-Sports.png" ,WIN SPORTS (L1)
+http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/499075.ts
+
+
 
 #EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,
 
@@ -136,15 +146,6 @@ http://fortv.cc:8080/live/5djSbC/538755/78717.ts
 #EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,WIN SPORTS +(Sk1)
 http://stklatino.dynns.com:2082/live/patriciobriano/aTF5rqkPK8zh/50262.ts
 
-#EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/hFxFspt/win-Sports.png" tvg-id="winsports.co" ,WIN SPORTS (P1)
-http://tv.proyectox.vip:8080/live/AliceA8977/LSQMzQcvIv/8505.ts
-
-#EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/hFxFspt/win-Sports.png" ,WIN SPORTS (D1)
-http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/69293.ts
-
-
-#EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/hFxFspt/win-Sports.png" ,WIN SPORTS (L1)
-http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/499075.ts
 
 ●●●
 
