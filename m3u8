@@ -10,6 +10,29 @@ n#EXTM3U8
 http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
 
 
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/gj3v2dH/netf1x.png" ,NETFLIX CINEMA KIDS 1
+http://zonamovie.live/live/user2409/user2409/841640.ts
+
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/gj3v2dH/netf1x.png" ,NETFLIX CINEMA KIDS 2
+http://zonamovie.live/live/user2409/user2409/841641.ts
+
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/gj3v2dH/netf1x.png" ,NETFLIX CINEMA KIDS 3
+http://zonamovie.live/live/user2409/user2409/841642.ts
+
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/gj3v2dH/netf1x.png" ,NETFLIX CINEMA 1
+http://zonamovie.live/live/user2409/user2409/841644.ts
+
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/gj3v2dH/netf1x.png" ,NETFLIX CINEMA 2
+http://zonamovie.live/live/user2409/user2409/841643.ts
+
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/gj3v2dH/netf1x.png" ,NETFLIX CINEMA 3
+http://zonamovie.live/live/user2409/user2409/841645.ts
+
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/gj3v2dH/netf1x.png" ,NETFLIX CINEMA 4
+http://zonamovie.live/live/user2409/user2409/841651.ts
+
+
+
 ●●●●●●
 
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,ALVAR0TV NOTAS◉r
@@ -894,6 +917,9 @@ http://venuschiletv.lat:8880/movie/ofmmepeiph/7hbetrPUAGbD/418663.mp4
 
 
 #EXTINF:-1 group-title="VOD |🔵ESTRENOS NOVIEMBRE" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,SONRIE 2 (TERROR)
+
+
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/gj3v2dH/netf1x.png" ,NETFLIX SUSPENSO 1
 
 
    ●●●PRUEBAS●●●●
