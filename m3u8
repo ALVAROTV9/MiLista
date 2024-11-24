@@ -143,20 +143,33 @@ http://tv.proyectox.vip:8080/live/AliceA8977/LSQMzQcvIv/10632.ts
 ●●●●●
 #EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,ALVAR0TV NOTAS◉r
 http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
+
+#EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/hFxFspt/win-Sports.png" tvg-id="winsports.co" ,WIN SPORTS (M)
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/3115.ts
+
 #EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/hFxFspt/win-Sports.png" tvg-id="winsports.co" ,WIN SPORTS (P1)
 http://tv.proyectox.vip:8080/live/AliceA8977/LSQMzQcvIv/8505.ts
+
 #EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/hFxFspt/win-Sports.png" ,WIN SPORTS (0205)
 http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/69293.ts
 #EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/hFxFspt/win-Sports.png" ,WIN SPORTS (L1)
 http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/499075.ts
+
+#EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,WIN SPORTS +(M)
+http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/50262.ts
+
+
 #EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,WIN SPORTS+(cc)
 http://cord-cutter.net:8080/live/steventogo@gmail.com/steventogo@2022/78717.ts
+
+
 #EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,WIN SPORTS +(E1)
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/611250.ts
+
 #EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,WIN SPORTS +(D1)
 http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/1383.ts
-#EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,WIN SPORTS +(L1)
-http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/499077.ts
+
+
 #EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,WIN SPORTS +(P1)
 http://tv.proyectox.vip:8080/live/AliceA8977/LSQMzQcvIv/8512.ts
 #EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,WIN SPORTSB+ (V1)
