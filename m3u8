@@ -12,14 +12,13 @@ http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddf
 http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
 
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,STAR + 1◉
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/50006.ts
+http://daleplaypro.com:8080/live/020524.020202.052424./mjkN8LDcJYvn/116008.ts
 
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,STAR + 2 ◉
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/50007.ts
-
+http://daleplaypro.com:8080/live/020524.020202.052424./mjkN8LDcJYvn/161663.ts
 
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,STAR + 3 ◉
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/50009.ts
+http://daleplaypro.com:8080/live/020524.020202.052424./mjkN8LDcJYvn/161664.ts
 
 #EXTINF:-1 group-title="🔵EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/jRYSgrH/laLiga.png" ,LA LIGA◉
 http://tv.iprotv.live/live/ProYeCtoX998/NuevaProyectoRw/94804.ts
@@ -69,15 +68,14 @@ http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/499075.ts
 http://venuschiletv.lat:8880/live/ofmmepeiph/7hbetrPUAGbD/287807.ts
 
 #EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,WIN SPORTS +(3)
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/37305.ts
+http://daleplaypro.com:8080/live/020524.020202.052424./mjkN8LDcJYvn/1384.ts
 
 
 #EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/hFxFspt/win-Sports.png" tvg-id="winsports.co" ,WIN SPORTS (1)
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/3115.ts
 
 #EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/hFxFspt/win-Sports.png" ,WIN SPORTS (2)
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/7715.ts
-
+http://daleplaypro.com:8080/live/020524.020202.052424./mjkN8LDcJYvn/69293.ts
 
 #EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/hFxFspt/win-Sports.png" ,WIN SPORTS (3)
 http://cord-cutter.net:8080/live/steventogo@gmail.com/steventogo@2022/78717.ts
@@ -85,35 +83,31 @@ http://cord-cutter.net:8080/live/steventogo@gmail.com/steventogo@2022/78717.ts
 
 
 #EXTINF:-1 group-title="🔵ESPN" tvg-logo="https://i.ibb.co/C0QRh3G/espn-Deportes.png" , ESPN DEPORTES
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/53387.ts
+
 
 
 #EXTINF:-1 group-title="🔵ESPN" tvg-logo="https://i.ibb.co/k6zS6Bg/espn-Premium.png" , ESPN PREMIUM (1)
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/3085.ts
+
 
 #EXTINF:-1 group-title="🔵ESPN" tvg-logo="https://i.ibb.co/k6zS6Bg/espn-Premium.png" , ESPN PREMIUM (2)
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/6463.ts
 
 
-#EXTINF:-1 group-title="🔵ESPN" tvg-logo="https://i.ibb.co/k6zS6Bg/espn-Premium.png" , ESPN PREMIUM (3)
-http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
 
 #EXTINF:-1 group-title="🔵ESPN" tvg-logo="https://i.ibb.co/MskSZvR/espn1.png" ,ESPN (1)
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/51157.ts
+http://daleplaypro.com:8080/live/020524.020202.052424./mjkN8LDcJYvn/339542.ts
 
 #EXTINF:-1 group-title="🔵ESPN" tvg-logo="https://i.ibb.co/MskSZvR/espn1.png" ,ESPN (2)
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/7023.ts
 
 
 
 #EXTINF:-1 group-title="🔵ESPN" tvg-logo="https://i.ibb.co/MskSZvR/espn1.png" ,ESPN (3)
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/51155.ts
+
 
 #EXTINF:-1 group-title="🔵ESPN" tvg-logo="https://i.ibb.co/6WHF2dy/espn2.png" , ESPN 2 (1)
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/51156.ts
+http://daleplaypro.com:8080/live/020524.020202.052424./mjkN8LDcJYvn/339544.ts
 
 #EXTINF:-1 group-title="🔵ESPN" tvg-logo="https://i.ibb.co/6WHF2dy/espn2.png" , ESPN 2 (2)
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/3075.ts
+
 
 
 #EXTINF:-1 group-title="🔵ESPN" tvg-logo="https://i.ibb.co/6WHF2dy/espn2.png" , ESPN 2 (3)
@@ -122,37 +116,36 @@ http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddf
 
 
 #EXTINF:-1 group-title="🔵DIRECTV SPORTS" tvg-logo="https://i.ibb.co/7k9YG3N/directv-Sports.png" ,DIRECTV SPORTS (1)
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/52452.ts
 
 
 #EXTINF:-1 group-title="🔵DIRECTV SPORTS" tvg-logo="https://i.ibb.co/7k9YG3N/directv-Sports.png" ,DIRECTV SPORTS (2)
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/33608.ts
+
 
 #EXTINF:-1 group-title="🔵DIRECTV SPORTS" tvg-logo="https://i.ibb.co/7k9YG3N/directv-Sports.png" ,DIRECTV SPORTS (3)
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/51491.ts
+
 
 
 
 #EXTINF:-1 group-title="🔵DIRECTV SPORTS" tvg-logo="https://i.ibb.co/FDRMymB/directv-Sports2.png" ,DIRECTV SPORTS 2 (1)
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/37485.ts
+
 
 #EXTINF:-1 group-title="🔵DIRECTV SPORTS" tvg-logo="https://i.ibb.co/FDRMymB/directv-Sports2.png" ,DIRECTV SPORTS 2 (2)
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/37484.ts
+
 
 #EXTINF:-1 group-title="🔵DIRECTV SPORTS" tvg-logo="https://i.ibb.co/FDRMymB/directv-Sports2.png" ,DIRECTV SPORTS 2 (3)
 http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
 
 
 #EXTINF:-1 group-title="🔵SPORTS |TIGO|TNT|TUDN|BEIN|" tvg-logo="https://i.ibb.co/zQHLjvX/bein-Sports.png" ,BEIN SPORTS ñ (1)
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/3061.ts
+
 
 
 #EXTINF:-1 group-title="🔵SPORTS |TIGO|TNT|TUDN|BEIN|" tvg-logo="https://i.ibb.co/zQHLjvX/bein-Sports.png" ,BEIN SPORTS ñ (2)
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/3419.ts
+
 
 
 #EXTINF:-1 group-title="🔵SPORTS |TIGO|TNT|TUDN|BEIN|" tvg-logo="https://i.ibb.co/GcXMPSv/tudn.png" ,TUDN MEX (1)
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/57110.ts
+
 
 
 #EXTINF:-1 group-title="🔵SPORTS |TIGO|TNT|TUDN|BEIN|" tvg-logo="https://i.ibb.co/GcXMPSv/tudn.png" ,TUDN MEX (2)
@@ -161,33 +154,32 @@ http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddf
 
 
 #EXTINF:-1 group-title="🔵SPORTS |TIGO|TNT|TUDN|BEIN|" tvg-logo="https://i.ibb.co/GcXMPSv/tudn.png" ,TUDN USA (1)
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/57110.ts
+
 
 
 #EXTINF:-1 group-title="🔵ESPN" tvg-logo="https://i.ibb.co/89hyDpq/espn3.png" , ESPN 3
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/31026.ts
+
 
 #EXTINF:-1 group-title="🔵ESPN" tvg-logo="https://i.ibb.co/89hyDpq/espn3.png" , ESPN 3 (2)
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/3077.ts
+
 
 #EXTINF:-1 group-title="🔵ESPN" tvg-logo="https://i.ibb.co/89hyDpq/espn3.png" , ESPN 3 (3)
 http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
 
 
 #EXTINF:-1 group-title="🔵DIRECTV SPORTS" tvg-logo="https://i.ibb.co/r4CS6Jn/2directv-Sports-Plus.png" ,DIRECTV SPORTS +
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/32680.ts
+
 
 
 #EXTINF:-1 group-title="🔵DIRECTV SPORTS" tvg-logo="https://i.ibb.co/r4CS6Jn/2directv-Sports-Plus.png" ,DIRECTV SPORTS + (2)
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/31761.ts
 
 
 
 #EXTINF:-1 group-title="🔵ESPN" tvg-logo="https://i.ibb.co/SK3kHX6/espn4.png" , ESPN 4 (1)
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/50372.ts
+
+
 
 #EXTINF:-1 group-title="🔵ESPN" tvg-logo="https://i.ibb.co/SK3kHX6/espn4.png" , ESPN 4 (2)
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/50373.ts
 
 
 #EXTINF:-1 group-title="🔵ESPN" tvg-logo="https://i.ibb.co/SK3kHX6/espn4.png" , ESPN 4 (3)
@@ -195,51 +187,44 @@ http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddf
 
 
 #EXTINF:-1 group-title="🔵FOX DEPORTES" tvg-logo="https://i.ibb.co/fCqPczP/fox-Sports-Premium.png" ,FOX SPORTS (1)
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/3082.ts
 
 
 #EXTINF:-1 group-title="🔵FOX DEPORTES" tvg-logo="https://i.ibb.co/fCqPczP/fox-Sports-Premium.png" ,FOX SPORTS (2)
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/3087.ts
 
 
 #EXTINF:-1 group-title="🔵FOX DEPORTES" tvg-logo="https://i.ibb.co/P9VNWPB/fox-Sports2.png" , FOX SPORT 2 (1)
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/3090.ts
+
 
 
 #EXTINF:-1 group-title="🔵FOX DEPORTES" tvg-logo="https://i.ibb.co/P9VNWPB/fox-Sports2.png" ,FOX SPORT 2 (2)
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/76708.ts
+
 
 
 #EXTINF:-1 group-title="🔵FOX DEPORTES" tvg-logo="https://i.ibb.co/hWXPtPs/fox-Sports3.png" ,FOX SPORT 3 (1)
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/3092.ts
 
 
 #EXTINF:-1 group-title="🔵FOX DEPORTES" tvg-logo="https://i.ibb.co/hWXPtPs/fox-Sports3.png" ,FOX SPORT 3 (2)
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/76710.ts
+
 
 
 
 #EXTINF:-1 group-title="🔵ESPN" tvg-logo="https://i.ibb.co/R3hWPZ0/espn5.png" ,ESPN 5 (1)
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/52202.ts
 
 
 #EXTINF:-1 group-title="🔵ESPN" tvg-logo="https://i.ibb.co/R3hWPZ0/espn5.png" ,ESPN 5 (2)
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/76707.ts
 
 
 #EXTINF:-1 group-title="🔵ESPN" tvg-logo="https://i.ibb.co/R3hWPZ0/espn5.png" , ESPN 6
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/3084.ts
 
 
 #EXTINF:-1 group-title="🔵CLARO SPORTS" tvg-logo="https://i.ibb.co/G02z1wt/claro-Sports.png" ,CLARO SPORTS
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/39994.ts
+
 
 #EXTINF:-1 group-title="🔵CLARO SPORTS" tvg-logo="https://i.ibb.co/G02z1wt/claro-Sports.png" ,CLARO SPORT 2
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/39993.ts
 
 
 #EXTINF:-1 group-title="🔵SPORTS |TIGO|TNT|TUDN|BEIN|" tvg-logo="https://i.ibb.co/nQQx1Lw/tntSport.png" ,TNT SPORTS Chile
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/57155.ts
+
 
 #EXTINF:-1 group-title="🔵SPORTS |TIGO|TNT|TUDN|BEIN|" tvg-logo="https://i.ibb.co/nQQx1Lw/tntSport.png" ,TNT SPORTS Inter 1 
 http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
@@ -250,15 +235,12 @@ http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddf
 
 
 #EXTINF:-1 group-title="🔵SPORTS |TIGO|TNT|TUDN|BEIN|" tvg-logo="https://i.ibb.co/nQQx1Lw/tntSport.png" ,TNT SPORTS Arg
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/57163.ts
 
 
 #EXTINF:-1 group-title="🔵ESPN" tvg-logo="https://i.ibb.co/df4L29x/espn7.png" , ESPN 7 (1)
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/3083.ts
 
 
 #EXTINF:-1 group-title="🔵ESPN" tvg-logo="https://i.ibb.co/df4L29x/espn7.png" , ESPN 7 (2)
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/37134.ts
 
 
 #EXTINF:-1 group-title="🔵CINE PREMIUM" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,ALVAR0TV NOTAS◉r
@@ -266,22 +248,20 @@ http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddf
 
 
 #EXTINF:-1 group-title="🔵CINE PREMIUM" tvg-logo="https://i.ibb.co/CBQGF4L/hbo1.png" ,HBO
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/2642.ts
 
 #EXTINF:-1 group-title="🔵CINE PREMIUM" tvg-logo="https://i.ibb.co/CBQGF4L/hbo1.png" ,HBO (2)
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/2676.ts
+
 
 #EXTINF:-1 group-title="🔵CINE PREMIUM" tvg-logo="https://i.ibb.co/KDprzsd/hbo2.png" ,HBO 2
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/2643.ts
+
 
 #EXTINF:-1 group-title="🔵CINE PREMIUM" tvg-logo="https://i.ibb.co/KDprzsd/hbo2.png" ,HBO 2
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/2677.ts
 
 #EXTINF:-1 group-title="🔵CINE PREMIUM" tvg-logo="https://i.ibb.co/KDprzsd/hbo2.png" ,HBO 2 (2)
 http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
 
 #EXTINF:-1 group-title="🔵CINE PREMIUM" tvg-logo="https://i.ibb.co/wJFbnyX/hbo-Family.png" ,HBO Family
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/2644.ts
+
 
 #EXTINF:-1 group-title="🔵CINE PREMIUM" tvg-logo="https://i.ibb.co/wJFbnyX/hbo-Family.png" ,HBO Family (2)
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/7013.ts
