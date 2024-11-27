@@ -2,14 +2,15 @@
 
 
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,CARACOL TV
-http://defitv.fun/live/Brian1234/Brian1234/322153.ts
+http://cord-cutter.net:8080/live/steventogo@gmail.com/steventogo@2022/78700.ts
 
 
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,NTN24
-http://defitv.fun/live/Brian1234/Brian1234/496774.ts
+http://cord-cutter.net:8080/live/steventogo@gmail.com/steventogo@2022/78704.ts
 
 
-#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg"
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,RCN TV
+http://cord-cutter.net:8080/live/steventogo@gmail.com/steventogo@2022/78694.ts
 
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,NBC UNIVERSO
 http://defitv.fun/live/Brian1234/Brian1234/394089.ts
@@ -91,13 +92,15 @@ http://venuschiletv.lat:8880/live/ofmmepeiph/7hbetrPUAGbD/287807.ts
 #EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,WIN SPORTS +(3)
 http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/499075.ts
 #EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,WIN SPORTS +(4)
-http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
+http://cord-cutter.net:8080/live/steventogo@gmail.com/steventogo@2022/78697.ts
+
 #EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,WIN SPORTS +(5)
 http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
 #EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/hFxFspt/win-Sports.png" tvg-id="winsports.co" ,WIN SPORTS (1)
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/3115.ts
 #EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/hFxFspt/win-Sports.png" ,WIN SPORTS (2)
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/7715.ts
+http://cord-cutter.net:8080/live/steventogo@gmail.com/steventogo@2022/78717.ts
+
 #EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/hFxFspt/win-Sports.png" ,WIN SPORTS (3)
 ●●●
 #EXTINF:-1 group-title="🔵ESPN|FOX DEPORTES" tvg-logo="https://i.ibb.co/C0QRh3G/espn-Deportes.png" , ESPN DEPORTES
@@ -111,7 +114,8 @@ http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddf
 #EXTINF:-1 group-title="🔵ESPN|FOX DEPORTES" tvg-logo="https://i.ibb.co/MskSZvR/espn1.png" ,ESPN (1)
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/51157.ts
 #EXTINF:-1 group-title="🔵ESPN|FOX DEPORTES" tvg-logo="https://i.ibb.co/MskSZvR/espn1.png" ,ESPN (2)
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/7023.ts
+http://cord-cutter.net:8080/live/steventogo@gmail.com/steventogo@2022/86765.ts
+
 #EXTINF:-1 group-title="🔵ESPN|FOX DEPORTES" tvg-logo="https://i.ibb.co/MskSZvR/espn1.png" ,ESPN (3)
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/51155.ts
 #EXTINF:-1 group-title="🔵ESPN|FOX DEPORTES" tvg-logo="https://i.ibb.co/6WHF2dy/espn2.png" , ESPN 2 (1)
