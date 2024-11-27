@@ -1,19 +1,19 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,CARACOL TV
-http://cord-cutter.net:8080/live/steventogo@gmail.com/steventogo@2022/78700.ts
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,CARACOL HD
+http://tvlatino.club:2082/live/TELE519900/Xnt539gASGQB/148808.ts
 
 
-#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,NTN24
-http://cord-cutter.net:8080/live/steventogo@gmail.com/steventogo@2022/78704.ts
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,CARACOL HD2
+http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/659842.ts
 
 
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,RCN TV
-http://cord-cutter.net:8080/live/steventogo@gmail.com/steventogo@2022/78694.ts
+http://tvlatino.club:2082/live/TELE519900/Xnt539gASGQB/19.ts
 
-#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,NBC UNIVERSO
-http://defitv.fun/live/Brian1234/Brian1234/394089.ts
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,LA KALLE CO
+http://tvlatino.club:2082/live/TELE519900/Xnt539gASGQB/342442.ts
 
 
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,TELEMUNDO NY
@@ -85,6 +85,10 @@ http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddf
 ●●●●●
 #EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,ALVAR0TV NOTAS◉r
 http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
+
+#EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,WIN SPORTS +(alvarotv)
+http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/659900.ts
+
 #EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,WIN SPORTS +(1)
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/37305.ts
 #EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,WIN SPORTS +(2)
@@ -102,7 +106,13 @@ http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/3115.ts
 http://cord-cutter.net:8080/live/steventogo@gmail.com/steventogo@2022/78717.ts
 
 #EXTINF:-1 group-title="🔵WIN SPORTS" tvg-logo="https://i.ibb.co/hFxFspt/win-Sports.png" ,WIN SPORTS (3)
+
+
+
 ●●●
+
+
+
 #EXTINF:-1 group-title="🔵ESPN|FOX DEPORTES" tvg-logo="https://i.ibb.co/C0QRh3G/espn-Deportes.png" , ESPN DEPORTES
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/53387.ts
 #EXTINF:-1 group-title="🔵ESPN|FOX DEPORTES" tvg-logo="https://i.ibb.co/k6zS6Bg/espn-Premium.png" , ESPN PREMIUM (1)
@@ -111,19 +121,37 @@ http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/3085.ts
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/6463.ts
 #EXTINF:-1 group-title="🔵ESPN|FOX DEPORTES" tvg-logo="https://i.ibb.co/k6zS6Bg/espn-Premium.png" , ESPN PREMIUM (3)
 http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
+
+#EXTINF:-1 group-title="🔵ESPN|FOX DEPORTES" tvg-logo="https://i.ibb.co/MskSZvR/espn1.png" ,ESPN (alvarotv)
+http://altv1.top/live/952951/key5f0e5x0L/313127.ts
+
 #EXTINF:-1 group-title="🔵ESPN|FOX DEPORTES" tvg-logo="https://i.ibb.co/MskSZvR/espn1.png" ,ESPN (1)
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/51157.ts
+
 #EXTINF:-1 group-title="🔵ESPN|FOX DEPORTES" tvg-logo="https://i.ibb.co/MskSZvR/espn1.png" ,ESPN (2)
 http://cord-cutter.net:8080/live/steventogo@gmail.com/steventogo@2022/86765.ts
 
 #EXTINF:-1 group-title="🔵ESPN|FOX DEPORTES" tvg-logo="https://i.ibb.co/MskSZvR/espn1.png" ,ESPN (3)
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/51155.ts
+
+
+#EXTINF:-1 group-title="🔵ESPN|FOX DEPORTES" tvg-logo="https://i.ibb.co/6WHF2dy/espn2.png" , ESPN 2 (alvarotv)
+http://altv1.top/live/952951/key5f0e5x0L/197963.ts
+
+
 #EXTINF:-1 group-title="🔵ESPN|FOX DEPORTES" tvg-logo="https://i.ibb.co/6WHF2dy/espn2.png" , ESPN 2 (1)
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/51156.ts
 #EXTINF:-1 group-title="🔵ESPN|FOX DEPORTES" tvg-logo="https://i.ibb.co/6WHF2dy/espn2.png" , ESPN 2 (2)
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/3075.ts
 #EXTINF:-1 group-title="🔵ESPN|FOX DEPORTES" tvg-logo="https://i.ibb.co/6WHF2dy/espn2.png" , ESPN 2 (3)
+
+
 ●●●●●
+
+
+#EXTINF:-1 group-title="🔵ESPN|FOX DEPORTES" tvg-logo="https://i.ibb.co/89hyDpq/espn3.png" , ESPN 3 (alvarotv)
+http://altv1.top/live/952951/key5f0e5x0L/197964.ts
+
 #EXTINF:-1 group-title="🔵ESPN|FOX DEPORTES" tvg-logo="https://i.ibb.co/89hyDpq/espn3.png" , ESPN 3
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/31026.ts
 #EXTINF:-1 group-title="🔵ESPN|FOX DEPORTES" tvg-logo="https://i.ibb.co/89hyDpq/espn3.png" , ESPN 3 (2)
@@ -284,7 +312,7 @@ http://defitv.fun/live/Brian1234/Brian1234/496724.ts
 #EXTINF:-1 group-title="🔵DOCUMENTALES" tvg-logo="https://i.ibb.co/4MsfwJj/cnn.png" ,CNN Internacional
 http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
 #EXTINF:-1 group-title="🔵DOCUMENTALES" tvg-logo="https://i.ibb.co/26CXSQt/discovery-Channel.png" ,DISCOVERY CHANNEL
-http://defitv.fun/live/Brian1234/Brian1234/50065.ts
+http://tvlatino.club:2082/live/TELE519900/Xnt539gASGQB/351683.ts
 
 #EXTINF:-1 group-title="🔵DOCUMENTALES" tvg-logo="https://i.ibb.co/26CXSQt/discovery-Channel.png" ,Discovery Channel (2)
 http://tv.iprotv.live/live/ProYeCtoX998/NuevaProyectoRw/94862.ts
