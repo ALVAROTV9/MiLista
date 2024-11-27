@@ -4,6 +4,12 @@
 
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,ALVAR0TV NOTAS◉r
 http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
+
+
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/VTRnftb/caraxoltv.png" tvg-id="Caracol.co" ,CARACOL HD²
+http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/148808.ts
+
+
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,STAR + 1◉
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/50006.ts
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,STAR + 2 ◉
@@ -224,20 +230,134 @@ http://altv1.top/live/952951/key5f0e5x0L/232489.ts
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/SQZc624/alvarotv9-Adult.png" ,CINE ADULTO 7
 http://altv1.top/live/952951/key5f0e5x0L/232490.ts
 
-#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/VTRnftb/caraxoltv.png" tvg-id="Caracol.co" ,CARACOL HD²
-http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/148808.ts
-
-#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,RCN
-http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/148368.ts
 
 
+
+
+
+
+
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,DALEPLAY
+http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
+
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.postimg.cc/cLhJHFRZ/ESPN1.png" tvg-id="ESPN.Latin.South.Andina.(ESPNS)..ec" ,ɆSPN HD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/339542
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.postimg.cc/cCPnFXDP/ESPN-2.png" tvg-id="785048.peru" ,ɆSPN 2 HD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/339544
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.postimg.cc/59q981v9/ESPN-3.png" tvg-id="785100.peru" ,ESPN 3 SD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/339547
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.postimg.cc/PfM7Ybbc/ESPN-4.png" tvg-id="785030.peru" ,ESPN 4 HD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/339548
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.postimg.cc/Zn069hxJ/ESPN-5.png" tvg-id="785028.peru" ,ɆSPN 5 HD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/339550
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.postimg.cc/W1Z66TL3/ESPN-6.png" tvg-id="785061.peru" ,ɆSPN 6 HD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/339552
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.postimg.cc/0jN0pSPR/ESPN-7.png" tvg-id="785029.peru" ,ɆSPN 7 HD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/339554
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.postimg.cc/KYBb2kX2/ESPN-Premium.png" ,ESPN PREMIUM HD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/339558
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.postimg.cc/8z8DnB3H/ESPN-MEX.png" ,MX | ESPN 1 HD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/339560
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.postimg.cc/rFM7dnv7/ESPN-2-MX.png" ,MX | ESPN 2 HD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/401651
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.postimg.cc/g2B7TYnP/ESPN-3-MX.png" ,MX | ESPN 3 HD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/339564
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.postimg.cc/BbGHGk6k/WINMAS.png" ,CO | WIN SPORTS +  HD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/1384
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.postimg.cc/RCWkD85G/WINSPORTS.png" tvg-id="WinSports.co" ,CO | Win Sports  HD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/69293
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.postimg.cc/BbGHGk6k/WINMAS.png" ,Win Sports+ 4K
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/156193
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-id="M+ Vamos" ,**M0VISTAR VAMOS**
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/110165
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXNldy3JyfrrWQzspIJ0VMTCkahqDrNa28nA&usqp=CAU" ,ES | M+DEPORTES 1 HD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/144051
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://cablego.com.pe/cache/logos/ANIMALPLANET.png" ,ANIMAL PLANET
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/394237
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://cablego.com.pe/cache/logos/FOXNEWS.png" ,F0X NEWS
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/394283
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://cablego.com.pe/cache/logos/NOTICIASCARACOL.png" ,NOTICIAS CARACOL
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/394306
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://cablego.com.pe/cache/logos/TELEMUNDO.png" ,TELEMUNDO
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/394319
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://cablego.com.pe/cache/logos/TRECEARGENTINA.png" ,TRECE ARGENTINA
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/394322
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://cablego.com.pe/cache/logos/PANAMERICANATV.png" ,PANAMERICANA TV
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/394307
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://depor.com/resizer/6tryzAObiAS9IvQEe2x-lnzhMbo=/1200x675/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/6WH6BBUFOZFCLD53M5SYESMZPU.png" tvg-id="152dtv.cl" ,EC l 𝗘̶𝗖̶𝗗̶𝗙̶ 𝗛̶𝗗̶
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/116000
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.ibb.co/jyJgkph/LIGAMAX.png" tvg-id="1131243.peru" ,PE| LIGA 1 MAX⚽ HD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/330755
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.ibb.co/8401WLB/DSPORTS.png" tvg-id="605" ,PE| D$PORTS 1 HD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/330777
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.ibb.co/dK8w372/DSPORTS-2.png" tvg-id="3082dtv.cl" ,PE| D$PORTS 2 HD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/330779
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.ibb.co/Hq2s85F/D-SPORTS.png" tvg-id="3081dtv.cl" ,PE| D$PORTS + HD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/330781
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.postimg.cc/XYg8xMBg/IMG-8330.png" tvg-id="M+ Liga de Campeones" ,ES | *M+LIGA DE CAMPEONES*
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/144048
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.postimg.cc/XYg8xMBg/IMG-8330.png" tvg-id="M+ Liga de Campeones 2 UHD" ,ES | M+LIGA DE CAMPEONES 2 HD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/147937
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.postimg.cc/XYg8xMBg/IMG-8330.png" tvg-id="LA 1" ,ES | M+LIGA DE CAMPEONES 3
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/147941
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.postimg.cc/XYg8xMBg/IMG-8330.png" ,LIGA CAMPEONES 7 HD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/318839
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.postimg.cc/XYg8xMBg/IMG-8330.png" ,LIGA CAMPEONES 8
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/318840
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.postimg.cc/8CPfscB9/DC.png" ,Discovery Channel HD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/53457
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.postimg.cc/ryZBMDFD/photo-output.jpg" ,Discovery Investigation HD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/53462
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.postimg.cc/Hn3ghYFD/DW.png" ,DISCOVERY World HD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/53470
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.postimg.cc/tgYp5dFW/HHD.jpg" ,HISTORY HD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/53481
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.postimg.cc/sxRzstq4/HC2-HD.jpg" ,History 2 HD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/53483
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.postimg.cc/JhDCJrWQ/NGFHD.jpg" ,NATIONAL Geographic FHD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/53489
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.postimg.cc/D0h9t14C/APHD.jpg" ,ANIMAL Planet HD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/54172
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.postimg.cc/RhdWgZsD/HBOSHD.png" tvg-id="528" ,CINE  | HBO SIGNATURE HD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/45
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSFTnuKd-uu1XQztepY5vFZUBhKCp8-Okbsg&usqp=CAU" tvg-id="526" ,CINE  | HBO PLUS  HD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/49
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.postimg.cc/MZnCBTMX/HBOPFHD.png" tvg-id="541dtv.cl" ,CINE  | HBO POP  FHD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/1241
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.postimg.cc/R00dyGnG/CCFHD.png" tvg-id="507" ,CINE | CINECANAL  FHD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/1251
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.postimg.cc/tCG4k41C/WFHD.png" tvg-id="1206dtv.cl" ,CINE | WARNER  FHD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/1258
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.postimg.cc/qMZZZ5Jv/SPFHD.png" tvg-id="518dtv.ar" ,CINE | SPACE CHANEL  FHD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/1280
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJq1YUknstlcWYR_a39Pbh-VKNQP_noF_rDg&usqp=CAU" tvg-id="217dtv.cl" ,CINE | FX  FHD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/1274
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.postimg.cc/kXBckKvy/GFHD.png" tvg-id="503dtv.cl" ,CINE | GOLDEN  FHD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/1286
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_MXCN8YTJUs_t4zTDTivh73cIHqA2A3Drw&usqp=CAU" tvg-id="517dtv.cl" ,CINE | GOLDEN EDG  FHD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/1289
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.postimg.cc/Fzwq841y/PREFHD.png" tvg-id="I341.80596.schedulesdirect.org" ,CINE | GOLDEN PREMIER  FHD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/1292
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUkFenrLxGFpEKOzzTEl2crLHBNePJehWFQ&usqp=CAU" tvg-id="1503dtv.cl" ,CINE GOLDEN PLUS FHD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/53940
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.postimg.cc/PqFhMN1J/UHD.png" tvg-id="1573dtv.cl" ,P | UNIVERSAL COMEDY HD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/111417
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.postimg.cc/TYgWKvgB/UPREHD.png" tvg-id="576" ,P | UNIVERSAL PREMIER HD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/111419
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.postimg.cc/9f38GhnT/URHD.png" ,P | UNIVERSAL REALITY HD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/111420
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.postimg.cc/W1VS3nF6/UCHDD.png" tvg-id="1572dtv.cl" ,P | UNIVERSAL CINEMA HD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/111421
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.postimg.cc/rFQrLNkP/UCHD.png" ,P | UNIVERSAL CRIMEN HD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/111422
+#EXTINF:-1 group-title="🔵DALEPLAY" tvg-logo="https://i.postimg.cc/YCPMLDkm/ccsd.png" tvg-id="507" ,CINE | CINECANAL  SD
+http://daleplaypro.com:8080/020524.020202.052424./mjkN8LDcJYvn/1253
 
 
 
 
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,VENUS TV
 http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
-
 
 #EXTINF:-1 group-title="🔵VENUTSTV" tvg-logo="http://goldfull.pro:8880/images/818476414e6d47a629a2a804420815e6.png" ,24/7 Infantiles
 http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/305779
