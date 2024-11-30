@@ -130,34 +130,52 @@ http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/67304.ts
 http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,RCN
 http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
-#EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,STAR + 1◉
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/50006.ts
-#EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,STAR + 2 ◉
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/50007.ts
-#EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,STAR + 3 ◉
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/50009.ts
+
+
+
+#EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,PPV + 1◉
+http://ad.v166.xyz:80/live/me412678/Qsy56g4meMGB/790468.ts
+
+#EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,PPV + 2 ◉
+http://ad.v166.xyz:80/live/me412678/Qsy56g4meMGB/790470.ts
+
+#EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,PPV + 3 ◉
+http://ad.v166.xyz:80/live/me412678/Qsy56g4meMGB/790471.ts
+
+
+
 #EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/jRYSgrH/laLiga.png" ,LA LIGA◉
-http://tv.iprotv.live/live/ProYeCtoX998/NuevaProyectoRw/94804.ts
+http://ad.v166.xyz:80/live/me412678/Qsy56g4meMGB/953837.ts
+
 #EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/25n2c5D/premier-League.png" ,PREMIER LEAGUE◉
 http://31.42.187.37:25461/live/watchpad13158/1234/19049.ts
+
 #EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/HxF4nbr/champions-League.png" ,CHAMPIONS LEAGUE
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/49752.ts
-#EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS VARIADO ★
-http://31.42.187.37:25461/live/watchpad13158/1234/112.ts
+http://ultra-latino.com:8080/live/CARDENASJOSE/DDWTW/247083.ts
+
+
+
 #EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS VARIADO 1 ★
 http://altv1.top/live/952951/key5f0e5x0L/432879.ts
+
 #EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS VARIADO 2 ★
 http://altv1.top/live/952951/key5f0e5x0L/261070.ts
+
 #EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS VARIADO 3 ★
 http://altv1.top/live/952951/key5f0e5x0L/261070.ts
+
 #EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS VARIADO 4 ★
 http://altv1.top/live/952951/key5f0e5x0L/261068.ts
+
 #EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS VARIADO 5 ★
 http://altv1.top/live/952951/key5f0e5x0L/261067.ts
+
 #EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS VARIADO 6 ★
 http://altv1.top/live/952951/key5f0e5x0L/428410.ts
+
 #EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS VARIADO 7 ★
 http://altv1.top/live/952951/key5f0e5x0L/261065.ts
+
 #EXTINF:-1 group-title="🌍DEPORTES⭐" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" ,COL• WIN SPORTS+ (HD) »1«
 http://canal-pro.xyz:8080/956358043tv/7j5938/359
 #EXTINF:-1 group-title="🌍DEPORTES⭐" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" ,COL• WIN SPORTS+ (HD) »2«
