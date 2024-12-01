@@ -5,13 +5,16 @@ EXTM3U x-tvg-url="http://venuschiletv.lat:8880/xmltv.php?username=ofmmepeiph&pas
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,ALVAR0TV NOTAS◉r
 http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,WIN SPORTS +(1)
-http://tvlatino.club:2082/live/cWkSA9BN59vc/JYQmP22TCptR/499075.ts
+http://cord-cutter.net:8080/live/sY6kSEQnpF/YciGw9rYxJ/78697.ts
+
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/hFxFspt/win-Sports.png" tvg-id="winsports.co" ,WIN SPORTS (1)
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/3115.ts
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/k6zS6Bg/espn-Premium.png" , ESPN PREMIUM (1)
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/3085.ts
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/MskSZvR/espn1.png" ,ESPN (1)
-http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/51157.ts
+http://cord-cutter.net:8080/live/sY6kSEQnpF/YciGw9rYxJ/86765.ts
+
+
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/6WHF2dy/espn2.png" , ESPN 2 (1)
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/51156.ts
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/7k9YG3N/directv-Sports.png" ,DIRECTV SPORTS (1)
@@ -129,7 +132,8 @@ http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/47837.ts
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/4gZJ8gP/cartoon-Net.png" ,CARTOON NETWORK
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/67304.ts
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/VTRnftb/caraxoltv.png" tvg-id="Caracol.co" ,CARACOL HD²
-http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
+http://cord-cutter.net:8080/live/sY6kSEQnpF/YciGw9rYxJ/78700.ts
+
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/fHFLVR6/alvarotv9.png" ,RCN
 http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
 
