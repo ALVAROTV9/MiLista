@@ -1,9 +1,34 @@
-EXTM3U x-tvg-url="http://venuschiletv.lat:8880/xmltv.php?username=ofmmepeiph&password=7hbetrPUAGbD"
+#EXTM3U x-tvg-url="http://venuschiletv.lat:8880/xmltv.php?username=ofmmepeiph&password=7hbetrPUAGbD"
+
+
+#EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,PPV + 1◉
+http://ad.v166.xyz:80/live/me412678/Qsy56g4meMGB/790468.ts
+
+#EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,PPV + 2 ◉
+http://ad.v166.xyz:80/live/me412678/Qsy56g4meMGB/790470.ts
+
+#EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,PPV + 3 ◉
+http://ad.v166.xyz:80/live/me412678/Qsy56g4meMGB/790471.ts
+
+#EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/jRYSgrH/laLiga.png" ,LA LIGA◉
+http://ad.v166.xyz:80/live/me412678/Qsy56g4meMGB/953837.ts
+
+#EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/25n2c5D/premier-League.png" ,PREMIER LEAGUE◉
+http://31.42.187.37:25461/live/watchpad13158/1234/19049.ts
+
+#EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/HxF4nbr/champions-League.png" ,CHAMPIONS LEAGUE
+http://ultra-latino.com:8080/live/CARDENASJOSE/DDWTW/247083.ts
+
+#EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS VARIADO 1 ★
+http://altv1.top/live/952951/key5f0e5x0L/432879.ts
 
 
 
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,ALVAR0TV NOTAS◉r
 http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
+
+
+
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,WIN SPORTS +(1)
 http://cord-cutter.net:8080/live/sY6kSEQnpF/YciGw9rYxJ/78697.ts
 
@@ -138,49 +163,6 @@ http://cord-cutter.net:8080/live/sY6kSEQnpF/YciGw9rYxJ/78700.ts
 http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
 
 
-
-#EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,PPV + 1◉
-http://ad.v166.xyz:80/live/me412678/Qsy56g4meMGB/790468.ts
-
-#EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,PPV + 2 ◉
-http://ad.v166.xyz:80/live/me412678/Qsy56g4meMGB/790470.ts
-
-#EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,PPV + 3 ◉
-http://ad.v166.xyz:80/live/me412678/Qsy56g4meMGB/790471.ts
-
-
-
-#EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/jRYSgrH/laLiga.png" ,LA LIGA◉
-http://ad.v166.xyz:80/live/me412678/Qsy56g4meMGB/953837.ts
-
-#EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/25n2c5D/premier-League.png" ,PREMIER LEAGUE◉
-http://31.42.187.37:25461/live/watchpad13158/1234/19049.ts
-
-#EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/HxF4nbr/champions-League.png" ,CHAMPIONS LEAGUE
-http://ultra-latino.com:8080/live/CARDENASJOSE/DDWTW/247083.ts
-
-
-
-#EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS VARIADO 1 ★
-http://altv1.top/live/952951/key5f0e5x0L/432879.ts
-
-#EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS VARIADO 2 ★
-http://altv1.top/live/952951/key5f0e5x0L/261070.ts
-
-#EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS VARIADO 3 ★
-http://altv1.top/live/952951/key5f0e5x0L/261070.ts
-
-#EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS VARIADO 4 ★
-http://altv1.top/live/952951/key5f0e5x0L/261068.ts
-
-#EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS VARIADO 5 ★
-http://altv1.top/live/952951/key5f0e5x0L/261067.ts
-
-#EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS VARIADO 6 ★
-http://altv1.top/live/952951/key5f0e5x0L/428410.ts
-
-#EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,EVENTOS VARIADO 7 ★
-http://altv1.top/live/952951/key5f0e5x0L/261065.ts
 
 
 #EXTINF:-1 group-title="⭐️ DEPORTE VIP" tvg-logo="http://goldfull.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" ,DEPORTES | ESPN 1
