@@ -2,6 +2,8 @@
 *Lista gratis de varios Servidores iptv
 de uso personal, Diariamente Actualizada**
 
+#EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,ALVAR0TV◉
+http://embed-cloudfront.wistia.com/deliveries/7ec52f0924550f85146519fbe25eda8f11ba2270.m3u8
 
 #EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,PPV + 1◉
 http://cord-cutter.net:8080/live/sY6kSEQnpF/YciGw9rYxJ/167742.ts
@@ -37,6 +39,7 @@ http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609321.ts
 #EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,PPV VARIADO 4◉
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609320.ts
 
+
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,ALVAR0TV◉
 http://embed-cloudfront.wistia.com/deliveries/7ec52f0924550f85146519fbe25eda8f11ba2270.m3u8
 
@@ -48,6 +51,7 @@ http://cord-cutter.net:8080/live/sY6kSEQnpF/YciGw9rYxJ/78697.ts
 
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/hFxFspt/win-Sports.png" tvg-id="winsports.co" ,WIN SPORTS (1)
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/3115.ts
+
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/k6zS6Bg/espn-Premium.png" , ESPN PREMIUM (1)
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/3085.ts
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/MskSZvR/espn1.png" ,ESPN (1)
@@ -56,6 +60,7 @@ http://cord-cutter.net:8080/live/sY6kSEQnpF/YciGw9rYxJ/86765.ts
 
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/6WHF2dy/espn2.png" , ESPN 2 (1)
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/51156.ts
+
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/7k9YG3N/directv-Sports.png" ,DIRECTV SPORTS (1)
 http://mundod.ddns.me:2082/live/PluxxEsRestream2024/dJ9xJK26GzKX/52452.ts
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/FDRMymB/directv-Sports2.png" ,DIRECTV SPORTS 2 (1)
