@@ -2,6 +2,10 @@
 *Lista gratis de varios Servidores iptv
 de uso personal, Diariamente Actualizada**
 
+#EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,ALVAR0TV◉
+http://embed-cloudfront.wistia.com/deliveries/b08c6b7aec8727018fce57d6438946615ee97248.m3u8
+
+
 
 #EXTINF:-1 group-title="馃煝DEPORTES EUROPA" tvg-logo="http://logo.ottcst.info/WINSPORTS.png" ,|COLOMBIA| WINSPORTS HD
 http://line.ottcst.org:80/SIBIIPTVBO/GRJDGDYYME&output=ts/7655
@@ -136,7 +140,7 @@ http://line.ottcst.org:80/SIBIIPTVBO/GRJDGDYYME&output=ts/7742
 
 
 #EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,ALVAR0TV◉
-http://embed-cloudfront.wistia.com/deliveries/7ec52f0924550f85146519fbe25eda8f11ba2270.m3u8
+http://embed-cloudfront.wistia.com/deliveries/b08c6b7aec8727018fce57d6438946615ee97248.m3u8
 
 #EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,PPV + 1◉
 http://cord-cutter.net:8080/live/sY6kSEQnpF/YciGw9rYxJ/167742.ts
