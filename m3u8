@@ -139,8 +139,6 @@ http://line.ottcst.org:80/SIBIIPTVBO/GRJDGDYYME&output=ts/4906
 http://line.ottcst.org:80/SIBIIPTVBO/GRJDGDYYME&output=ts/7742
 
 
-#EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,ALVAR0TV◉
-http://embed-cloudfront.wistia.com/deliveries/b08c6b7aec8727018fce57d6438946615ee97248.m3u8
 
 #EXTINF:-1 group-title="🔵EVENTOS" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,PPV + 1◉
 http://cord-cutter.net:8080/live/sY6kSEQnpF/YciGw9rYxJ/167742.ts
@@ -177,10 +175,7 @@ http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609321.ts
 http://elitestreamz.xyz:3050/live/SeanP/FzHFqAdHv6/609320.ts
 
 
-#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,ALVAR0TV◉
-http://embed-cloudfront.wistia.com/deliveries/7ec52f0924550f85146519fbe25eda8f11ba2270.m3u8
-
-#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,ALVAR0TV CONTACTO◉
+#EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,ALVAR0TV CONTACTO◉
 http://embed-cloudfront.wistia.com/deliveries/19fdd5278ed35282cd98db7da084fb9ddfcda911.m3u8
 
 #EXTINF:-1 group-title="🔵ALVAROTV" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,WIN SPORTS +(1)
