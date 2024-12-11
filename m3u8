@@ -3,20 +3,40 @@
 de uso personal, Diariamente Actualizada**
 
 
-#EXTINF:-1 group-title="⭐️ESTRENOS DICIEMBRE2024" tvg-logo="https://es.web.img2.acsta.net/c_210_280/img/40/c0/40c00e8d614bdc0efcda2f502afb2a12.jpg" ,El Señor De Los Anillos
-http://sdmx.vip/movie/Nadia/Nadia/2149995.mkv
 
-#EXTINF:-1 group-title="⭐️ESTRENOS DICIEMBRE2024" tvg-logo="https://es.web.img3.acsta.net/c_210_280/img/4a/a3/4aa3265d76c8d07e0315f48a76205386.jpg" ,WICKED
-http://sdmx.vip/movie/Nadia/Nadia/2388427.mp4
+#EXTINF:-1 group-title="DICIEMBRE DE ESTRENOS" tvg-logo="https://image.tmdb.org/t/p/w400/dpskAcm71w5v8zQ8RmPmJiP31Om.jpg" ,Código: Traje rojo | HDCam
+http://daleplaypro.com:8080/movie/020524.020202.052424./mjkN8LDcJYvn/417218.mp4
+
+#EXTINF:-1 group-title="DICIEMBRE DE ESTRENOS" tvg-logo="https://image.tmdb.org/t/p/w400/vK1sK1B3WglfgVWPn6Xj4nNsw1q.jpg" ,Gladiador II HDCam
+http://daleplaypro.com:8080/movie/020524.020202.052424./mjkN8LDcJYvn/418530.mp4
+
+#EXTINF:-1 group-title="DICIEMBRE DE ESTRENOS" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kXmpB6xDj34l03s8YG4gFIF1Rgl.jpg" ,Gladiador II V2
+http://daleplaypro.com:8080/movie/020524.020202.052424./mjkN8LDcJYvn/423158.mp4
+
+#EXTINF:-1 group-title="DICIEMBRE DE ESTRENOS" tvg-logo="https://image.tmdb.org/t/p/w400/q1czoLwMaiUO1bznWuETCP5ueZj.jpg" ,Wicked | HDCam sin anuncios
+http://daleplaypro.com:8080/movie/020524.020202.052424./mjkN8LDcJYvn/425713.mp4
+
+#EXTINF:-1 group-title="DICIEMBRE DE ESTRENOS" tvg-logo="https://image.tmdb.org/t/p/w400/f4voSsbPTvaQwicwd1dyxICow6c.jpg" ,Moana 2 | FHDCam TS
+http://daleplaypro.com:8080/movie/020524.020202.052424./mjkN8LDcJYvn/427092.mp4
+
+#EXTINF:-1 group-title="DICIEMBRE DE ESTRENOS" tvg-logo="https://image.tmdb.org/t/p/w400/tXD5OCA0APsQNcjVdyl9COrwTfx.jpg" ,Hereje | SDCam Sin Anuncios
+http://daleplaypro.com:8080/movie/020524.020202.052424./mjkN8LDcJYvn/435106.mp4
+
+#EXTINF:-1 group-title="DICIEMBRE DE ESTRENOS" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zBzF2Pe9XfEq4cSIjNyCB8Gm6EG.jpg" ,Turno nocturno
+http://daleplaypro.com:8080/movie/020524.020202.052424./mjkN8LDcJYvn/435208.mp4
+
+#EXTINF:-1 group-title="DICIEMBRE DE ESTRENOS" tvg-logo="https://image.tmdb.org/t/p/w400/mD2m6Lr7GtyBv85EP1s0dQHQo1X.jpg" ,El señor de los anillos: La guerra de los Rohirrim
+
+
+#EXTINF:-1 group-title="DICIEMBRE DE ESTRENOS" tvg-logo="https://image.tmdb.org/t/p/w400/diPEcLFEb1uuUpApol1Bit6ck3l.jpg" ,SOLO LEVELING -segundo despertar-
+http://daleplaypro.com:8080/movie/020524.020202.052424./mjkN8LDcJYvn/435249.mp4
+
 
 #EXTINF:-1 group-title="EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,INFORMACION AQUI
 http://embed-cloudfront.wistia.com/deliveries/cd9c4e7aff7c82ddc73920cc36bea2fa742c2af9.m3u8
 
-
-
 #EXTINF:-1 group-title="EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,PPV + 
 http://embed-cloudfront.wistia.com/deliveries/b08c6b7aec8727018fce57d6438946615ee97248.m3u8
-
 
 #EXTINF:-1 group-title="EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/25n2c5D/premier-League.png" ,Premier League Hd
 http://medotv.nl:8000/live/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115492.ts
