@@ -39,7 +39,7 @@ http://embed-cloudfront.wistia.com/deliveries/cd9c4e7aff7c82ddc73920cc36bea2fa74
 http://embed-cloudfront.wistia.com/deliveries/b08c6b7aec8727018fce57d6438946615ee97248.m3u8
 
 #EXTINF:-1 group-title="EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,PPV + 
-http://customer-klxke6nl22colsu4.cloudflarestream.com/7b88447b9e351389e86b9ccc6cbc4f40/manifest/video.m3u8
+http://embed-cloudfront.wistia.com/deliveries/51c85ff262df48f084b5508e0a704e8de4f66b9e.m3u8
 
 #EXTINF:-1 group-title="EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/25n2c5D/premier-League.png" ,Premier League Hd
 http://medotv.nl:8000/live/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115492.ts
