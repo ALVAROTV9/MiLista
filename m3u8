@@ -38,7 +38,11 @@ http://embed-cloudfront.wistia.com/deliveries/51c85ff262df48f084b5508e0a704e8de4
 http://embed-cloudfront.wistia.com/deliveries/cd9c4e7aff7c82ddc73920cc36bea2fa742c2af9.m3u8
 
 #EXTINF:-1 group-title="EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,PPV + 
-http://embed-cloudfront.wistia.com/deliveries/b08c6b7aec8727018fce57d6438946615ee97248.m3u8
+
+https://www.dl.dropboxusercontent.com/scl/fi/36ksme3xk6ygygv912t30/AnaGabrielConcierto.mp4?rlkey=wu9csy7ihbut4jutikh8e8xoz&st=dus77gnj&dl=0
+
+
+
 
 #EXTINF:-1 group-title="EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,PPV + 
 http://embed-cloudfront.wistia.com/deliveries/51c85ff262df48f084b5508e0a704e8de4f66b9e.m3u8
