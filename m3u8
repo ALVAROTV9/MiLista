@@ -3,6 +3,14 @@
 de uso personal, Diariamente Actualizada**
 
 
+#EXTINF:-1 group-title="🔴🟢🔵ALVAROTV" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,ALVAROTV
+http://embed-cloudfront.wistia.com/deliveries/51c85ff262df48f084b5508e0a704e8de4f66b9e.m3u8
+
+#EXTINF:-1 group-title="🔴🟢🔵ALVAROTV" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,PIDE TU EVENTO
+http://embed-cloudfront.wistia.com/deliveries/cd9c4e7aff7c82ddc73920cc36bea2fa742c2af9.m3u8
+
+
+
 #EXTINF:-1 group-title="DICIEMBRE DE ESTRENOS" tvg-logo="https://image.tmdb.org/t/p/w400/dpskAcm71w5v8zQ8RmPmJiP31Om.jpg" ,Código: Traje rojo | HDCam
 http://daleplaypro.com:8080/movie/020524.020202.052424./mjkN8LDcJYvn/417218.mp4
 
@@ -30,57 +38,20 @@ http://daleplaypro.com:8080/movie/020524.020202.052424./mjkN8LDcJYvn/435208.mp4
 #EXTINF:-1 group-title="DICIEMBRE DE ESTRENOS" tvg-logo="https://image.tmdb.org/t/p/w400/diPEcLFEb1uuUpApol1Bit6ck3l.jpg" ,SOLO LEVELING -segundo despertar-
 http://daleplaypro.com:8080/movie/020524.020202.052424./mjkN8LDcJYvn/435249.mp4
 
-#EXTINF:-1 group-title="ALVAROTV" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,ALVAROTV
+
+#EXTINF:-1 group-title="🟡EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,PPV + 
+
+#EXTINF:-1 group-title="🟡EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,PPV + 
 http://embed-cloudfront.wistia.com/deliveries/51c85ff262df48f084b5508e0a704e8de4f66b9e.m3u8
 
-#EXTINF:-1 group-title="ALVAROTV" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,PIDE TU EVENTO
-http://embed-cloudfront.wistia.com/deliveries/cd9c4e7aff7c82ddc73920cc36bea2fa742c2af9.m3u8
-
-#EXTINF:-1 group-title="EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,PPV + 
-
-https://www.dl.dropboxusercontent.com/scl/fi/36ksme3xk6ygygv912t30/AnaGabrielConcierto.mp4?rlkey=wu9csy7ihbut4jutikh8e8xoz&st=dus77gnj&dl=0
-
-
-
-
-#EXTINF:-1 group-title="EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/DzkMfXt/eventos.png" ,PPV + 
-http://embed-cloudfront.wistia.com/deliveries/51c85ff262df48f084b5508e0a704e8de4f66b9e.m3u8
-
-#EXTINF:-1 group-title="EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/25n2c5D/premier-League.png" ,Premier League Hd
+#EXTINF:-1 group-title="🟡EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/25n2c5D/premier-League.png" ,Premier League Hd
 http://medotv.nl:8000/live/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115492.ts
 
-
-#EXTINF:-1 group-title="EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/jRYSgrH/laLiga.png" ,LA LIGA Fhd
+#EXTINF:-1 group-title="🟡EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/jRYSgrH/laLiga.png" ,LA LIGA Fhd
 http://medotv.nl:8000/live/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115836.ts
 
-
-#EXTINF:-1 group-title="EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/HxF4nbr/champions-League.png" ,Liga De Campeones Fhd
+#EXTINF:-1 group-title="🟡EVENTOS EN VIVO" tvg-logo="https://i.ibb.co/HxF4nbr/champions-League.png" ,Liga De Campeones Fhd
 http://medotv.nl:8000/live/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115838.ts
-
-
-
-#EXTINF:-1 group-title="⭐️ Deporte Colombia" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,CO | Win Sports + HD
-http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/287807
-
-#EXTINF:-1 group-title="⭐️ Deporte Colombia" tvg-logo="http://goldfull.pro:8880/images/91999a30fad2cb63c9c4eee7d7fb3bdb.png" ,CO | Win Sports + SD
-http://spacetvplay.com:8080/live/ArianLatino/EEtduxpDYqNh/505449.ts
-
-#EXTINF:-1 group-title="⭐️ Deporte Colombia" tvg-logo="http://goldfull.pro:8880/images/91999a30fad2cb63c9c4eee7d7fb3bdb.png" ,CO | Win Sports + SD
-http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/287808
-
-#EXTINF:-1 group-title="⭐️ Deporte Colombia" tvg-logo="https://i.ibb.co/hFxFspt/win-Sports.png" ,CO | Win Sports HD
-http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/287810
-
-#EXTINF:-1 group-title="⭐️ Deporte Colombia" tvg-logo="http://goldfull.pro:8880/images/0d56f2f5a6609911ef0ca69a85ca7407.png" ,CO | Win Sports SD
-http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/287811
-
-#EXTINF:-1 group-title="⭐️ Deporte Colombia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo0ADSBQMZ0Kd4Knaol7aNQjhcomUqVVXdA&usqp=CAU" ,ESPN (CO) HD
-http://spacetvplay.com:8080/live/ArianLatino/EEtduxpDYqNh/395945.ts
-
-
-
-
-
 
 
 #EXTINF:-1 group-title="🟢DEPORTES 1" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" tvg-id="ESPN.co" ,DEPORTES - Espn 1 COL (e)(720)
@@ -262,6 +233,23 @@ http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/9613
 
 
 
+#EXTINF:-1 group-title="🟢DEPORTES 2" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,CO | Win Sports + HD
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/287807
+
+#EXTINF:-1 group-title="🟢DEPORTES 2" tvg-logo="http://goldfull.pro:8880/images/91999a30fad2cb63c9c4eee7d7fb3bdb.png" ,CO | Win Sports + SD
+http://spacetvplay.com:8080/live/ArianLatino/EEtduxpDYqNh/505449.ts
+
+#EXTINF:-1 group-title="🟢DEPORTES 2" tvg-logo="http://goldfull.pro:8880/images/91999a30fad2cb63c9c4eee7d7fb3bdb.png" ,CO | Win Sports + SD
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/287808
+
+#EXTINF:-1 group-title="🟢DEPORTES 2" tvg-logo="https://i.ibb.co/hFxFspt/win-Sports.png" ,CO | Win Sports HD
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/287810
+
+#EXTINF:-1 group-title="🟢DEPORTES 2" tvg-logo="http://goldfull.pro:8880/images/0d56f2f5a6609911ef0ca69a85ca7407.png" ,CO | Win Sports SD
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/287811
+
+#EXTINF:-1 group-title="🟢DEPORTES 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo0ADSBQMZ0Kd4Knaol7aNQjhcomUqVVXdA&usqp=CAU" ,ESPN (CO) HD
+http://spacetvplay.com:8080/live/ArianLatino/EEtduxpDYqNh/395945.ts
 
 
 #EXTINF:-1 group-title="🟢DEPORTES 2" tvg-logo="http://goldfull.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" ,DEPORTES | ESPN 1
