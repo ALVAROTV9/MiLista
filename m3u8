@@ -10,11 +10,6 @@ http://embed-cloudfront.wistia.com/deliveries/80c9c73aed3f00a41d47114bb1e379f871
 http://embed-cloudfront.wistia.com/deliveries/cfb3b86ec2bd97c4ec438dff86babb79a9f20de8.m3u8
 
 
-#EXTINF:-1 group-title="DICIEMBRE DE ESTRENOS" tvg-logo="https://image.tmdb.org/t/p/w400/dpskAcm71w5v8zQ8RmPmJiP31Om.jpg" ,Código: Traje rojo | HDCam
-http://daleplaypro.com:8080/movie/020524.020202.052424./mjkN8LDcJYvn/417218.mp4
-
-
-
 #EXTINF:-1 group-title="DICIEMBRE DE ESTRENOS" tvg-logo="https://image.tmdb.org/t/p/w400/f4voSsbPTvaQwicwd1dyxICow6c.jpg" ,Moana 2 | FHDCam TS
 http://daleplaypro.com:8080/movie/020524.020202.052424./mjkN8LDcJYvn/427092.mp4
 
@@ -644,24 +639,8 @@ http://home-playtv.com:8080/GerardoFallas/HFVGD/36432
 
 
 
-#EXTINF:-1 group-title="⭐️ Especial Navidad ⭐️" tvg-logo="http://goldfull.pro:8880/images/268ba7a2458ed74baec35f98ea880727.png" ,Star+ Navidad ©©©
-http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/421670
-#EXTINF:-1 group-title="⭐️ Especial Navidad ⭐️" tvg-logo="http://goldfull.pro:8880/images/084280f4e013c37875431d22b4464132.png" ,Atres Player Navidad ⁽ᴴᴰ⁾
-http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/421671
-#EXTINF:-1 group-title="⭐️ Especial Navidad ⭐️" tvg-logo="http://goldfull.pro:8880/images/b4f322a6259039519786e1cfa57f71da.png" ,Navidad Channel ⁽ᴴᴰ⁾
-http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/421672
-#EXTINF:-1 group-title="⭐️ Especial Navidad ⭐️" tvg-logo="http://goldfull.pro:8880/images/abe07784a901bca95bfdb80b2d7866a7.png" ,Christmas Animated Movie ©©©
-http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/421673
-#EXTINF:-1 group-title="⭐️ Especial Navidad ⭐️" tvg-logo="http://goldfull.pro:8880/images/084280f4e013c37875431d22b4464132.png" ,Atres Player Navidad ⁽ᴴᴰ⁾
-http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/421674
-#EXTINF:-1 group-title="⭐️ Especial Navidad ⭐️" tvg-logo="http://goldfull.pro:8880/images/b4f322a6259039519786e1cfa57f71da.png" ,Navidad Channel ⁽ᴴᴰ⁾
-http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/421675
-#EXTINF:-1 group-title="⭐️ Especial Navidad ⭐️" tvg-logo="http://goldfull.pro:8880/images/abe07784a901bca95bfdb80b2d7866a7.png" ,Christmas Animated Movie ©©©
-http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/421676
-#EXTINF:-1 group-title="⭐️ Especial Navidad ⭐️" tvg-logo="http://goldfull.pro:8880/images/abe07784a901bca95bfdb80b2d7866a7.png" ,Christmas Animated Movie ©©©
-http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/421677
-#EXTINF:-1 group-title="⭐️ Especial Navidad ⭐️" tvg-logo="http://goldfull.pro:8880/images/8103682080f3cf24a03f564f184285ae.png" ,Stingray Holidayscapes
-http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/421678
+
+
 #EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="http://goldfull.pro:8880/images/3b3a23dcc02f40038cfc34d8c58c313f.png" ,KIDS | BABY FIRST
 http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/321968
 #EXTINF:-1 group-title="⭐️ Infantiles" tvg-logo="http://goldfull.pro:8880/images/637e562dbf5fd427957eb42dcd838054.png" ,KIDS | BABY TV
