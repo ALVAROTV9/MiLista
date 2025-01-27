@@ -124,11 +124,13 @@ http://home-playtv.com:8080/GerardoFallas/HFVGD/36432
 
 
 
-#EXTINF:-1 group-title="🟢WIN_SPORTS" tvg-logo="http://goldfull.pro:8880/images/91999a30fad2cb63c9c4eee7d7fb3bdb.png" ,CO | Win Sports + SD
-http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/287808
-#EXTINF:-1 group-title="🟢WIN_SPORTS" tvg-logo="https://i.ibb.co/hFxFspt/win-Sports.png" ,CO | Win Sports HD
+#EXTINF:-1 group-title="🟢WIN_SPORTS" tvg-logo="http://goldfull.pro:8880/images/91999a30fad2cb63c9c4eee7d7fb3bdb.png" ,Win Sports + EXCLUSIVO 
+http://fortv.cc:8080/live/0n8u9R/169324/78717.ts
+
+#EXTINF:-1 group-title="🟢WIN_SPORTS" tvg-logo="https://i.ibb.co/hFxFspt/win-Sports.png" ,Win Sports
 http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/287810
-#EXTINF:-1 group-title="🟢WIN_SPORTS" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,CO | Win Sports + HD
+
+#EXTINF:-1 group-title="🟢WIN_SPORTS" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,Win Sports + HD
 http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/287807
 #EXTINF:-1 group-title="🟢WIN_SPORTS" tvg-logo="http://goldfull.pro:8880/images/0d56f2f5a6609911ef0ca69a85ca7407.png" ,CO | Win Sports SD
 http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/287811
@@ -160,7 +162,8 @@ http://home-playtv.com:8080/GerardoFallas/HFVGD/395945
 
 
 #EXTINF:-1 group-title="🟢ESPN" tvg-logo="https://themenschonabench.com/wp-content/uploads/2014/05/ESPN-Logo.png" tvg-id="espn.mx" ,Deportes HD | ESPN 1 (Mx) HD
-http://tvlat2020.com/GiliAbrigo1/h5aTadnqBV7d/1266
+http://fortv.cc:8080/live/0n8u9R/169324/86765.ts
+
 #EXTINF:-1 group-title="🟢ESPN" tvg-logo="https://themenschonabench.com/wp-content/uploads/2014/05/ESPN-Logo.png" tvg-id="24Horas.cl" ,Deportes HD | ESPN 1 (Arg) HD
 http://tvlat2020.com/GiliAbrigo1/h5aTadnqBV7d/1263
 #EXTINF:-1 group-title="🟢ESPN" tvg-logo="https://iconape.com/wp-content/files/dk/284289/png/284289.png" tvg-id="espn2.ar" ,Deportes HD | ESPN 2 (Arg) HD
