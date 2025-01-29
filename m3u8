@@ -120,6 +120,8 @@ http://tvlat2020.com/GiliAbrigo1/h5aTadnqBV7d/82320
 http://tvlat2020.com/GiliAbrigo1/h5aTadnqBV7d/3216
 #EXTINF:-1 group-title="🟢FULL_DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/2560px-Claro_Sports_logo.svg.png" ,Deportes HD | Claro Sports Sur HD
 http://tvlat2020.com/GiliAbrigo1/h5aTadnqBV7d/113373
+
+
 #EXTINF:-1 group-title="🟢FULL_DEPORTES" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" tvg-id="FoxSports.ar" ,LD - FOX SPORTS 1 HD CHILE
 http://tv.nstvlatino.com:8080/CharlySosa/sosa2233/1155912
 #EXTINF:-1 group-title="🟢FULL_DEPORTES" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-2.png" tvg-id="FoxSports2.ar" ,LD - FOX SPORTS 2 SUR HD
@@ -217,21 +219,23 @@ http://fortv.cc:8080/live/0n8u9R/169324/78717.ts
 http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/287810
 
 #EXTINF:-1 group-title="🟢WIN_SPORTS" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,Win Sports + HD
+http://starfamily.vip:8080/live/JhoanObando/BAYPPFhBy7EF/569755.ts
+
+#EXTINF:-1 group-title="🟢WIN_SPORTS" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,Win Sports + HD
 http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/287807
+
 #EXTINF:-1 group-title="🟢WIN_SPORTS" tvg-logo="http://goldfull.pro:8880/images/0d56f2f5a6609911ef0ca69a85ca7407.png" ,CO | Win Sports SD
 http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/287811
+
 #EXTINF:-1 group-title="🟢WIN_SPORTS" tvg-logo="http://goldfull.pro:8880/images/b7594559b9125fc15131b3463e383aa3.png" ,DEPORTES | WIN SPORTS +
-http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/167738
+http://starfamily.vip:8080/live/JhoanObando/BAYPPFhBy7EF/569831.ts
+
 #EXTINF:-1 group-title="🟢WIN_SPORTS" tvg-logo="http://goldfull.pro:8880/images/b7594559b9125fc15131b3463e383aa3.png" ,DEPORTES | WIN SPORTS
 http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/167739
-#EXTINF:-1 group-title="🟢WIN_SPORTS" ,Win Sports + FHD
-http://tvlatino.club:2082/TELE519900/Xnt539gASGQB/513980
-#EXTINF:-1 group-title="🟢WIN_SPORTS" ,Win Sports + HD
-http://tvlatino.club:2082/TELE519900/Xnt539gASGQB/513978
-#EXTINF:-1 group-title="🟢WIN_SPORTS" ,Win Sports SD
-http://tvlatino.club:2082/TELE519900/Xnt539gASGQB/513975
+
 #EXTINF:-1 group-title="🟢WIN_SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1200px-Win_Sports_nuevo_logo.svg.png" tvg-id="winsports.co" ,CO | Win Sports Op 1
 http://home-playtv.com:8080/GerardoFallas/HFVGD/485515
+
 #EXTINF:-1 group-title="🟢WIN_SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/800px-Win%2B_F%C3%BAtbol_logo.svg.png" tvg-id="winsportsplus.co" ,CO | Win Sports + VIP 1
 http://home-playtv.com:8080/GerardoFallas/HFVGD/516921
 #EXTINF:-1 group-title="🟢WIN_SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/800px-Win%2B_F%C3%BAtbol_logo.svg.png" tvg-id="winsportsplus.co" ,CO | WIN Sports +
