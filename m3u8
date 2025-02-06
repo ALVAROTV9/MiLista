@@ -226,25 +226,16 @@ http://home-playtv.com:8080/GerardoFallas/HFVGD/395945
 
 
 tp://playtvpremium.xyz:2095/56950919520w1/040824activa/316536
-#EXTINF:-1 group-title="DEPORTES COLOMBIA" tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" ,CO | 02 •  Win+ Fútbol ᴴᴰ
+#EXTINF:-1 group-title="🟢WIN_SPORTS" tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" ,CO | 02 •  Win+ Fútbol ᴴᴰ
 http://playtvpremium.xyz:2095/56950919520w1/040824activa/316537
-#EXTINF:-1 group-title="DEPORTES COLOMBIA" tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" ,CO | 03 • Win+ Fútbol ᴴᴰ
+#EXTINF:-1 group-title="🟢WIN_SPORTS" tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" ,CO | 03 • Win+ Fútbol ᴴᴰ
 http://playtvpremium.xyz:2095/56950919520w1/040824activa/316538
-#EXTINF:-1 group-title="DEPORTES COLOMBIA" tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" ,CO | 04 • Win+ Fútbol ᴴᴰ
+#EXTINF:-1 group-title="🟢WIN_SPORTS" tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" ,CO | 04 • Win+ Fútbol ᴴᴰ
 http://playtvpremium.xyz:2095/56950919520w1/040824activa/316539
-#EXTINF:-1 group-title="DEPORTES COLOMBIA" tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" ,CO | 05 • Win+ Fútbol ᴴᴰ
+#EXTINF:-1 group-title="🟢WIN_SPORTS" tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" ,CO | 05 • Win+ Fútbol ᴴᴰ
 http://playtvpremium.xyz:2095/56950919520w1/040824activa/316540
-#EXTINF:-1 group-title="DEPORTES COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1200px-Win_Sports_nuevo_logo.svg.png" ,CO | 03 • Win Sports SD
+#EXTINF:-1 group-title="🟢WIN_SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1200px-Win_Sports_nuevo_logo.svg.png" ,CO | 03 • Win Sports SD
 http://playtvpremium.xyz:2095/56950919520w1/040824activa/316541
-#EXTINF:-1 group-title="DEPORTES COLOMBIA" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg" ,CO | 01 • ESPN COLOMBIA
-http://playtvpremium.xyz:2095/56950919520w1/040824activa/316542
-#EXTINF:-1 group-title="DEPORTES COLOMBIA" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg" ,CO | 02 • ESPN COLOMBIA 2
-http://playtvpremium.xyz:2095/56950919520w1/040824activa/316543
-#EXTINF:-1 group-title="DEPORTES COLOMBIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/DirecTVSportsLA.png/revision/latest/scale-to-width-down/250?cb=20180331121606" ,DIRECTV SPORTS 2  CO●
-http://playtvpremium.xyz:2095/56950919520w1/040824activa/316544
-#EXTINF:-1 group-title="DEPORTES COLOMBIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/DirecTVSportsLA.png/revision/latest/scale-to-width-down/250?cb=20180331121606" ,DIRECTV SPORTS  CO●
-http://playtvpremium.xyz:2095/56950919520w1/040824activa/316545
-
 
 
 #EXTINF:-1 group-title="Liga MX" tvg-logo="http://lista23453.ddns.net:8080/images/48483c50de3f0592ace7dc6dbcbcdf0b.jpg" tvg-id="afizzionados.mx" ,DEPORTES HD | AFIZZIONADOS HD
@@ -783,69 +774,9 @@ http://ratatvsmart.site:8080/user7027/374892993/79804
 http://ratatvsmart.site:8080/user7027/374892993/80510
 #EXTINF:-1 group-title="UEFA TORNEOS" tvg-logo="http://lista23453.ddns.net:8080/images/5e55d598e0d894dc4a33c43b51d5932d.png" ,DEPORTES HD | ESPN 2
 http://ratatvsmart.site:8080/user7027/374892993/254069
-#EXTINF:-1 group-title="DIRECTV SPORTS (EXCLUSIVO)" tvg-logo="http://lista23453.ddns.net:8080/images/812017ea7cbff3b46b529335d4413eba.png" tvg-id="SPOARHD" ,ARG | DIRECTV SPORTS (ARGENTINA) (EXCLUSIVO) UHD
-http://ratatvsmart.site:8080/user7027/374892993/211590
-#EXTINF:-1 group-title="DIRECTV SPORTS (EXCLUSIVO)" tvg-logo="http://lista23453.ddns.net:8080/images/812017ea7cbff3b46b529335d4413eba.png" tvg-id="SPOARHD" ,DIRECTV SPORTS (ARGENTINA) (EXCLUSIVO) UHD
-http://ratatvsmart.site:8080/user7027/374892993/211591
-#EXTINF:-1 group-title="DIRECTV SPORTS (EXCLUSIVO)" tvg-logo="http://lista23453.ddns.net:8080/images/812017ea7cbff3b46b529335d4413eba.png" ,DIRECTV SPORTS (CHILE)(EXCLUSIVO) UHD
-http://ratatvsmart.site:8080/user7027/374892993/211592
-#EXTINF:-1 group-title="DIRECTV SPORTS (EXCLUSIVO)" tvg-logo="http://lista23453.ddns.net:8080/images/059a3e142c1a4bbbe0c664c870b1beeb.png" ,DIRECTV SPORTS 2 (EXCLUSIVO) UHD
-http://ratatvsmart.site:8080/user7027/374892993/211593
-#EXTINF:-1 group-title="DIRECTV SPORTS (EXCLUSIVO)" tvg-logo="http://lista23453.ddns.net:8080/images/3cd4989f49ce5c54fa5ae3f584eabfb3.png" ,DIRECTV SPORTS + (L)
-http://ratatvsmart.site:8080/user7027/374892993/211594
-#EXTINF:-1 group-title="DIRECTV SPORTS (EXCLUSIVO)" tvg-logo="http://lista23453.ddns.net:8080/images/7ce93347c813d2d481d7970f612338df.png" ,DIRECTV SPORTS F.igh.t (EXCLUSIVO) (UHD)
-http://ratatvsmart.site:8080/user7027/374892993/211595
-#EXTINF:-1 group-title="DIRECTV SPORTS (EXCLUSIVO)" tvg-logo="http://lista23453.ddns.net:8080/images/3cd4989f49ce5c54fa5ae3f584eabfb3.png" ,PER: DIRECTV SPORTS + (PERU) (1280) (EXCLUSIVO) UHD
-http://ratatvsmart.site:8080/user7027/374892993/211596
-#EXTINF:-1 group-title="DIRECTV SPORTS (EXCLUSIVO)" tvg-logo="http://lista23453.ddns.net:8080/images/812017ea7cbff3b46b529335d4413eba.png" ,DIRECTV SPORTS (PERU) (EXCLUSIVO) UHD
-http://ratatvsmart.site:8080/user7027/374892993/211597
-#EXTINF:-1 group-title="DIRECTV SPORTS (EXCLUSIVO)" tvg-logo="http://lista23453.ddns.net:8080/images/7ce93347c813d2d481d7970f612338df.png" ,PER: DIRECTV SPORTS F.igh.t (1920) (EXCLUSIVO) UHD
-http://ratatvsmart.site:8080/user7027/374892993/211598
-#EXTINF:-1 group-title="DIRECTV SPORTS (EXCLUSIVO)" tvg-logo="http://lista23453.ddns.net:8080/images/812017ea7cbff3b46b529335d4413eba.png" ,PER: DIRECTV SPORTS (PERU) | --3H | (EXCLUSIVO) UHD
-http://ratatvsmart.site:8080/user7027/374892993/211599
-#EXTINF:-1 group-title="DIRECTV SPORTS (EXCLUSIVO)" tvg-logo="http://lista23453.ddns.net:8080/images/812017ea7cbff3b46b529335d4413eba.png" ,CO: DIRECTV SPORTS (COLOMBIA) UHD
-http://ratatvsmart.site:8080/user7027/374892993/211600
-#EXTINF:-1 group-title="DIRECTV SPORTS (EXCLUSIVO)" tvg-logo="http://lista23453.ddns.net:8080/images/059a3e142c1a4bbbe0c664c870b1beeb.png" ,CO: DIRECTV SPORTS 2 (COLOMBIA) (1920) (Exclusivo) L
-http://ratatvsmart.site:8080/user7027/374892993/211601
-#EXTINF:-1 group-title="DIRECTV SPORTS (EXCLUSIVO)" tvg-logo="http://lista23453.ddns.net:8080/images/812017ea7cbff3b46b529335d4413eba.png" ,DIRECTV SPORTS (ECUADOR) (EXCLUSIVO) UHD
-http://ratatvsmart.site:8080/user7027/374892993/211602
-#EXTINF:-1 group-title="DISNEY+/ STAR+ (EVENTOS)" tvg-logo="http://lista23453.ddns.net:8080/images/df09d6a7bfd0cda56e7fef6df0e2e09b.png" ,EVENTOS STAR+ FHD
-http://ratatvsmart.site:8080/user7027/374892993/123081
-#EXTINF:-1 group-title="DISNEY+/ STAR+ (EVENTOS)" tvg-logo="http://lista23453.ddns.net:8080/images/df09d6a7bfd0cda56e7fef6df0e2e09b.png" ,EVENTOS STAR+ HD
-http://ratatvsmart.site:8080/user7027/374892993/123082
-#EXTINF:-1 group-title="DISNEY+/ STAR+ (EVENTOS)" tvg-logo="http://lista23453.ddns.net:8080/images/df09d6a7bfd0cda56e7fef6df0e2e09b.png" ,EVENTOS STAR+ SD
-http://ratatvsmart.site:8080/user7027/374892993/123083
-#EXTINF:-1 group-title="DISNEY+/ STAR+ (EVENTOS)" tvg-logo="http://lista23453.ddns.net:8080/images/781ecc4c9acd46479c2a16fc5f818d98.png" ,STAR+ 1 FHD
-http://ratatvsmart.site:8080/user7027/374892993/151836
-#EXTINF:-1 group-title="DISNEY+/ STAR+ (EVENTOS)" tvg-logo="http://lista23453.ddns.net:8080/images/781ecc4c9acd46479c2a16fc5f818d98.png" ,STAR+ 1 HD
-http://ratatvsmart.site:8080/user7027/374892993/151837
-#EXTINF:-1 group-title="DISNEY+/ STAR+ (EVENTOS)" tvg-logo="http://lista23453.ddns.net:8080/images/781ecc4c9acd46479c2a16fc5f818d98.png" ,STAR+ 2 FHD
-http://ratatvsmart.site:8080/user7027/374892993/151838
-#EXTINF:-1 group-title="DISNEY+/ STAR+ (EVENTOS)" tvg-logo="http://lista23453.ddns.net:8080/images/781ecc4c9acd46479c2a16fc5f818d98.png" ,STAR+ 2 HD
-http://ratatvsmart.site:8080/user7027/374892993/151839
-#EXTINF:-1 group-title="DISNEY+/ STAR+ (EVENTOS)" tvg-logo="http://lista23453.ddns.net:8080/images/781ecc4c9acd46479c2a16fc5f818d98.png" ,STAR+ 3 FHD
-http://ratatvsmart.site:8080/user7027/374892993/151840
-#EXTINF:-1 group-title="DISNEY+/ STAR+ (EVENTOS)" tvg-logo="http://lista23453.ddns.net:8080/images/781ecc4c9acd46479c2a16fc5f818d98.png" ,STAR+ 3 HD
-http://ratatvsmart.site:8080/user7027/374892993/151841
-#EXTINF:-1 group-title="DISNEY+/ STAR+ (EVENTOS)" ,ESPN DISNEY1 (L)
-http://ratatvsmart.site:8080/user7027/374892993/248844
-#EXTINF:-1 group-title="DISNEY+/ STAR+ (EVENTOS)" ,ESPN DISNEY2 (L)
-http://ratatvsmart.site:8080/user7027/374892993/248845
-#EXTINF:-1 group-title="DISNEY+/ STAR+ (EVENTOS)" ,ESPN DISNEY3 (L)
-http://ratatvsmart.site:8080/user7027/374892993/248846
 
 
 
-#EXTINF:-1 group-title="TV | Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/800px-TNT_Sports_2021_logo.svg.png" ,TNTSPORTS
-http://iptvhogar.club:25461/Rodrigo_Ortiz/pmNcotGCRu/82
-#EXTINF:-1 group-title="TV | Deportes" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-premium4090.logowik.com.webp" tvg-id="Chile - CDF HD" ,TNTSPORTS Premium
-http://iptvhogar.club:25461/Rodrigo_Ortiz/pmNcotGCRu/84
-#EXTINF:-1 group-title="TV | Deportes" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-premium4090.logowik.com.webp" tvg-id="Chile - CDF Premium" ,TNTSPORTS Premium opc 2
-http://iptvhogar.club:25461/Rodrigo_Ortiz/pmNcotGCRu/18050
-#EXTINF:-1 group-title="TV | Deportes" tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/6/63/AYMSports21logo.png/revision/latest?cb=20210821051314&path-prefix=es" ,AyM Sports HD
-http://iptvhogar.club:25461/Rodrigo_Ortiz/pmNcotGCRu/89
-#EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://iptvhogar.club:25461/images/1a8a09f9496d74a2c7bc58c54d3b1009.png" ,Bein spots Ñ
-http://iptvhogar.club:25461/Rodrigo_Ortiz/pmNcotGCRu/43643
 #EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://iptvhogar.club:25461/images/66a69cc011d407c212b7503977515d35.png" ,CDO Premium
 http://iptvhogar.club:25461/Rodrigo_Ortiz/pmNcotGCRu/81
 #EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://iptvhogar.club:25461/images/4fdc819ddad328932b0cf92d4c602ad5.png" ,Claro Sports FHD
