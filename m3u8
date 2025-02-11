@@ -3,8 +3,12 @@
 *Lista gratis de varios Servidores iptv
 de uso personal, Diariamente Actualizada**
 
+#EXTINF:-1 group-title="🔴🟢🔵ALVAROTV" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,FULL ENTRET3NIMIENTO
+http://tvlat2020.com/GiliAbrigo1/h5aTadnqBV7d/90846
+
 #EXTINF:-1 group-title="🔴🟢🔵ALVAROTV" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,ALVAROTV
 http://embed-cloudfront.wistia.com/deliveries/80c9c73aed3f00a41d47114bb1e379f8717b965e.m3u8
+
 #EXTINF:-1 group-title="🔴🟢🔵ALVAROTV" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,PIDE TU EVENTO
 http://embed-cloudfront.wistia.com/deliveries/cfb3b86ec2bd97c4ec438dff86babb79a9f20de8.m3u8
 
@@ -81,8 +85,7 @@ http://tvlat2020.com/GiliAbrigo1/h5aTadnqBV7d/80112
 http://tvlat2020.com/GiliAbrigo1/h5aTadnqBV7d/80111
 #EXTINF:-1 group-title="🔵DEPORTES🟢ALVAROTV" tvg-logo="https://symphoniclatino.com/wp-content/uploads/2020/05/ESPN-Logo.png" ,CO | ESPN FHD
 http://tvlat2020.com/GiliAbrigo1/h5aTadnqBV7d/104179
-#EXTINF:-1 group-title="🔵DEPORTES🟢ALVAROTV" tvg-logo="https://www.utadeo.edu.co/sites/tadeo/files/node/event/field_images/vallealcampus-notaweb_0.png" ,CO | Vallenato Internacional HD
-http://tvlat2020.com/GiliAbrigo1/h5aTadnqBV7d/90846
+
 #EXTINF:-1 group-title="🔵DEPORTES🟢ALVAROTV" tvg-logo="https://www.universfreebox.com/wp-content/uploads/2019/07/imagen_bein_liga.png" tvg-id="Dep|| beIN LA Liga FHD ES" ,Deportes HD | Bein Sports La Liga HD
 http://tvlat2020.com/GiliAbrigo1/h5aTadnqBV7d/3215
 #EXTINF:-1 group-title="🔵DEPORTES🟢ALVAROTV" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/3/3a/BeIN_Sports_en_Espa%C3%B1ol.png" tvg-id="beinsports.my" ,Deportes HD | Bein Sports Ñ OPC 1 HD
