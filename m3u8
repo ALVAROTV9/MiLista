@@ -13,8 +13,8 @@ http://embed-cloudfront.wistia.com/deliveries/80c9c73aed3f00a41d47114bb1e379f871
 #EXTINF:-1 group-title="🔴🟢🔵ALVAROTV" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,PIDE TU EVENTO
 http://embed-cloudfront.wistia.com/deliveries/cfb3b86ec2bd97c4ec438dff86babb79a9f20de8.m3u8
 
-
-
+#EXTINF:-1 group-title="🟢FULLDEPORTES⚽️ALVAROTV🔵" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,Win Sports + opc1
+http://tvlatino.club:2082/live/Marrufo35/y8b7QZ3pZFyd/513977.ts
 
 #EXTINF:-1 group-title="🟢FULLDEPORTES⚽️ALVAROTV🔵" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,Win Sports +
 http://tv.proyectox.vip:8080/live/branpedro1/ruQgukbETS/8512.ts
@@ -22,18 +22,19 @@ http://tv.proyectox.vip:8080/live/branpedro1/ruQgukbETS/8512.ts
 http://ultrapremium.cloud:8080/live/64garu38fa76me38/47wuma84duwe57/359.ts
 #EXTINF:-1 group-title="🟢FULLDEPORTES⚽️ALVAROTV🔵" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1200px-Win_Sports_nuevo_logo.svg.png" tvg-id="winsports.co" ,Win Sports Op 1
 http://tv.proyectox.vip:8080/live/branpedro1/ruQgukbETS/84896.ts
-#EXTINF:-1 group-title="🟢FULLDEPORTES⚽️ALVAROTV🔵" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/800px-Win%2B_F%C3%BAtbol_logo.svg.png" tvg-id="winsportsplus.co" ,Win Sports + VIP 1
+#EXTINF:-1 group-title="🟢FULLDEPORTES⚽️ALVAROTV🔵" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/800px-Win%2B_F%C3%BAtbol_logo.svg.png" tvg-id="winsportsplus.co" ,Win Sports + hd
 http://zona593.live:8080/live/Vanessa01/Vanessa01/395680.ts
 #EXTINF:-1 group-title="🟢FULLDEPORTES⚽️ALVAROTV🔵" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/800px-Win%2B_F%C3%BAtbol_logo.svg.png" tvg-id="winsportsplus.co" ,WIN Sports +
 http://digitalessamuel.ovh:8080/live/JoseAmiEdgar/qxUUetBZZx/1846.ts
-#EXTINF:-1 group-title="🟢FULLDEPORTES⚽️ALVAROTV🔵" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1200px-Win_Sports_nuevo_logo.svg.png" tvg-id="winsports.co" ,CO | WIN Sports HD⚽️ ⭐️
+#EXTINF:-1 group-title="🟢FULLDEPORTES⚽️ALVAROTV🔵" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1200px-Win_Sports_nuevo_logo.svg.png" tvg-id="winsports.co" ,WIN Sports HD⚽️ ⭐️
 http://home-playtv.com:8080/GerardoFallas/HFVGD/395945
-#EXTINF:-1 group-title="🟢FULLDEPORTES⚽️ALVAROTV🔵" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/800px-Win%2B_F%C3%BAtbol_logo.svg.png" tvg-id="winsportsplus.co" ,CO | WIN Sports + FHD
+#EXTINF:-1 group-title="🟢FULLDEPORTES⚽️ALVAROTV🔵" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Win%2B_F%C3%BAtbol_logo.svg/800px-Win%2B_F%C3%BAtbol_logo.svg.png" tvg-id="winsportsplus.co" ,WIN Sports + FHD
 http://home-playtv.com:8080/GerardoFallas/HFVGD/516934
-#EXTINF:-1 group-title="🟢FULLDEPORTES⚽️ALVAROTV🔵" tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" ,CO | 02 •  Win+ Fútbol ᴴᴰ
+#EXTINF:-1 group-title="🟢FULLDEPORTES⚽️ALVAROTV🔵" tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" ,CO | 02 •  Win+ Fútbol 
 http://playtvpremium.xyz:2095/56950919520w1/040824activa/316537
-#EXTINF:-1 group-title="🟢FULLDEPORTES⚽️ALVAROTV🔵" tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" ,CO | 03 • Win+ Fútbol ᴴᴰ
+#EXTINF:-1 group-title="🟢FULLDEPORTES⚽️ALVAROTV🔵" tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png" ,CO | 03 • Win+
 http://playtvpremium.xyz:2095/56950919520w1/040824activa/316538
+
 #EXTINF:-1 group-title="🟢FULLDEPORTES⚽️ALVAROTV🔵" tvg-logo="https://i8b5j9c8.rocketcdn.me/wp-content/uploads/2023/10/Ellipse-1.png" tvg-id="WinSports.co" ,CO | Win Sports HD 1
 http://tvlat2020.com/GiliAbrigo1/h5aTadnqBV7d/463
 #EXTINF:-1 group-title="🟢FULLDEPORTES⚽️ALVAROTV🔵" tvg-logo="https://i8b5j9c8.rocketcdn.me/wp-content/uploads/2023/10/Ellipse-1.png" tvg-id="WinSports.co" ,CO | Win Sports HD 2
@@ -224,9 +225,14 @@ http://starfamily.vip:8080/JhoanObando/BAYPPFhBy7EF/550918
 http://tvlat2020.com/GiliAbrigo1/h5aTadnqBV7d/1283
 #EXTINF:-1 group-title="🟢FULLDEPORTES⚽️ALVAROTV🔵" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" tvg-id="DirecTVSportsPlus.us" ,Deportes HD | DirecTV Sports + HD
 http://tvlat2020.com/GiliAbrigo1/h5aTadnqBV7d/1284
+
+#EXTINF:-1 group-title="🟢FULLDEPORTES⚽️ALVAROTV🔵" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" tvg-id="24Horas.cl" ,Deportes HD | DirecTV Sports 1 HD
+http://tvlatino.club:2082/live/Marrufo35/y8b7QZ3pZFyd/485885.ts
+
 #EXTINF:-1 group-title="🟢FULLDEPORTES⚽️ALVAROTV🔵" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" tvg-id="24Horas.cl" ,Deportes HD | DirecTV Sports 1 HD
 http://tvlat2020.com/GiliAbrigo1/h5aTadnqBV7d/1282
-#EXTINF:-1 group-title="🟢FULLDEPORTES⚽️ALVAROTV🔵" tvg-logo="https://lh3.googleusercontent.com/-dxZyXXWvJDs/Yqp2MbCoR6I/AAAAAAAADpo/seuq6KMCveEvoqmHXCpW5Z9W3fS7qtHyQCNcBGAsYHQ/w200-h200/1655338543433516-0.png" tvg-id="DSPORTS.+.HD.dtvsp" ,DEPORTES - Directv Sports + (TV)(720)
+
+#EXTINF:-1 group-title="🟢FULLDEPORTES⚽️ALVAROTV🔵" tvg-logo="https://lh3.googleusercontent.com/-dxZyXXWvJDs/Yqp2MbCoR6I/AAAAAAAADpo/seuq6KMCveEvoqmHXCpW5Z9W3fS7qtHyQCNcBGAsYHQ/w200-h200/1655338543433516-0.png" tvg-id="DSPORTS.+.HD.dtvsp" ,Directv Sports + (TV)(720)
 http://tv.proyectox.vip:8080/branpedro1/ruQgukbETS/9559
 #EXTINF:-1 group-title="🟢FULLDEPORTES⚽️ALVAROTV🔵" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" tvg-id="DSPORTS.(ARG).dtvsp" ,DEPORTES - Directv Sports 1 (ARG) (TV)(1080)
 http://tv.proyectox.vip:8080/branpedro1/ruQgukbETS/9560
@@ -234,6 +240,10 @@ http://tv.proyectox.vip:8080/branpedro1/ruQgukbETS/9560
 http://tv.proyectox.vip:8080/branpedro1/ruQgukbETS/9561
 #EXTINF:-1 group-title="🟢FULLDEPORTES⚽️ALVAROTV🔵" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" ,CO | DirecTV Sports 1 HD
 http://tvlat2020.com/GiliAbrigo1/h5aTadnqBV7d/80111
+
+#EXTINF:-1 group-title="🟢FULLDEPORTES⚽️ALVAROTV🔵" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" ,DirecTV Sports 2 HD
+http://tvlatino.club:2082/live/Marrufo35/y8b7QZ3pZFyd/513983.ts
+
 #EXTINF:-1 group-title="🟢FULLDEPORTES⚽️ALVAROTV🔵" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" ,CO | DirecTV Sports 2 HD
 http://tvlat2020.com/GiliAbrigo1/h5aTadnqBV7d/80112
 #EXTINF:-1 group-title="🟢FULLDEPORTES⚽️ALVAROTV🔵" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png" tvg-id="DSPORTS.2.HD.dtvsp" ,DEPORTES - Directv Sports 2 ARG (L)(720)
