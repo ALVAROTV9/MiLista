@@ -122,6 +122,15 @@ http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/54466
 http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/54467
 
 
+#EXTINF:-1 group-title="🟢FULLDEPORTES⚽️ALVAROTV🔵" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,1 EVENTOS WN VIVO
+http://fastream.xyz:8080/live/j0409tv2p24/2024csjvtv24/20285.ts
+
+#EXTINF:-1 group-title="🟢FULLDEPORTES⚽️ALVAROTV🔵" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,2 EVENTOS EN VIVO
+http://fastream.xyz:8080/live/j0409tv2p24/2024csjvtv24/20203.ts
+
+#EXTINF:-1 group-title="🟢FULLDEPORTES⚽️ALVAROTV🔵" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,3 EVENTOS EN VIVO
+http://fastream.xyz:8080/live/j0409tv2p24/2024csjvtv24/20220.ts
+
 
 #EXTINF:-1 group-title="🟢FULLDEPORTES⚽️ALVAROTV🔵" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,BUNDESLIGA
 http://103.161.34.205:8080/live/Jrmario/MHUs7YDmgu/388037.ts
@@ -134,8 +143,6 @@ http://103.161.34.205:8080/live/Jrmario/MHUs7YDmgu/388035.ts
 
 #EXTINF:-1 group-title="🟢FULLDEPORTES⚽️ALVAROTV🔵" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,FUT FEMENINO
 http://103.161.34.205:8080/live/Jrmario/MHUs7YDmgu/388036.ts
-
-
 
 
 #EXTINF:-1 group-title="🟢FULLDEPORTES⚽️ALVAROTV🔵" tvg-logo="https://i.ibb.co/JFJkmMp/win-Sports-Plus.png" ,Win Sports + opc1
