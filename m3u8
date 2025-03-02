@@ -25,6 +25,23 @@ http://canal-pro.xyz:8080/9622510tv/234caszx3/20286
 http://canal-pro.xyz:8080/9622510tv/234caszx3/490
 
 
+
+#EXTINF:-1 group-title="🟢FUTBOL⚽️ALVAROTVenVivo🔴" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,1 EVENTOS EN VIVO
+http://fastream.xyz:8080/live/j0409tv2p24/2024csjvtv24/20285.ts
+#EXTINF:-1 group-title="🟢FUTBOL⚽️ALVAROTVenVivo🔴" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,2 EVENTOS EN VIVO
+http://fastream.xyz:8080/live/j0409tv2p24/2024csjvtv24/20203.ts
+#EXTINF:-1 group-title="🟢FUTBOL⚽️ALVAROTVenVivo🔴" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,3 EVENTOS EN VIVO
+http://fastream.xyz:8080/live/j0409tv2p24/2024csjvtv24/20220.ts
+#EXTINF:-1 group-title="🟢FUTBOL⚽️ALVAROTVenVivo🔴" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,BUNDESLIGA
+http://103.161.34.205:8080/live/Jrmario/MHUs7YDmgu/388037.ts
+#EXTINF:-1 group-title="🟢FUTBOL⚽️ALVAROTVenVivo🔴" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,PREMIER LEAGUE
+http://103.161.34.205:8080/live/Jrmario/MHUs7YDmgu/385945.ts
+#EXTINF:-1 group-title="🟢FUTBOL⚽️ALVAROTVenVivo🔴" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,LA LIGA
+http://103.161.34.205:8080/live/Jrmario/MHUs7YDmgu/388035.ts
+#EXTINF:-1 group-title="🟢FUTBOL⚽️ALVAROTVenVivo🔴" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,FUT FEMENINO
+http://103.161.34.205:8080/live/Jrmario/MHUs7YDmgu/388036.ts
+
+
 #EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="https://logos.xbots.com.mx/SerieA.png" ,SerieA | 11:00 Hrs | Atalanta vs Venezia
 http://tv.proyectox.vip:8080/branpedro1/ruQgukbETS/110510
 #EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="https://logos.xbots.com.mx/SerieA.png" ,SerieA | 14:00 Hrs | Napoli vs Internazionale
@@ -371,20 +388,7 @@ http://starfamily.vip:8080/JhoanObando/BAYPPFhBy7EF/550847
 http://tv.proyectox.vip:8080/branpedro1/ruQgukbETS/9552
 #EXTINF:-1 group-title="🔴🟢🔵DEPORTESVIP⚽️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" tvg-id="beinsports.us" ,USA | Bein Sports 1 HD
 http://zuiowy.net:8080/gilbertogarcia7/yuee2@8268/3217
-#EXTINF:-1 group-title="🔴🟢🔵DEPORTESVIP⚽️" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,1 EVENTOS EN VIVO
-http://fastream.xyz:8080/live/j0409tv2p24/2024csjvtv24/20285.ts
-#EXTINF:-1 group-title="🔴🟢🔵DEPORTESVIP⚽️" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,2 EVENTOS EN VIVO
-http://fastream.xyz:8080/live/j0409tv2p24/2024csjvtv24/20203.ts
-#EXTINF:-1 group-title="🔴🟢🔵DEPORTESVIP⚽️" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,3 EVENTOS EN VIVO
-http://fastream.xyz:8080/live/j0409tv2p24/2024csjvtv24/20220.ts
-#EXTINF:-1 group-title="🔴🟢🔵DEPORTESVIP⚽️" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,BUNDESLIGA
-http://103.161.34.205:8080/live/Jrmario/MHUs7YDmgu/388037.ts
-#EXTINF:-1 group-title="🔴🟢🔵DEPORTESVIP⚽️" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,PREMIER LEAGUE
-http://103.161.34.205:8080/live/Jrmario/MHUs7YDmgu/385945.ts
-#EXTINF:-1 group-title="🔴🟢🔵DEPORTESVIP⚽️" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,LA LIGA
-http://103.161.34.205:8080/live/Jrmario/MHUs7YDmgu/388035.ts
-#EXTINF:-1 group-title="🔴🟢🔵DEPORTESVIP⚽️" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,FUT FEMENINO
-http://103.161.34.205:8080/live/Jrmario/MHUs7YDmgu/388036.ts
+
 #EXTINF:-1 group-title="🔴🟢🔵DEPORTESVIP⚽️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png" tvg-id="TNTSportsArgentina.ar" ,ARG | TNT Sports HD (1)
 http://zuiowy.net:8080/gilbertogarcia7/yuee2@8268/13773
 #EXTINF:-1 group-title="🔴🟢🔵DEPORTESVIP⚽️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png" tvg-id="TNTSportsArgentina.ar" ,ARG | TNT Sports HD (2)
