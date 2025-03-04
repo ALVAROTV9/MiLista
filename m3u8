@@ -59,6 +59,7 @@ http://canal-pro.xyz:8080/live/9622510tv/234caszx3/20286.ts
 
 #EXTINF:-1 group-title="⚪ | LIG⚽☆SAUDITA⚪" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/270-pro-league.png" ,Liga Saudi:| ◉ | EXCLUSIVO♦️
 http://galaxypro.online:8080/ZxqFt5gV/Ku7f4UFL/568421
+
 #EXTINF:-1 group-title="⚪ | LIG⚽ ARGENTINA⚪" tvg-logo="https://www.designfootball.com/images/joomgallery/originals/football_crests_8/argentine_league_logo_20150922_1459918887.png" ,ᴬᴿᴳ: ➀ | ⒺⓈⓅⓃ Argentina |
 http://galaxypro.online:8080/ZxqFt5gV/Ku7f4UFL/99753
 #EXTINF:-1 group-title="⚪ | LIG⚽ ARGENTINA⚪" tvg-logo="https://www.designfootball.com/images/joomgallery/originals/football_crests_8/argentine_league_logo_20150922_1459918887.png" tvg-id="ES2ESP" ,ᴬᴿᴳ: ➀ | ⒺⓈⓅⓃ Premium | UHD 
@@ -67,10 +68,13 @@ http://galaxypro.online:8080/ZxqFt5gV/Ku7f4UFL/288894
 http://galaxypro.online:8080/ZxqFt5gV/Ku7f4UFL/280930
 #EXTINF:-1 group-title="⚪ | LIG⚽ ARGENTINA⚪" tvg-logo="https://www.designfootball.com/images/joomgallery/originals/football_crests_8/argentine_league_logo_20150922_1459918887.png" tvg-id="DISJMXH" ,ᴬᴿᴳ: ➀| ⓉⓎⒸ Sports |
 http://galaxypro.online:8080/ZxqFt5gV/Ku7f4UFL/228950
+
 #EXTINF:-1 group-title="⚪ | LIG⚽ BRASIL⚪" tvg-logo="https://1000logos.net/wp-content/uploads/2019/01/Campeonato-Brasileiro-Serie-A-logo-2019.png" ,Campeonato Paulista |EXCLUSIVO |
 http://galaxypro.online:8080/ZxqFt5gV/Ku7f4UFL/383996
 #EXTINF:-1 group-title="⚪ | LIG⚽ BRASIL⚪" tvg-logo="https://1000logos.net/wp-content/uploads/2019/01/Campeonato-Brasileiro-Serie-A-logo-2019.png" ,Campeonato Carioca | EXCLUSIVO |
 http://galaxypro.online:8080/ZxqFt5gV/Ku7f4UFL/383997
+
+
 #EXTINF:-1 group-title="⚪ | LIG⚽ COLOMBIA⚪" tvg-logo="http://digitaltvsv.com:80/images/-kRhDmGtaRfxVEGEnqonPYYJ3II90qWVw3nUzY8l-Yfmv4LtUAk1o9xU2VsUgQs8.png" ,WIN+| EXCLUSIVO
 http://galaxypro.online:8080/ZxqFt5gV/Ku7f4UFL/697645
 #EXTINF:-1 group-title="⚪ | LIG⚽ COLOMBIA⚪" tvg-logo="https://i.ibb.co/kDBsJ7J/LIGA-CHILE-20240427-161308-0000.png" ,WIN+||
@@ -79,6 +83,8 @@ http://galaxypro.online:8080/ZxqFt5gV/Ku7f4UFL/239466
 http://galaxypro.online:8080/ZxqFt5gV/Ku7f4UFL/692067
 #EXTINF:-1 group-title="⚪ | LIG⚽ COLOMBIA⚪" tvg-logo="http://digitaltvsv.com:80/images/-kRhDmGtaRfxVEGEnqonPYYJ3II90qWVw3nUzY8l-Yfmv4LtUAk1o9xU2VsUgQs8.png" ,Win Sports HD
 http://galaxypro.online:8080/ZxqFt5gV/Ku7f4UFL/697594
+
+
 #EXTINF:-1 group-title="⚪ | LIG⚽ MX✰EVENTOS◯" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/LigaMX.png" ,Liga M.X || T-U-D-N || (Eventos) 
 http://galaxypro.online:8080/ZxqFt5gV/Ku7f4UFL/283296
 #EXTINF:-1 group-title="⚪ | LIG⚽ MX✰EVENTOS◯" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/LigaMX.png" ,Liga M.X || Fox Sports Premium | Mexico (Eventos) 
@@ -137,108 +143,6 @@ http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/60260
 
 #EXTINF:-1 group-title="→ ESPAÑA LA LIGA ←" ,LALIGA TV FHD (INGLES)
 http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/256385
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="https://logo.iptveditor.com/mlb.png" ,MLB HD
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/46639
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="https://logo.iptveditor.com/mlbnetwork.png" ,MLB Network
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/46640
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="http://starplus.club:8080/images/3a22ae392dc8117b869a705f4579284e.png" ,MLB Network
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/46641
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoKEVDGjOwb7HbhCRDK9KW3B77oNMk79GXqu0ZZl5nCmguUI6Y" ,MLB: NETWORK STRIKE ZONE USA (Tuesday and Friday nights only)
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59061
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png" ,MLB Game of the Week
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59062
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="http://undergroundservice.xyz:8080/images/CY1SLXz9y-wbSC_xQ_JMoNa8mzkg1Bq76ZZOhGtomt6fI3NA8Ddg8SbCBg_GXYvI4U1c2fArjACRflLUZveEfr5ccbIMoAeUhmaEwsTcCnewXLn_4DkKXdLanwySbjHt-WtT1hq7SLzboVXA5QEuWjLXNw7CpdjDp4gGIkQDgwk.png" ,MLB 01 | Arizona at Atlanta	12:20pm
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59063
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="https://image.roku.com/developer_channels/prod/fba94b17bc2612b614c93237c06f00587e1c35560e24025930549855e86d42e5.png" ,MLB 02 | Milwaukee at Philadelphia	12:35pm
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59064
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="https://image.roku.com/developer_channels/prod/fba94b17bc2612b614c93237c06f00587e1c35560e24025930549855e86d42e5.png" ,MLB 03 | San Francisco at Cincinnati	12:35pm
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59065
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="https://image.roku.com/developer_channels/prod/fba94b17bc2612b614c93237c06f00587e1c35560e24025930549855e86d42e5.png" ,MLB 04 | San Diego at Toronto	1:07pm
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59066
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="https://image.roku.com/developer_channels/prod/fba94b17bc2612b614c93237c06f00587e1c35560e24025930549855e86d42e5.png" ,MLB 05 | Chi. White Sox at NY Mets	1:10pm
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59067
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="https://image.roku.com/developer_channels/prod/fba94b17bc2612b614c93237c06f00587e1c35560e24025930549855e86d42e5.png" ,MLB 06 | Detroit at Kansas City	2:10pm
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59068
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="https://image.roku.com/developer_channels/prod/fba94b17bc2612b614c93237c06f00587e1c35560e24025930549855e86d42e5.png" ,MLB 07 | Minnesota at Seattle	3:40pm
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59069
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="https://image.roku.com/developer_channels/prod/fba94b17bc2612b614c93237c06f00587e1c35560e24025930549855e86d42e5.png" ,MLB 08 | San Diego at Washington | 7:05PM ET
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59070
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="https://image.roku.com/developer_channels/prod/fba94b17bc2612b614c93237c06f00587e1c35560e24025930549855e86d42e5.png" ,MLB 09 | St. Louis at Chi. Cubs	8:05pm
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59071
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="https://image.roku.com/developer_channels/prod/fba94b17bc2612b614c93237c06f00587e1c35560e24025930549855e86d42e5.png" ,MLB 10 | Houston at Oakland	9:40pm
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59072
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="https://image.roku.com/developer_channels/prod/fba94b17bc2612b614c93237c06f00587e1c35560e24025930549855e86d42e5.png" ,MLB 11 | OFF
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59073
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="https://image.roku.com/developer_channels/prod/fba94b17bc2612b614c93237c06f00587e1c35560e24025930549855e86d42e5.png" ,MLB 12 | OFF
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59074
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="https://image.roku.com/developer_channels/prod/fba94b17bc2612b614c93237c06f00587e1c35560e24025930549855e86d42e5.png" ,MLB 13 | OFF
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59075
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="https://image.roku.com/developer_channels/prod/fba94b17bc2612b614c93237c06f00587e1c35560e24025930549855e86d42e5.png" ,MLB 14 | OFF
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59076
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="https://image.roku.com/developer_channels/prod/fba94b17bc2612b614c93237c06f00587e1c35560e24025930549855e86d42e5.png" ,MLB 15 | OFF
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59077
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="https://image.roku.com/developer_channels/prod/fba94b17bc2612b614c93237c06f00587e1c35560e24025930549855e86d42e5.png" ,MLB 16 | OFF
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59078
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="http://undergroundservice.xyz:8080/images/84cedf68bbf346ce30418fd5b2d09f58.png" ,USA: MLB WASHINGTON NATIONALS
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59079
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="http://undergroundservice.xyz:8080/images/0ad15fb9c0afd94e92a286fd4e3e9955.jpg" ,USA: MLB TORONTO BLUE JAYS
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59080
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="http://undergroundservice.xyz:8080/images/318a759f61d436ac056f7e2c23ba7778.png" ,USA: MLB TEXAS RANGERS
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59081
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="http://undergroundservice.xyz:8080/images/ba6987ee40b65361842f650e659df72a.png" ,USA: MLB TAMPA BAY RAYS
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59082
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="http://undergroundservice.xyz:8080/images/a0953f182225f4ffbd466af19b6a1fe2.png" ,USA: MLB ST LOUIS CARDINALS
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59083
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="https://th.bing.com/th/id/OIP.slFSoF9RDcdf9_a8u77fSQHaHa?pid=Api&rs=1" ,USA: MLB SEATTLE MARINERS
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59084
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="http://undergroundservice.xyz:8080/images/4106c1c7170fd071b1ed48b13a855c24.png" ,USA: MLB SAN FRANCISCO GIANTS
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59085
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="http://undergroundservice.xyz:8080/images/41f78e9e729c31bd7e76fa6fa45ac073.png" ,USA: MLB SAN DIEGO PADRES
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59086
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="http://undergroundservice.xyz:8080/images/99a94e627acf2052ef581eba22354d4d.png" ,USA: MLB PITTSBURGH PIRATES
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59087
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="http://3.bp.blogspot.com/-SuWyfwL-CK8/T16EOq8MtjI/AAAAAAAAAvU/ZP-EKJBgSc4/s1600/1984-1991+Philadelphia+Phillies+Vintage+Logo.gif" ,USA: MLB PHILADELPHIA PHILLIES
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59088
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="http://undergroundservice.xyz:8080/images/d3fe77b8345b99d582437bb5ed7aa5d6.png" ,USA: MLB OAKLAND ATHLETICS
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59089
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="http://undergroundservice.xyz:8080/images/2d4858902c3ab52178e2e1ef4690319b.png" ,USA: MLB NEW YORK YANKEES
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59090
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="http://undergroundservice.xyz:8080/images/1aec6e5b7da45609f1ef9c100bd0f99e.png" ,USA: MLB NEW YORK METS
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59091
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="http://undergroundservice.xyz:8080/images/d1c2b20b0b4d7ad664a0115818d8ed12.PNG" ,USA: MLB MINNESOTA TWINS
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59092
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="http://undergroundservice.xyz:8080/images/d35b8ab9e72d3b05be06a36f50c0a87d.png" ,USA: MLB MILWAUKEE BREWERS
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59093
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="http://undergroundservice.xyz:8080/images/6be13d94cc80ed48efd99b83b52947fe.png" ,USA: MLB MIAMI MARLINS
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59094
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="http://undergroundservice.xyz:8080/images/2db8aa9a030fac18ca3200043e9ca880.png" ,USA: MLB LOS ANGELES DODGERS
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59095
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="http://undergroundservice.xyz:8080/images/3f8fc5d2efb5aa39a2c5bdbeccf503cf.png" ,USA: MLB LOS ANGELES ANGELS
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59096
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="http://undergroundservice.xyz:8080/images/e514280e951baa91ef5d52bafdade5ab.png" ,USA: MLB KANSAS CITY ROYALS
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59097
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="http://undergroundservice.xyz:8080/images/32f971601271644c94a928d609c9244b.png" ,USA: MLB HOUSTON ASTROS
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59098
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="http://assets.stickpng.com/thumbs/584d44640a44bd1070d5d43c.png" ,USA: MLB DETRIOT TIGERS
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59099
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="http://undergroundservice.xyz:8080/images/ec402110cc43bcca4890894d07242141.png" ,USA: MLB COLORADO ROCKIES
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59100
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="http://undergroundservice.xyz:8080/images/9da4dfa10278f32b3c414ce81709d339.png" ,USA: MLB CLEVELAND GUARDIANS
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59101
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="http://undergroundservice.xyz:8080/images/223bb5db0feeaf7118d3c044f5a97807.png" ,USA: MLB CINCINNATI REDS
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59102
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="http://undergroundservice.xyz:8080/images/1665948257cc463e5334d77057702e27.jpg" ,USA: MLB CHICAGO WHITE SOX
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59103
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="http://undergroundservice.xyz:8080/images/664c90ea6920691b4463186ae2df70d3.png" ,USA: MLB CHICAGO CUBS
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59104
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="http://undergroundservice.xyz:8080/images/ad20314cf3e435fca472e9346144100c.png" ,USA: MLB BOSTON RED SOX
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59105
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="http://undergroundservice.xyz:8080/images/cef5478093a4bf0675b656fbee7f8545.png" ,USA: MLB BALTIMORE ORIOLES
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59106
-#EXTINF:-1 group-title="→ MLB (EVENTOS) ←" tvg-logo="http://undergroundservice.xyz:8080/images/f493e05a33238d315911632b0c5f09c7.png" ,USA: MLB ATLANTA BRAVES
-http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/59107
-
-
 
 #EXTINF:-1 group-title="🟢BUNDESLIGA⚽️🔵" tvg-logo="http://sltv-logo.cms-s.com/logo/germany/sky_bundesliga_hd_1.png" tvg-id="skybundesliga1.de" ,DE: SKY SPORT BUNDESLIGA 1 QHD
 http://funmitra.com:8080/alexpatsionidis/4vsJN6LFNM/572012
