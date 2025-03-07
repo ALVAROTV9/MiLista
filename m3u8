@@ -144,10 +144,12 @@ http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/60260
 #EXTINF:-1 group-title="→ ESPAÑA LA LIGA ←" ,LALIGA TV FHD (INGLES)
 http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/256385
 
-#EXTINF:-1 group-title="🟢BUNDESLIGA⚽️🔵" tvg-logo="http://sltv-logo.cms-s.com/logo/germany/sky_bundesliga_hd_1.png" tvg-id="skybundesliga1.de" ,DE: SKY SPORT BUNDESLIGA 1 QHD
-http://funmitra.com:8080/alexpatsionidis/4vsJN6LFNM/572012
+#EXTINF:-1 group-title="🟢BUNDESLIGA⚽️🔵" tvg-logo="http://sltv-logo.cms-s.com/logo/germany/sky_bundesliga_hd_1.png" tvg-id="skybundesliga1.de" ,DE: SKY SPORT BUNDESLIGA 1
+http://tv.proyectox.vip:8080/live/branpedro1/ruQgukbETS/110681.ts
+
 #EXTINF:-1 group-title="🟢BUNDESLIGA⚽️🔵" tvg-logo="http://sltv-logo.cms-s.com/logo/germanynew/skySportBundesligaUHD.png" tvg-id="skysportbundesligauhd.de" ,DE: SKY SPORT BUNDESLIGA UHD (SPIELZEIT)
 http://funmitra.com:8080/alexpatsionidis/4vsJN6LFNM/548737
+
 #EXTINF:-1 group-title="🟢BUNDESLIGA⚽️🔵" tvg-logo="http://sltv-logo.cms-s.com/logo/germany/sky_bundesliga_hd_2.png" tvg-id="skybundesliga2.de" ,DE: SKY SPORT BUNDESLIGA 2 HD (SPIELZEIT)
 http://funmitra.com:8080/alexpatsionidis/4vsJN6LFNM/3413
 #EXTINF:-1 group-title="🟢BUNDESLIGA⚽️🔵" tvg-logo="http://sltv-logo.cms-s.com/logo/germany/sky_bundesliga_hd_3.png" tvg-id="skybundesliga3.de" ,DE: SKY SPORT BUNDESLIGA 3 HD (SPIELZEIT)
