@@ -154,14 +154,20 @@ http://funmitra.com:8080/alexpatsionidis/4vsJN6LFNM/548737
 http://funmitra.com:8080/alexpatsionidis/4vsJN6LFNM/3413
 #EXTINF:-1 group-title="🟢BUNDESLIGA⚽️🔵" tvg-logo="http://sltv-logo.cms-s.com/logo/germany/sky_bundesliga_hd_3.png" tvg-id="skybundesliga3.de" ,DE: SKY SPORT BUNDESLIGA 3 HD (SPIELZEIT)
 http://funmitra.com:8080/alexpatsionidis/4vsJN6LFNM/3412
-#EXTINF:-1 group-title="🟢PREMIER⚽️LEAGUE🔵" tvg-logo="http://sltv-logo.cms-s.com/logo/germanynew/skySportPremLeag.png" tvg-id="skysportpremierleague.de" ,DE: SKY SPORT PREMIER LEAGUE HD
-http://funmitra.com:8080/alexpatsionidis/4vsJN6LFNM/426452
-#EXTINF:-1 group-title="🟢PREMIER⚽️LEAGUE🔵" tvg-logo="http://sltv-logo.cms-s.com/logo/germanynew/skySportPremLeag.png" tvg-id="skysportpremierleague.de" ,DE: SKY SPORT PREMIER LEAGUE FHD
-http://funmitra.com:8080/alexpatsionidis/4vsJN6LFNM/426457
-#EXTINF:-1 group-title="🟢PREMIER⚽️LEAGUE🔵" tvg-logo="http://pic.qw1234.org/logos/tn_pl.png" tvg-id="skysportspremiereleague.uk" ,UK: SKY SPORTS PREMIER LEAGUE HD
-http://funmitra.com:8080/alexpatsionidis/4vsJN6LFNM/1312
-#EXTINF:-1 group-title="🟢PREMIER⚽️LEAGUE🔵" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4010.png" tvg-id="skysportspremiereleague.uk" ,UK: VIP SKY SPORTS PREMIER LEAGUE FHD
-http://funmitra.com:8080/alexpatsionidis/4vsJN6LFNM/234480
+
+
+#EXTINF:-1 group-title="🟢PREMIER⚽️LEAGUE🔵" tvg-logo="http://sltv-logo.cms-s.com/logo/germanynew/skySportPremLeag.png" tvg-id="skysportpremierleague.de" ,PREMIER LEAGUE HD
+http://theplay.club:8080/live/Ceeajay0937mexicos/6466mexicos574:/44510.ts
+
+#EXTINF:-1 group-title="🟢PREMIER⚽️LEAGUE🔵" tvg-logo="http://sltv-logo.cms-s.com/logo/germanynew/skySportPremLeag.png" tvg-id="skysportpremierleague.de" ,PREMIER LEAGUE FHD
+http://theplay.club:8080/live/Ceeajay0937mexicos/6466mexicos574:/49359.ts
+
+#EXTINF:-1 group-title="🟢PREMIER⚽️LEAGUE🔵" tvg-logo="http://pic.qw1234.org/logos/tn_pl.png" tvg-id="skysportspremiereleague.uk" ,PREMIER LEAGUE 3
+http://theplay.club:8080/live/Ceeajay0937mexicos/6466mexicos574:/49426.ts
+
+#EXTINF:-1 group-title="🟢PREMIER⚽️LEAGUE🔵" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4010.png" tvg-id="skysportspremiereleague.uk" ,PREMIER LEAGUE FHD 4
+http://theplay.club:8080/live/Ceeajay0937mexicos/6466mexicos574:/49427.ts
+
 #EXTINF:-1 group-title="🟢PREMIER⚽️LEAGUE🔵" tvg-logo="http://pic.qw1234.org/logos/tn_pl.png" tvg-id="skysportspremiereleague.uk" ,UK: SKY SPORTS PREMIER LEAGUE FHD
 http://funmitra.com:8080/alexpatsionidis/4vsJN6LFNM/14979
 #EXTINF:-1 group-title="🟢PREMIER⚽️LEAGUE🔵" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1303.png" tvg-id="skysportspremiereleague.uk" ,UK: VIP SKY SPORTS PREMIER LEAGUE
