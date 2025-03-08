@@ -60,10 +60,19 @@ http://canal-pro.xyz:8080/live/9622510tv/234caszx3/20286.ts
 #EXTINF:-1 group-title="⚪ | LIG⚽☆SAUDITA⚪" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/270-pro-league.png" ,Liga Saudi:| ◉ | EXCLUSIVO♦️
 http://galaxypro.online:8080/ZxqFt5gV/Ku7f4UFL/568421
 
+
 #EXTINF:-1 group-title="⚪ | LIG⚽ ARGENTINA⚪" tvg-logo="https://www.designfootball.com/images/joomgallery/originals/football_crests_8/argentine_league_logo_20150922_1459918887.png" ,ᴬᴿᴳ: ➀ | ⒺⓈⓅⓃ Argentina |
 http://galaxypro.online:8080/ZxqFt5gV/Ku7f4UFL/99753
+
+#EXTINF:-1 group-title="⚪ | LIG⚽ ARGENTINA⚪" tvg-logo="https://www.designfootball.com/images/joomgallery/originals/football_crests_8/argentine_league_logo_20150922_1459918887.png" tvg-id="ES2ESP" ,ᴬᴿᴳ: ➀ | ⒺⓈⓅⓃ | tyc
+http://esmicanal.com:8080/live/Peppe_DaddioR3st/cUWBytpB2hKp/69033.ts
+
 #EXTINF:-1 group-title="⚪ | LIG⚽ ARGENTINA⚪" tvg-logo="https://www.designfootball.com/images/joomgallery/originals/football_crests_8/argentine_league_logo_20150922_1459918887.png" tvg-id="ES2ESP" ,ᴬᴿᴳ: ➀ | ⒺⓈⓅⓃ Premium | UHD 
 http://galaxypro.online:8080/ZxqFt5gV/Ku7f4UFL/288894
+
+#EXTINF:-1 group-title="⚪ | LIG⚽ ARGENTINA⚪" tvg-logo="https://www.designfootball.com/images/joomgallery/originals/football_crests_8/argentine_league_logo_20150922_1459918887.png" ,ᴬᴿᴳ: ➀| ⓉⓃⓉ Sports | vip
+http://esmicanal.com:8080/live/Peppe_DaddioR3st/cUWBytpB2hKp/42440.ts
+
 #EXTINF:-1 group-title="⚪ | LIG⚽ ARGENTINA⚪" tvg-logo="https://www.designfootball.com/images/joomgallery/originals/football_crests_8/argentine_league_logo_20150922_1459918887.png" ,ᴬᴿᴳ: ➀| ⓉⓃⓉ Sports | UHD
 http://galaxypro.online:8080/ZxqFt5gV/Ku7f4UFL/280930
 #EXTINF:-1 group-title="⚪ | LIG⚽ ARGENTINA⚪" tvg-logo="https://www.designfootball.com/images/joomgallery/originals/football_crests_8/argentine_league_logo_20150922_1459918887.png" tvg-id="DISJMXH" ,ᴬᴿᴳ: ➀| ⓉⓎⒸ Sports |
@@ -77,6 +86,8 @@ http://galaxypro.online:8080/ZxqFt5gV/Ku7f4UFL/383996
 #EXTINF:-1 group-title="⚪ | LIG⚽ BRASIL⚪" tvg-logo="https://1000logos.net/wp-content/uploads/2019/01/Campeonato-Brasileiro-Serie-A-logo-2019.png" ,Campeonato Carioca | EXCLUSIVO |
 http://galaxypro.online:8080/ZxqFt5gV/Ku7f4UFL/383997
 
+#EXTINF:-1 group-title="⚪ | LIG⚽ COLOMBIA⚪" tvg-logo="http://digitaltvsv.com:80/images/-kRhDmGtaRfxVEGEnqonPYYJ3II90qWVw3nUzY8l-Yfmv4LtUAk1o9xU2VsUgQs8.png" ,WIN+| EXCLUSIVO vip
+http://esmicanal.com:8080/live/Peppe_DaddioR3st/cUWBytpB2hKp/135705.ts
 
 #EXTINF:-1 group-title="⚪ | LIG⚽ COLOMBIA⚪" tvg-logo="http://digitaltvsv.com:80/images/-kRhDmGtaRfxVEGEnqonPYYJ3II90qWVw3nUzY8l-Yfmv4LtUAk1o9xU2VsUgQs8.png" ,WIN+| EXCLUSIVO
 http://galaxypro.online:8080/ZxqFt5gV/Ku7f4UFL/697645
