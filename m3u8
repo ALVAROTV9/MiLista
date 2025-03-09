@@ -180,6 +180,9 @@ http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/60260
 #EXTINF:-1 group-title="→ ESPAÑA LA LIGA ←" ,LALIGA TV FHD (INGLES)
 http://fastream.xyz:8080/j0409tv2p24/2024csjvtv24/256385
 
+#EXTINF:-1 group-title="🟢BUNDESLIGA⚽️🔵" tvg-logo="http://sltv-logo.cms-s.com/logo/germany/sky_bundesliga_hd_1.png" tvg-id="skybundesliga1.de" ,SKY SPORT BUNDESLIGA
+http://dm.lion-ott.com/live/Emre1733320/8Eyt2727/699773.ts
+
 #EXTINF:-1 group-title="🟢BUNDESLIGA⚽️🔵" tvg-logo="http://sltv-logo.cms-s.com/logo/germany/sky_bundesliga_hd_1.png" tvg-id="skybundesliga1.de" ,DE: SKY SPORT BUNDESLIGA 1
 http://tv.proyectox.vip:8080/live/branpedro1/ruQgukbETS/110681.ts
 
@@ -191,6 +194,8 @@ http://funmitra.com:8080/alexpatsionidis/4vsJN6LFNM/3413
 #EXTINF:-1 group-title="🟢BUNDESLIGA⚽️🔵" tvg-logo="http://sltv-logo.cms-s.com/logo/germany/sky_bundesliga_hd_3.png" tvg-id="skybundesliga3.de" ,DE: SKY SPORT BUNDESLIGA 3 HD (SPIELZEIT)
 http://funmitra.com:8080/alexpatsionidis/4vsJN6LFNM/3412
 
+#EXTINF:-1 group-title="🟢PREMIER⚽️LEAGUE🔵" tvg-logo="http://sltv-logo.cms-s.com/logo/germanynew/skySportPremLeag.png" tvg-id="skysportpremierleague.de" ,PREMIER LEAGUE Sky Sprts
+http://dm.lion-ott.com/live/Emre1733320/8Eyt2727/750142.ts
 
 #EXTINF:-1 group-title="🟢PREMIER⚽️LEAGUE🔵" tvg-logo="http://sltv-logo.cms-s.com/logo/germanynew/skySportPremLeag.png" tvg-id="skysportpremierleague.de" ,PREMIER LEAGUE HD
 http://theplay.club:8080/live/Ceeajay0937mexicos/6466mexicos574:/44510.ts
