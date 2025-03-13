@@ -198,6 +198,13 @@ http://theplay.club:8080/live/Ceeajay0937mexicos/6466mexicos574:/44510.ts
 #EXTINF:-1 group-title="🟢PREMIER⚽️LEAGUE🔵" tvg-logo="http://sltv-logo.cms-s.com/logo/germanynew/skySportPremLeag.png" tvg-id="skysportpremierleague.de" ,PREMIER LEAGUE FHD
 http://theplay.club:8080/live/Ceeajay0937mexicos/6466mexicos574:/49359.ts
 
+#EXTINF:-1 group-title="🟢PREMIER⚽️LEAGUE🔵" tvg-logo="https://i.ibb.co/t2czvx2/Premier-League-Logo-svg.png" ,EPL: PREMIER LEAGUE 1 A
+http://monerotv.net/live/FatmirKraja/kGKd64cm3/62984.ts
+
+#EXTINF:-1 group-title="🟢PREMIER⚽️LEAGUE🔵" tvg-logo="https://i.ibb.co/t2czvx2/Premier-League-Logo-svg.png" ,EPL: PREMIER LEAGUE 1 B
+http://monerotv.net/live/FatmirKraja/kGKd64cm3/86377.ts
+
+
 #EXTINF:-1 group-title="🟢PREMIER⚽️LEAGUE🔵" tvg-logo="http://pic.qw1234.org/logos/tn_pl.png" tvg-id="skysportspremiereleague.uk" ,PREMIER LEAGUE 3
 http://theplay.club:8080/live/Ceeajay0937mexicos/6466mexicos574:/49426.ts
 
@@ -217,6 +224,14 @@ http://funmitra.com:8080/alexpatsionidis/4vsJN6LFNM/538086
 #EXTINF:-1 group-title="🟢PREMIER⚽️LEAGUE🔵" tvg-logo="https://i.ibb.co/t2czvx2/Premier-League-Logo-svg.png" ,EPL: PREMIER LEAGUE 1 HD
 http://funmitra.com:8080/alexpatsionidis/4vsJN6LFNM/538085
 
+#EXTINF:-1 group-title="🟢SERIEA⚽️ITALIA" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sport220/Sky_Sport_Serie_A.png" ,INTER CHANNEL SERIE A
+http://monerotv.net/live/FatmirKraja/kGKd64cm3/30878.ts
+
+#EXTINF:-1 group-title="🟢SERIEA⚽️ITALIA" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sport220/Sky_Sport_Serie_A.png" ,MILAN CHANNEL SERIE A
+http://monerotv.net/live/FatmirKraja/kGKd64cm3/30879.ts
+
+#EXTINF:-1 group-title="🟢SERIEA⚽️ITALIA" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sport220/Sky_Sport_Serie_A.png" ,LAZIO CHANNEL SERIE A
+http://monerotv.net/live/FatmirKraja/kGKd64cm3/30877.ts
 
 #EXTINF:-1 group-title="🟢SERIEA⚽️ITALIA" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sport220/Sky_Sport_Serie_A.png" ,IT: SKY SPORT SERIE A
 http://funmitra.com:8080/alexpatsionidis/4vsJN6LFNM/169389
