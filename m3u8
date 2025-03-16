@@ -208,10 +208,14 @@ http://tv.proyectox.vip:8080/live/branpedro1/ruQgukbETS/110681.ts
 http://cinevadinest.xyz:8080/live/PantelimonescuGabriel/OxrL2iBfDPvhHGqToqVyN3vpiDqycX/124540.ts
 
 #EXTINF:-1 group-title="🟢BUNDESLIGA⚽️🔵" tvg-logo="http://sltv-logo.cms-s.com/logo/germany/sky_bundesliga_hd_2.png" tvg-id="skybundesliga2.de" ,DE: SKY SPORT BUNDESLIGA 2 HD (SPIELZEIT)
-http://funmitra.com:8080/alexpatsionidis/4vsJN6LFNM/3413
+http://world-service.us:8080/live/salvoalbero/watlNpoHjQ/57145.ts
 
 #EXTINF:-1 group-title="🟢BUNDESLIGA⚽️🔵" tvg-logo="http://sltv-logo.cms-s.com/logo/germany/sky_bundesliga_hd_3.png" tvg-id="skybundesliga3.de" ,DE: SKY SPORT BUNDESLIGA 3 HD (SPIELZEIT)
-http://funmitra.com:8080/alexpatsionidis/4vsJN6LFNM/3412
+http://world-service.us:8080/live/salvoalbero/watlNpoHjQ/57146.ts
+
+#EXTINF:-1 group-title="🟢PREMIER⚽️LEAGUE🔵" tvg-logo="http://sltv-logo.cms-s.com/logo/germanynew/skySportPremLeag.png" tvg-id="skysportpremierleague.de" ,PREMIER LEAGUE Sky Sprts
+http://world-service.us:8080/live/salvoalbero/watlNpoHjQ/57125.ts
+
 
 #EXTINF:-1 group-title="🟢PREMIER⚽️LEAGUE🔵" tvg-logo="http://sltv-logo.cms-s.com/logo/germanynew/skySportPremLeag.png" tvg-id="skysportpremierleague.de" ,PREMIER LEAGUE Sky Sprts
 http://dm.lion-ott.com/live/Emre1733320/8Eyt2727/750142.ts
@@ -247,6 +251,16 @@ http://funmitra.com:8080/alexpatsionidis/4vsJN6LFNM/494993
 http://funmitra.com:8080/alexpatsionidis/4vsJN6LFNM/538086
 #EXTINF:-1 group-title="🟢PREMIER⚽️LEAGUE🔵" tvg-logo="https://i.ibb.co/t2czvx2/Premier-League-Logo-svg.png" ,EPL: PREMIER LEAGUE 1 HD
 http://funmitra.com:8080/alexpatsionidis/4vsJN6LFNM/538085
+
+
+#EXTINF:-1 group-title="🟢SERIEA⚽️ITALIA" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sport220/Sky_Sport_Serie_A.png" ,SERIE A EN VIVO
+http://world-service.us:8080/live/salvoalbero/watlNpoHjQ/80961.ts
+
+#EXTINF:-1 group-title="🟢SERIEA⚽️ITALIA" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sport220/Sky_Sport_Serie_A.png" ,SERIE A EN VIVO 2
+http://world-service.us:8080/live/salvoalbero/watlNpoHjQ/80963.ts
+
+#EXTINF:-1 group-title="🟢SERIEA⚽️ITALIA" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sport220/Sky_Sport_Serie_A.png" ,SERIE A EN VIVO 3
+http://world-service.us:8080/live/salvoalbero/watlNpoHjQ/80964.ts
 
 #EXTINF:-1 group-title="🟢SERIEA⚽️ITALIA" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sport220/Sky_Sport_Serie_A.png" ,SERIE A excl 1
 http://cinevadinest.xyz:8080/live/PantelimonescuGabriel/OxrL2iBfDPvhHGqToqVyN3vpiDqycX/139744.ts
