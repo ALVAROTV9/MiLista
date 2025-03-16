@@ -205,10 +205,11 @@ http://dm.lion-ott.com/live/Emre1733320/8Eyt2727/699773.ts
 http://tv.proyectox.vip:8080/live/branpedro1/ruQgukbETS/110681.ts
 
 #EXTINF:-1 group-title="🟢BUNDESLIGA⚽️🔵" tvg-logo="http://sltv-logo.cms-s.com/logo/germanynew/skySportBundesligaUHD.png" tvg-id="skysportbundesligauhd.de" ,DE: SKY SPORT BUNDESLIGA UHD (SPIELZEIT)
-http://funmitra.com:8080/alexpatsionidis/4vsJN6LFNM/548737
+http://cinevadinest.xyz:8080/live/PantelimonescuGabriel/OxrL2iBfDPvhHGqToqVyN3vpiDqycX/124540.ts
 
 #EXTINF:-1 group-title="🟢BUNDESLIGA⚽️🔵" tvg-logo="http://sltv-logo.cms-s.com/logo/germany/sky_bundesliga_hd_2.png" tvg-id="skybundesliga2.de" ,DE: SKY SPORT BUNDESLIGA 2 HD (SPIELZEIT)
 http://funmitra.com:8080/alexpatsionidis/4vsJN6LFNM/3413
+
 #EXTINF:-1 group-title="🟢BUNDESLIGA⚽️🔵" tvg-logo="http://sltv-logo.cms-s.com/logo/germany/sky_bundesliga_hd_3.png" tvg-id="skybundesliga3.de" ,DE: SKY SPORT BUNDESLIGA 3 HD (SPIELZEIT)
 http://funmitra.com:8080/alexpatsionidis/4vsJN6LFNM/3412
 
@@ -247,7 +248,7 @@ http://funmitra.com:8080/alexpatsionidis/4vsJN6LFNM/538086
 #EXTINF:-1 group-title="🟢PREMIER⚽️LEAGUE🔵" tvg-logo="https://i.ibb.co/t2czvx2/Premier-League-Logo-svg.png" ,EPL: PREMIER LEAGUE 1 HD
 http://funmitra.com:8080/alexpatsionidis/4vsJN6LFNM/538085
 
-#EXTINF:-1 group-title="🟢SERIEA⚽️ITALIA" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sport220/Sky_Sport_Serie_A.png" ,INTER CHANNEL SERIE A
+#EXTINF:-1 group-title="🟢SERIEA⚽️ITALIA" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sport220/Sky_Sport_Serie_A.png" ,SERIE A excl 1
 http://cinevadinest.xyz:8080/live/PantelimonescuGabriel/OxrL2iBfDPvhHGqToqVyN3vpiDqycX/139744.ts
 
 #EXTINF:-1 group-title="🟢SERIEA⚽️ITALIA" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sport220/Sky_Sport_Serie_A.png" ,MILAN CHANNEL SERIE A
@@ -264,12 +265,16 @@ http://cinevadinest.xyz:8080/live/PantelimonescuGabriel/OxrL2iBfDPvhHGqToqVyN3vp
 
 #EXTINF:-1 group-title="🟢SERIEA⚽️ITALIA" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-4-1.png" ,IT:  ZONA DAZN SERIE A FHD
 http://funmitra.com:8080/alexpatsionidis/4vsJN6LFNM/538116
-#EXTINF:-1 group-title="🟢SERIEA⚽️ITALIA" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-4-1.png" ,IT:  ZONA DAZN SERIE A HD
-http://funmitra.com:8080/alexpatsionidis/4vsJN6LFNM/538115
-#EXTINF:-1 group-title="🟢SERIEA⚽️ITALIA" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-4-1.png" ,IT:  ZONA DAZN SERIE A SD
-http://funmitra.com:8080/alexpatsionidis/4vsJN6LFNM/538114
-#EXTINF:-1 group-title="🟢SERIEA⚽️ITALIA" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-4-1.png" ,IT:  DAZN SERIE A 1 FHD
-http://funmitra.com:8080/alexpatsionidis/4vsJN6LFNM/538110
+
+#EXTINF:-1 group-title="🟢SERIEA⚽️ITALIA" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-4-1.png" ,SERIE A 2
+http://world-service.us:8080/live/salvoalbero/watlNpoHjQ/80953.ts
+
+#EXTINF:-1 group-title="🟢SERIEA⚽️ITALIA" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-4-1.png" ,SERIE A 3
+http://world-service.us:8080/live/salvoalbero/watlNpoHjQ/80954.ts
+
+#EXTINF:-1 group-title="🟢SERIEA⚽️ITALIA" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-4-1.png" ,SERIE A 4
+http://world-service.us:8080/live/salvoalbero/watlNpoHjQ/80955.ts
+
 #EXTINF:-1 group-title="🟢SERIEA⚽️ITALIA" tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-4-1.png" ,IT:  DAZN SERIE A 2 FHD
 http://funmitra.com:8080/alexpatsionidis/4vsJN6LFNM/538107
 #EXTINF:-1 group-title="🟢SERIEA⚽️ITALIA" ,IT: VIP SERIE A RADIOTV LIVE
