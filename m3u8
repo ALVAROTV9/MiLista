@@ -3,11 +3,10 @@
 *Lista gratis de varios Servidores iptv
 de uso personal, Diariamente Actualizada**
 
-#EXTINF:-1 group-title="🟢🔵🔴⭐ALVAROTV" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,ALVAROTV 14 MIL MES/ACTIVA TU PASIÓN 
+#EXTINF:-1 group-title="🟢DEPORTES⭐ALVAROTV🔵" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,ALVAROTV 14 MIL MES/ACTIVA TU PASIÓN 
 http://embed-cloudfront.wistia.com/deliveries/80c9c73aed3f00a41d47114bb1e379f8717b965e.m3u8
-#EXTINF:-1 group-title="🟢🔵🔴⭐ALVAROTV" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,WHATSAPP 3170905878
+#EXTINF:-1 group-title="🟢DEPORTES⭐ALVAROTV🔵" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,WHATSAPP 3170905878
 http://embed-cloudfront.wistia.com/deliveries/cfb3b86ec2bd97c4ec438dff86babb79a9f20de8.m3u8
-
 
 
 #EXTINF:-1 group-title="🟢DEPORTES⭐ALVAROTV🔵" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTO DISNEY+ 1a
@@ -120,6 +119,46 @@ http://directo.ddns.me:33200/felipenarcelles/felipe7388/5616
 http://directo.ddns.me:33200/felipenarcelles/felipe7388/52561
 #EXTINF:-1 group-title="🟢DEPORTES⭐ALVAROTV🔵" tvg-logo="https://www.chillglobal.com/images/channels/teledeporte-1432657347.jpg" tvg-id="Teledeporte.es" ,Teledeporte
 http://directo.ddns.me:33200/felipenarcelles/felipe7388/49493
+
+
+
+#EXTINF:-1 group-title="🟢ESPN⭐DIRECTV🔵" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" tvg-id="ESPN.co" ,DEPORTES - Espn 1 COL (PM)(1080)
+http://tv.proyectox.vip:8080/branpedro1/ruQgukbETS/9516
+#EXTINF:-1 group-title="🟢ESPN⭐DIRECTV🔵" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" tvg-id="ESPN.(Mexico).(ESPMX).mx" ,DEPORTES - Espn 1 MEX (L)(720)
+http://tv.proyectox.vip:8080/branpedro1/ruQgukbETS/9523
+#EXTINF:-1 group-title="🟢ESPN⭐DIRECTV🔵" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" tvg-id="ESPN.2.co" ,DEPORTES - Espn 2 COL (TV)(1080)
+http://tv.proyectox.vip:8080/branpedro1/ruQgukbETS/9529
+#EXTINF:-1 group-title="🟢ESPN⭐DIRECTV🔵" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" tvg-id="ESPN.2.Latin.North.(Mexico).(ESPN2M).mx" ,DEPORTES - Espn 2 MEX (L)(720)
+http://tv.proyectox.vip:8080/branpedro1/ruQgukbETS/9530
+#EXTINF:-1 group-title="🟢ESPN⭐DIRECTV🔵" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" tvg-id="ESPN.3.South.(Latin.America).(ESPN3).ar" ,DEPORTES - Espn 3 ARG (Z)(720)
+http://tv.proyectox.vip:8080/branpedro1/ruQgukbETS/9534
+#EXTINF:-1 group-title="🟢ESPN⭐DIRECTV🔵" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" tvg-id="ESPN.3.HDTV.North.(Latin.America).(ESPN3HD).mx" ,DEPORTES - Espn 3 MEX (M)(1080)
+http://tv.proyectox.vip:8080/branpedro1/ruQgukbETS/9535
+#EXTINF:-1 group-title="🟢ESPN⭐DIRECTV🔵" tvg-logo="https://i.postimg.cc/FF6fT894/Espn4.png" tvg-id="ESPN.4.Latin.America.HDTV.(Southern.Feed.-.Premium).(ESPN4).ar" ,DEPORTES - Espn 4 (T)(720)
+http://tv.proyectox.vip:8080/branpedro1/ruQgukbETS/9538
+#EXTINF:-1 group-title="🟢ESPN⭐DIRECTV🔵" tvg-logo="https://i.postimg.cc/FF6fT894/Espn4.png" tvg-id="ESPN.Extra.Centroamérica.HDTV.(ESPNXTRA).mx" ,DEPORTES - Espn 4 MEX (M)(1080)
+http://tv.proyectox.vip:8080/branpedro1/ruQgukbETS/9537
+#EXTINF:-1 group-title="🟢ESPN⭐DIRECTV🔵" tvg-logo="https://i.postimg.cc/CKNknVHr/Proyecto-X-21.png" tvg-id="ESPN.5.co" ,DEPORTES - Espn 5 (M)(1080)
+http://tv.proyectox.vip:8080/branpedro1/ruQgukbETS/9539
+#EXTINF:-1 group-title="🟢ESPN⭐DIRECTV🔵" tvg-logo="https://i.postimg.cc/CKNknVHr/Proyecto-X-21.png" tvg-id="ESPN.5.co" ,DEPORTES - Espn 5 (TV)(720)
+http://tv.proyectox.vip:8080/branpedro1/ruQgukbETS/9540
+#EXTINF:-1 group-title="🟢ESPN⭐DIRECTV🔵" tvg-logo="https://i.postimg.cc/XJYFwDsj/Proyecto-X-19.png" tvg-id="ESPN.6.HD.co" ,DEPORTES - Espn 6 (Z)(720)
+http://tv.proyectox.vip:8080/branpedro1/ruQgukbETS/9541
+#EXTINF:-1 group-title="🟢ESPN⭐DIRECTV🔵" tvg-logo="https://i.postimg.cc/6pCdwZ7X/Proyecto-X-20.png" tvg-id="ESPN.7.HD.co" ,DEPORTES - Espn 7 (PM)(720)
+http://tv.proyectox.vip:8080/branpedro1/ruQgukbETS/9543
+#EXTINF:-1 group-title="🟢ESPN⭐DIRECTV🔵" tvg-logo="https://1.bp.blogspot.com/-vSV4gemywH8/Xay_akC3pjI/AAAAAAAAAkk/QhiScGYRuK0gmoHsOkqUAy5v1AijHvCwgCLcBGAsYHQ/s200/9.png" tvg-id="ESPN.Deportes.HDTV.(EDEPHD).us" ,DEPORTES - Espn Deportes (MEX) (Z)(720)
+http://tv.proyectox.vip:8080/branpedro1/ruQgukbETS/9544
+#EXTINF:-1 group-title="🟢ESPN⭐DIRECTV🔵" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" tvg-id="ESPN.Extra.Centroamérica.HDTV.(ESPNXTRA).mx" ,DEPORTES - Espn Deportes MEX (M)(SD)
+http://tv.proyectox.vip:8080/branpedro1/ruQgukbETS/9548
+#EXTINF:-1 group-title="🟢ESPN⭐DIRECTV🔵" tvg-logo="https://lh3.googleusercontent.com/-jOfICTahjos/YoBRF4ftRiI/AAAAAAAADns/sO-bk2urxu0N3pCgD0ADRNC-D40slmGCgCNcBGAsYHQ/w200-h200/1652576530328166-0.png" tvg-id="ESPN.PREMIUM.ar" ,DEPORTES - ESPN Premium ARG (L)(SD)
+http://tv.proyectox.vip:8080/branpedro1/ruQgukbETS/9549
+#EXTINF:-1 group-title="🟢ESPN⭐DIRECTV🔵" tvg-logo="https://lh3.googleusercontent.com/-dxZyXXWvJDs/Yqp2MbCoR6I/AAAAAAAADpo/seuq6KMCveEvoqmHXCpW5Z9W3fS7qtHyQCNcBGAsYHQ/w200-h200/1655338543433516-0.png" tvg-id="DSPORTS.+.HD.dtvsp" ,DEPORTES - Directv Sports + (TV)(720)
+http://tv.proyectox.vip:8080/branpedro1/ruQgukbETS/9559
+#EXTINF:-1 group-title="🟢ESPN⭐DIRECTV🔵" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" tvg-id="DSPORTS.(ARG).dtvsp" ,DEPORTES - Directv Sports 1 (ARG) (TV)(1080)
+http://tv.proyectox.vip:8080/branpedro1/ruQgukbETS/9560
+#EXTINF:-1 group-title="🟢ESPN⭐DIRECTV🔵" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png" tvg-id="DSPORTS.2.HD.dtvsp" ,DEPORTES - Directv Sports 2 (e)(1080)
+http://tv.proyectox.vip:8080/branpedro1/ruQgukbETS/9564
+
 
 
 
