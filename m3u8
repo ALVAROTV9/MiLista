@@ -5,24 +5,6 @@
 de uso personal, Diariamente Actualizada**
 
 
-#EXTINF:-1 group-title="⚪ | EVENT◯S✰AL✰DIA◯" tvg-logo="https://i.ibb.co/C5CFNxQ/PPVEVENTOS-processed.png" ,EVENTOS PPV 1
-http://galaxypro.online:8080/ZxqFt5gV/Ku7f4UFL/204751
-#EXTINF:-1 group-title="⚪ | EVENT◯S✰AL✰DIA◯" tvg-logo="https://i.ibb.co/C5CFNxQ/PPVEVENTOS-processed.png" ,EVENTO PPV 2
-http://galaxypro.online:8080/ZxqFt5gV/Ku7f4UFL/211296
-#EXTINF:-1 group-title="⚪ | EVENT◯S✰AL✰DIA◯" tvg-logo="https://i.ibb.co/C5CFNxQ/PPVEVENTOS-processed.png" ,EVENTO PPV 3   
-http://galaxypro.online:8080/ZxqFt5gV/Ku7f4UFL/218215
-#EXTINF:-1 group-title="⚪ | EVENT◯S✰AL✰DIA◯" tvg-logo="https://i.ibb.co/C5CFNxQ/PPVEVENTOS-processed.png" ,EVENTO PPV 5  
-http://galaxypro.online:8080/ZxqFt5gV/Ku7f4UFL/219881
-#EXTINF:-1 group-title="⚪ | EVENT◯S✰AL✰DIA◯" tvg-logo="https://i.ibb.co/C5CFNxQ/PPVEVENTOS-processed.png" ,EVENTO PPV 6 
-http://galaxypro.online:8080/ZxqFt5gV/Ku7f4UFL/293853
-#EXTINF:-1 group-title="⚪ | EVENT◯S✰AL✰DIA◯" tvg-logo="https://i.ibb.co/C5CFNxQ/PPVEVENTOS-processed.png" ,EVENTO PPV 7
-http://galaxypro.online:8080/ZxqFt5gV/Ku7f4UFL/376253
-#EXTINF:-1 group-title="⚪ | EVENT◯S✰AL✰DIA◯" tvg-logo="https://i.ibb.co/C5CFNxQ/PPVEVENTOS-processed.png" ,EVENTO PPV 8
-http://galaxypro.online:8080/ZxqFt5gV/Ku7f4UFL/562091
-
-
-
-
 #EXTINF:-1 group-title="🟢DEPORTES⭐ALVAROTV🔵" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,ALVAROTV 14 MIL MES/ACTIVA TU PASIÓN
 http://embed-cloudfront.wistia.com/deliveries/80c9c73aed3f00a41d47114bb1e379f8717b965e.m3u8
 #EXTINF:-1 group-title="🟢DEPORTES⭐ALVAROTV🔵" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,WHATSAPP 3170905878
@@ -235,10 +217,24 @@ http://tv.proyectox.vip:8080/branpedro1/ruQgukbETS/9559
 http://tv.proyectox.vip:8080/branpedro1/ruQgukbETS/9560
 #EXTINF:-1 group-title="🟢ESPN⭐DIRECTV🔵" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png" tvg-id="DSPORTS.2.HD.dtvsp" ,DEPORTES - Directv Sports 2 (e)(1080)
 http://tv.proyectox.vip:8080/branpedro1/ruQgukbETS/9564
+
+
 #EXTINF:-1 group-title="🟢MLB⭐⭐NBA🔴" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" tvg-id="I213.62081.schedulesdirect.org" ,MLB Network
 http://directo.ddns.me:33200/felipenarcelles/felipe7388/38900
-#EXTINF:-1 group-title="🟢MLB⭐⭐NBA🔴" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" ,MLB Network 2
+
+#EXTINF:-1 group-title="🟢MLB⭐⭐NBA🔴" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" tvg-id="I213.62081.schedulesdirect.org" ,MLB Net
+http://tvpremiund.ddns.me:2082/live/stefapenaloza/iroquitv12/38900.ts
+
+#EXTINF:-1 group-title="🟢MLB⭐⭐NBA🔴" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" ,MLB EN VIVO 2
 http://directo.ddns.me:33200/felipenarcelles/felipe7388/49190
+
+#EXTINF:-1 group-title="🟢MLB⭐⭐NBA🔴" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" ,MLB EN VIVO 3
+http://tvpremiund.ddns.me:2082/live/stefapenaloza/iroquitv12/52073.ts
+
+#EXTINF:-1 group-title="🟢MLB⭐⭐NBA🔴" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" ,MLB EN VIVO 4
+http://tvpremiund.ddns.me:2082/live/stefapenaloza/iroquitv12/76978.ts
+
+
 #EXTINF:-1 group-title="🟢MLB⭐⭐NBA🔴" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" ,MLB Network 3
 http://directo.ddns.me:33200/felipenarcelles/felipe7388/49191
 #EXTINF:-1 group-title="🟢MLB⭐⭐NBA🔴" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" ,MLB Network 4
