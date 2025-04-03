@@ -11,7 +11,7 @@ http://embed-cloudfront.wistia.com/deliveries/80c9c73aed3f00a41d47114bb1e379f871
 http://ultra-tv.xyz:8080/live/JoseHerrera12/qLwDgkb7Ce/461.ts
 
 #EXTINF:-1 group-title="🟢FUT⭐COLOMBIANO🔵" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,FITBOL 2
-http://ultra-tv.xyz:8080/live/JoseHerrera12/qLwDgkb7Ce/464.ts
+http://cincotv.org:25461/live/Guille0505/Cerritos05/92646.ts
 
 #EXTINF:-1 group-title="🟢FUT⭐COLOMBIANO🔵" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,FITBOL 3
 http://stklatino.dynns.com:2082/live/56956698848faceztv/21102023ztv/56942.ts
@@ -45,18 +45,29 @@ http://embed-cloudfront.wistia.com/deliveries/80c9c73aed3f00a41d47114bb1e379f871
 http://embed-cloudfront.wistia.com/deliveries/cfb3b86ec2bd97c4ec438dff86babb79a9f20de8.m3u8
 #EXTINF:-1 group-title="🟢DEPORTES⭐ALVAROTV🔵" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTO DISNEY+ 1a
 http://directo.ddns.me:33200/live/felipenarcelles/felipe7388/76849.ts
-#EXTINF:-1 group-title="🟢DEPORTES⭐ALVAROTV🔵" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTO DISNEY+ 1b
+#EXTINF:-1 group-title="🟢DEPORTES⭐ALVAROTV🔵" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTO DISNEY+ 2
 http://directo.ddns.me:33200/live/felipenarcelles/felipe7388/56934.ts
+
+#EXTINF:-1 group-title="🟢DEPORTES⭐ALVAROTV🔵" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" ,PPV• EVENTOS SKY SPORTS
+http://cincotv.org:25461/live/Guille0505/Cerritos05/188846.ts
+
+#EXTINF:-1 group-title="🟢DEPORTES⭐ALVAROTV🔵" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" ,PPV• EVENTOS FUBO SPORTS
+http://cincotv.org:25461/live/Guille0505/Cerritos05/188843.ts
+
 #EXTINF:-1 group-title="🟢DEPORTES⭐ALVAROTV🔵" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" ,PPV• EVENTOS 1 (a)
 http://world-qualite.xyz:8080/live/natalie67942aq/aquea674833na/20203.ts
+
 #EXTINF:-1 group-title="🟢DEPORTES⭐ALVAROTV🔵" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" ,PPV• EVENTOS 2 (a)
 http://world-qualite.xyz:8080/live/natalie67942aq/aquea674833na/20220.ts
+
 #EXTINF:-1 group-title="🟢DEPORTES⭐ALVAROTV🔵" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" ,PPV• EVENTOS 3 (a)
 http://world-qualite.xyz:8080/live/natalie67942aq/aquea674833na/20233.ts
+
 #EXTINF:-1 group-title="🟢DEPORTES⭐ALVAROTV🔵" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" ,PPV• EVENTOS 4 (HD)
 http://world-qualite.xyz:8080/live/natalie67942aq/aquea674833na/20285.ts
 #EXTINF:-1 group-title="🟢DEPORTES⭐ALVAROTV🔵" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" ,PPV• EVENTOS 5 (HD)
 http://world-qualite.xyz:8080/live/natalie67942aq/aquea674833na/20286.ts
+
 #EXTINF:-1 group-title="🟢DEPORTES⭐ALVAROTV🔵" tvg-logo="https://1.bp.blogspot.com/-bwERD1EYUso/XjHTaAko5tI/AAAAAAAAA-M/MpTKAtCF0rUt9cvpn-Chpk3PKth9aEWJwCLcBGAsYHQ/s200/33.png" tvg-id="beIN.Sports.HDTV.(English).(beIn).us" ,DEPORTES - beIN Sport USA (M)(720)
 http://tv.proyectox.vip:8080/branpedro1/ruQgukbETS/9551
 #EXTINF:-1 group-title="🟢DEPORTES⭐ALVAROTV🔵" tvg-logo="https://1.bp.blogspot.com/-tAUwJtdvbyo/XzSE6JkSizI/AAAAAAAAA6Q/_piNFBzgsDIwr6cAbeqS3cteFcgInfjvACLcBGAsYHQ/w200-h200/128%2BGOL%2BTV.png" tvg-id="GOLTV.us" ,DEPORTES - Gol TV Internacional (TV)(720)
