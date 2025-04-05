@@ -298,20 +298,6 @@ http://170.39.192.130:2095/56941193361playtv/250823playtv/322300
 http://170.39.192.130:2095/56941193361playtv/250823playtv/322301
 #EXTINF:-1 group-title=" ⭐ EVENTOS PPV " tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw9fgmaPkU8qNs4qTeZy2Osq6l-dsVKNmlh__E-8j9qtziHIV8IaDgx0-4WHRZRG_Uyn0jRDyhbCHbFTrqe64n8s.png" ,05/04 01:30am Los Angeles Clippers vs Dallas Mavericks
 http://170.39.192.130:2095/56941193361playtv/250823playtv/322302
-#EXTINF:-1 group-title="EVENTOS DIARIOS" tvg-logo="https://i.postimg.cc/J7gQ1JJW/D1.png" ,Di SPORT arg.
-http://170.39.192.130:2095/56941193361playtv/250823playtv/266909
-#EXTINF:-1 group-title="EVENTOS DIARIOS" tvg-logo="https://podecomparar.com.br/sites/podecomparar.com.br/files/logo-estadio-tnt-sports-150px.png" ,EstadioT.N.T*
-http://170.39.192.130:2095/56941193361playtv/250823playtv/266910
-#EXTINF:-1 group-title="EVENTOS DIARIOS" tvg-logo="https://podecomparar.com.br/sites/podecomparar.com.br/files/logo-estadio-tnt-sports-150px.png" ,Op.2 TN*T stadium
-http://170.39.192.130:2095/56941193361playtv/250823playtv/266911
-#EXTINF:-1 group-title="EVENTOS DIARIOS" tvg-logo="https://playtvchile.com/eventos.png" ,CANAL DE EVENTOS opc1
-http://170.39.192.130:2095/56941193361playtv/250823playtv/266912
-#EXTINF:-1 group-title="EVENTOS DIARIOS" tvg-logo="https://playtvchile.com/eventos.png" ,CANAL DE EVENTOS opc2
-http://170.39.192.130:2095/56941193361playtv/250823playtv/266913
-#EXTINF:-1 group-title="EVENTOS DIARIOS" tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" ,Star+ eventos deportivos
-http://170.39.192.130:2095/56941193361playtv/250823playtv/277031
-
-
 
 
 
@@ -340,10 +326,40 @@ http://galaxypro.online:8080/ZxqFt5gV/Ku7f4UFL/697594
 http://goldfull.pro:8880/Mauricioa24/SnVpagLTPMBj/167738
 #EXTINF:-1 group-title="🟢FUT⭐COLOMBIANO🔵" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,FITBOL 10
 http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/84897.ts
+
+
+
+
+
+
 #EXTINF:-1 group-title="🟢DEPORTES⭐ALVAROTV🔵" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,ALVAROTV 14 MIL MES/ACTIVA TU PASIÓN
 http://embed-cloudfront.wistia.com/deliveries/80c9c73aed3f00a41d47114bb1e379f8717b965e.m3u8
+
 #EXTINF:-1 group-title="🟢DEPORTES⭐ALVAROTV🔵" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,WHATSAPP 3170905878
 http://embed-cloudfront.wistia.com/deliveries/cfb3b86ec2bd97c4ec438dff86babb79a9f20de8.m3u8
+
+
+#EXTINF:-1 group-title="🟢DEPORTES⭐ALVAROTV🔵" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,ALVAROTV EVENTO 1
+http://170.39.192.130:2095/56941193361playtv/250823playtv/266909
+
+#EXTINF:-1 group-title="🟢DEPORTES⭐ALVAROTV🔵" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,ALVAROTV EVENTO 1
+http://170.39.192.130:2095/56941193361playtv/250823playtv/266910
+
+#EXTINF:-1 group-title="🟢DEPORTES⭐ALVAROTV🔵" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,ALVAROTV EVENTO 1
+http://170.39.192.130:2095/56941193361playtv/250823playtv/266911
+
+#EXTINF:-1 group-title="EVENTOS DIARIOS" tvg-logo="https://playtvchile.com/eventos.png" ,CANAL DE EVENTOS opc1
+http://170.39.192.130:2095/56941193361playtv/250823playtv/266912
+
+#EXTINF:-1 group-title="🟢DEPORTES⭐ALVAROTV🔵" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,ALVAROTV EVENTO 1
+http://170.39.192.130:2095/56941193361playtv/250823playtv/266913
+
+#EXTINF:-1 group-title="🟢DEPORTES⭐ALVAROTV🔵" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,ALVAROTV EVENTO 1
+http://170.39.192.130:2095/56941193361playtv/250823playtv/277031
+
+
+
+
 #EXTINF:-1 group-title="🟢DEPORTES⭐ALVAROTV🔵" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTO DISNEY+ 1a
 http://directo.ddns.me:33200/live/felipenarcelles/felipe7388/76849.ts
 #EXTINF:-1 group-title="🟢DEPORTES⭐ALVAROTV🔵" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTO DISNEY+ 2
