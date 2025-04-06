@@ -209,29 +209,37 @@ http://tv.proyectox.vip:8080/branpedro1/ruQgukbETS/9564
 
 
 
-#EXTINF:-1 group-title="🟢MLB⭐⭐NBA🔴" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" ,MLB EN VIVO 2
+#EXTINF:-1 group-title="🟢MLB⭐⭐NBA🔴" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" ,MLB 1
 http://tv.proyectox.vip:8080/live/branpedro1/ruQgukbETS/114596.ts
 
-#EXTINF:-1 group-title="🟢MLB⭐⭐NBA🔴" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" ,MLB AT&T
+#EXTINF:-1 group-title="🟢MLB⭐⭐NBA🔴" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" ,MLB 2
 http://tv.proyectox.vip:8080/live/branpedro1/ruQgukbETS/114597.ts
 
-#EXTINF:-1 group-title="🟢MLB⭐⭐NBA🔴" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" ,MLB EN VIVO 3
+#EXTINF:-1 group-title="🟢MLB⭐⭐NBA🔴" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" ,MLB 3 
 http://tv.proyectox.vip:8080/live/branpedro1/ruQgukbETS/84672.ts
 
-#EXTINF:-1 group-title="🟢MLB⭐⭐NBA🔴" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" ,MLB EN VIVO 4
+#EXTINF:-1 group-title="🟢MLB⭐⭐NBA🔴" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" ,MLB 4
 http://tv.proyectox.vip:8080/live/branpedro1/ruQgukbETS/114607.ts
 
-#EXTINF:-1 group-title="🟢MLB⭐⭐NBA🔴" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" ,MLB Network 3
+#EXTINF:-1 group-title="🟢MLB⭐⭐NBA🔴" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" ,MLB 5
 http://tv.proyectox.vip:8080/live/branpedro1/ruQgukbETS/114600.ts
 
-#EXTINF:-1 group-title="🟢MLB⭐⭐NBA🔴" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" ,MLB Network 4
+#EXTINF:-1 group-title="🟢MLB⭐⭐NBA🔴" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" ,MLB 6
 http://tv.proyectox.vip:8080/live/branpedro1/ruQgukbETS/114601.ts
 
-#EXTINF:-1 group-title="🟢MLB⭐⭐NBA🔴" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" ,MLB Network 5
+#EXTINF:-1 group-title="🟢MLB⭐⭐NBA🔴" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" ,MLB 7
 http://tv.proyectox.vip:8080/live/branpedro1/ruQgukbETS/114599.ts
 
-#EXTINF:-1 group-title="🟢MLB⭐⭐NBA🔴" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" ,MLB Network 6
+#EXTINF:-1 group-title="🟢MLB⭐⭐NBA🔴" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" ,MLB 8
+http://tv.proyectox.vip:8080/live/branpedro1/ruQgukbETS/114604.ts
+
+#EXTINF:-1 group-title="🟢MLB⭐⭐NBA🔴" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" ,MLB 9
+http://tv.proyectox.vip:8080/live/branpedro1/ruQgukbETS/114609.ts
+
+#EXTINF:-1 group-title="🟢MLB⭐⭐NBA🔴" tvg-logo="https://i.ibb.co/JxBvMgh/1200px-MLBNetwork-Logo-svg.png" ,MLB 10
 http://directo.ddns.me:33200/felipenarcelles/felipe7388/76979
+
+
 #EXTINF:-1 group-title="🟢MLB⭐⭐NBA🔴" tvg-logo="https://sc.dish.com/shared/images/station-logos/NBATV.png" tvg-id="I216.32281.schedulesdirect.org" ,NBA TV
 http://directo.ddns.me:33200/felipenarcelles/felipe7388/3104
 #EXTINF:-1 group-title="🟢MLB⭐⭐NBA🔴" tvg-logo="https://sc.dish.com/shared/images/station-logos/NBATV.png" tvg-id="I676.32281.schedulesdirect.org" ,NBA Network
