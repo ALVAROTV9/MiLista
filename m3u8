@@ -9,6 +9,10 @@ de uso personal, Diariamente Actualizada**
 #EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" ,ALVAROTV WIN SPORTS+  »1«
 http://embed-cloudfront.wistia.com/deliveries/80c9c73aed3f00a41d47114bb1e379f8717b965e.m3u8
 
+#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" ,PPV• EVENTOS COLOMBIA
+http://tv.proyectox.vip:8080/live/branpedro1/ruQgukbETS/8476.ts
+
+
 #EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" ,WIN SPORTS+ (HD) »2«
 http://galaxypro.online:8080/live/ZxqFt5gV/Ku7f4UFL/93494.ts
 
