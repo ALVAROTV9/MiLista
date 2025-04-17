@@ -203,7 +203,8 @@ http://monstertv.site:8080/53809909/80485729/1004087
 #EXTINF:-1 group-title="🟢MLB🔴ALVAROTV🔵" tvg-logo="https://i.ibb.co/Df85zSL/washington-nationals.png" ,MLB: Washington Nationals (WAS) SD (F)
 http://monstertv.site:8080/53809909/80485729/1004088
 
-
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,ALVAROTV »BUNDESLIGA«
+http://tv.proyectox.vip:8080/aarcila/8KqMg4kAWM/110681
 
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,ALVAROTV »SERIE A«
 http://anonyflux.myddns.me/live/Fabian/t76P3oOU23/181219.ts
@@ -413,8 +414,9 @@ http://tv.proyectox.vip:8080/aarcila/8KqMg4kAWM/9611
 http://tv.proyectox.vip:8080/aarcila/8KqMg4kAWM/9612
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://lh3.googleusercontent.com/-Br7dLua2HYc/YkjfrZ9IdzI/AAAAAAAADd8/uFaZ9I5FrckfSZ22_0RaaH-63zhw_TpOQCNcBGAsYHQ/w200-h200/1648943020342945-0.png" tvg-id="WWE.Network.us" ,DEPORTES - WWE (M)(720)
 http://tv.proyectox.vip:8080/aarcila/8KqMg4kAWM/9613
-#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://www.bundesliga-international.com/wordpress/wp-content/uploads/2021/08/Sky_Sports_PRIMARY_RGB-1024x219.png" ,UK | S-Ky Sports Bundesliga
-http://tv.proyectox.vip:8080/aarcila/8KqMg4kAWM/110681
+
+
+
 #EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://i.imgur.com/JwCLwQ2.png" ,3ABN Dare To Dream Network | US
 http://tv.proyectox.vip:8080/aarcila/8KqMg4kAWM/87932
 #EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://i.imgur.com/bgJQIyW.png" ,3ABN English | US
