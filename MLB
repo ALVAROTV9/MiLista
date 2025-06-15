@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/29ab412b32be53e4ce5c275146576c7f.png" ,MLB NETWORK
+http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99231
+#EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/fda9a7aed9c7abc054ef036e7b663f99.png" ,NETWORK STRIKE ZONE USA
+http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99233
+
+
 #EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/5d45e165ca38cb86952dd8ca8a86e4ce.png" ,ARIZONA DIAMONDBACKS
 http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99214
 #EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/3b0ef075fda563cfe702407242237836.png" ,ATLANTA BRAVES
@@ -34,10 +40,7 @@ http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99228
 http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99229
 #EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/f9d42d30a47fbfb55ea64bec5905e97e.png" ,MINNESOTA TWINS
 http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99230
-#EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/29ab412b32be53e4ce5c275146576c7f.png" ,MLB NETWORK
-http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99231
-#EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/fda9a7aed9c7abc054ef036e7b663f99.png" ,NETWORK STRIKE ZONE USA
-http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99233
+
 #EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/850fd93ed3f209400ed5b08cd69f6868.png" ,NEW YORK METS
 http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99234
 #EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/9136194216960057c9c318f8a21e3954.png" ,NEW YORK YANKEES
