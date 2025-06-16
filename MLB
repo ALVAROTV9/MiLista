@@ -2,6 +2,10 @@
 
 lista expira 4marzo2026 encontrada en telegram
 
+#EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,MLB EXCLUSIVO🟢ALVAROTV🔵
+http://embed-cloudfront.wistia.com/deliveries/80c9c73aed3f00a41d47114bb1e379f8717b965e.m3u8
+
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://content.sportslogos.net/logos/4/490/full/4227__major_league_baseball-primary-2019.png" ,MLB 01: EN VIVO
 http://ua-iptv.com:8080/Pete/stopoulos/1045562
 #EXTINF:-1 group-title="MLB" tvg-logo="https://content.sportslogos.net/logos/4/490/full/4227__major_league_baseball-primary-2019.png" ,MLB 02: EN VIVO
@@ -23,268 +27,282 @@ http://ua-iptv.com:8080/Pete/stopoulos/1003997
 #EXTINF:-1 group-title="MLB" tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_660,h_160/v1691782842/Dish/logos/MLBSZ_wzhwbd.png" ,MLB: MLB Strike Zone
 http://ua-iptv.com:8080/Pete/stopoulos/1044880
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/T8T84Ps/arizona-diamondbacks.png" ,MLB: Arizona Diamondbacks (ARI) (F)
-http://ua-iptv.com:8080/Pete/stopoulos/1044882
+http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99214
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/T8T84Ps/arizona-diamondbacks.png" ,MLB: Arizona Diamondbacks (ARI) SD (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044883
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/T8T84Ps/arizona-diamondbacks.png" ,MLB: Arizona Diamondbacks (S)
 http://ua-iptv.com:8080/Pete/stopoulos/1044881
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/4Rr7Sgq/atlanta-braves.png" ,MLB: Atlanta Braves (ATL) (F)
-http://ua-iptv.com:8080/Pete/stopoulos/1044884
+http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99215
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/4Rr7Sgq/atlanta-braves.png" ,MLB: Atlanta Braves (ATL) SD (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044885
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/4Rr7Sgq/atlanta-braves.png" ,MLB: Atlanta Braves (S)
 http://ua-iptv.com:8080/Pete/stopoulos/1044886
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/X2DLYzK/baltimore-orioles.png" ,MLB: Baltimore Orioles (BAL) (F)
-http://ua-iptv.com:8080/Pete/stopoulos/1044887
+http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99216
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/X2DLYzK/baltimore-orioles.png" ,MLB: Baltimore Orioles (BAL) SD (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044888
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/X2DLYzK/baltimore-orioles.png" ,MLB: Baltimore Orioles (S)
 http://ua-iptv.com:8080/Pete/stopoulos/1044889
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/vcJvMpJ/boston-red-sox.png" ,MLB: Boston Red Sox (BOS) (F)
-http://ua-iptv.com:8080/Pete/stopoulos/1044890
+http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99217
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/vcJvMpJ/boston-red-sox.png" ,MLB: Boston Red Sox (BOS) SD (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044891
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/vcJvMpJ/boston-red-sox.png" ,MLB: Boston Red Sox (S)
 http://ua-iptv.com:8080/Pete/stopoulos/1044892
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/rvZSqzm/chicago-cubs.png" ,MLB: Chicago Cubs (CHC) (F)
-http://ua-iptv.com:8080/Pete/stopoulos/1044893
+http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99218
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/rvZSqzm/chicago-cubs.png" ,MLB: Chicago Cubs (CHC) SD (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044894
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/rvZSqzm/chicago-cubs.png" ,MLB: Chicago Cubs (S)
 http://ua-iptv.com:8080/Pete/stopoulos/1044895
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/3rPgF2m/chicago-white-sox.png" ,MLB: Chicago White Sox (CHW) (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044896
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/3rPgF2m/chicago-white-sox.png" ,MLB: Chicago White Sox (CHW) SD (F)
-http://ua-iptv.com:8080/Pete/stopoulos/1044897
+http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99219
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/3rPgF2m/chicago-white-sox.png" ,MLB: Chicago White Sox (S)
 http://ua-iptv.com:8080/Pete/stopoulos/1044898
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/WHMTWFh/cincinnati-reds.png" ,MLB: Cincinnati Reds (CIN) (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044899
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/WHMTWFh/cincinnati-reds.png" ,MLB: Cincinnati Reds (CIN) SD (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044900
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/WHMTWFh/cincinnati-reds.png" ,MLB: Cincinnati Reds (S)
-http://ua-iptv.com:8080/Pete/stopoulos/1044901
+http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99220
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/rx0P8YY/cleveland-guardians.png" ,MLB: Cleveland Guardians (CLE) (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044902
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/rx0P8YY/cleveland-guardians.png" ,MLB: Cleveland Guardians (CLE) SD (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044903
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/rx0P8YY/cleveland-guardians.png" ,MLB: Cleveland Guardians (S)
-http://ua-iptv.com:8080/Pete/stopoulos/1044904
+http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99221
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/Y79JkD8/colorado-rockies.png" ,MLB: Colorado Rockies (COL) (F)
-http://ua-iptv.com:8080/Pete/stopoulos/1044905
+http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99222
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/Y79JkD8/colorado-rockies.png" ,MLB: Colorado Rockies (COL) SD (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044906
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/Y79JkD8/colorado-rockies.png" ,MLB: Colorado Rockies (S)
 http://ua-iptv.com:8080/Pete/stopoulos/1044907
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/gPQJ5fq/detroit-tigers.png" ,MLB: Detroit Tigers (DET) (F)
-http://ua-iptv.com:8080/Pete/stopoulos/1044908
+http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99223
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/gPQJ5fq/detroit-tigers.png" ,MLB: Detroit Tigers (DET) SD (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044909
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/gPQJ5fq/detroit-tigers.png" ,MLB: Detroit Tigers (S)
 http://ua-iptv.com:8080/Pete/stopoulos/1044910
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/zNpmjyH/houston-astros.png" ,MLB: Houston Astro (S)
-http://ua-iptv.com:8080/Pete/stopoulos/1044913
+http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99224
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/zNpmjyH/houston-astros.png" ,MLB: Houston Astros (HOU) (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044911
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/zNpmjyH/houston-astros.png" ,MLB: Houston Astros (HOU) SD (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044912
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/BgtwrHK/kansas-city-royals.png" ,MLB: Kansas City Royals (KCR) (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044914
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/BgtwrHK/kansas-city-royals.png" ,MLB: Kansas City Royals (KCR) SD (F)
-http://ua-iptv.com:8080/Pete/stopoulos/1044915
+http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99225
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/BgtwrHK/kansas-city-royals.png" ,MLB: Kansas City Royals (S)
 http://ua-iptv.com:8080/Pete/stopoulos/1044916
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/F04Fy3b/los-angeles-angels.png" ,MLB: Los Angeles Angels (LAA) (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044917
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/F04Fy3b/los-angeles-angels.png" ,MLB: Los Angeles Angels (LAA) SD (F)
-http://ua-iptv.com:8080/Pete/stopoulos/1044918
+http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99226
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/F04Fy3b/los-angeles-angels.png" ,MLB: Los Angeles Angels (S)
 http://ua-iptv.com:8080/Pete/stopoulos/1044919
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/sV96RRd/los-angeles-dodgers.png" ,MLB: Los Angeles Dodgers (LAD) (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044921
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/sV96RRd/los-angeles-dodgers.png" ,MLB: Los Angeles Dodgers (LAD) SD (F)
-http://ua-iptv.com:8080/Pete/stopoulos/1044922
+http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99227
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/sV96RRd/los-angeles-dodgers.png" ,MLB: Los Angeles Dodgers (S)
 http://ua-iptv.com:8080/Pete/stopoulos/1044920
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/fY4cDKV/miami-marlins.png" ,MLB: Miami Marlins (MIA) (F)
-http://ua-iptv.com:8080/Pete/stopoulos/1044923
+http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99228
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/fY4cDKV/miami-marlins.png" ,MLB: Miami Marlins (MIA) SD (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044924
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/fY4cDKV/miami-marlins.png" ,MLB: Miami Marlins (S)
 http://ua-iptv.com:8080/Pete/stopoulos/1044925
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/wSzTHmK/milwaukee-brewers.png" ,MLB: Milwaukee Brewers (MIL) (F)
-http://ua-iptv.com:8080/Pete/stopoulos/1044926
+http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99229
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/wSzTHmK/milwaukee-brewers.png" ,MLB: Milwaukee Brewers (MIL) SD (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044927
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/wSzTHmK/milwaukee-brewers.png" ,MLB: Milwaukee Brewers (S)
 http://ua-iptv.com:8080/Pete/stopoulos/1044928
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/kK9Ztt0/minnesota-twins.png" ,MLB: Minnesota Twins (MIN) (F)
-http://ua-iptv.com:8080/Pete/stopoulos/1044929
+http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99230
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/kK9Ztt0/minnesota-twins.png" ,MLB: Minnesota Twins (MIN) SD (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044930
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/kK9Ztt0/minnesota-twins.png" ,MLB: Minnesota Twins (S)
 http://ua-iptv.com:8080/Pete/stopoulos/1044931
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/RbFBj1k/new-york-mets.png" ,MLB: New York Mets (NYM) (F)
-http://ua-iptv.com:8080/Pete/stopoulos/1044932
+http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99234
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/RbFBj1k/new-york-mets.png" ,MLB: New York Mets (NYM) SD (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044933
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/RbFBj1k/new-york-mets.png" ,MLB: New York Mets (S)
 http://ua-iptv.com:8080/Pete/stopoulos/1044934
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/New_York_Yankees_Primary_Logo.svg/90px-New_York_Yankees_Primary_Logo.svg.png" ,MLB: New York Yankees (NYY) (F)
-http://ua-iptv.com:8080/Pete/stopoulos/1044935
+http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99235
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/New_York_Yankees_Primary_Logo.svg/90px-New_York_Yankees_Primary_Logo.svg.png" ,MLB: New York Yankees (NYY) SD (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044936
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/New_York_Yankees_Primary_Logo.svg/90px-New_York_Yankees_Primary_Logo.svg.png" ,MLB: New York Yankees (S)
 http://ua-iptv.com:8080/Pete/stopoulos/1044937
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/QPz7bKD/oakland-athletics.png" ,MLB: Oakland Athletics (OAK) (F)
-http://ua-iptv.com:8080/Pete/stopoulos/1044938
+http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99236
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/QPz7bKD/oakland-athletics.png" ,MLB: Oakland Athletics (OAK) SD (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044939
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/QPz7bKD/oakland-athletics.png" ,MLB: Oakland Athletics (S)
 http://ua-iptv.com:8080/Pete/stopoulos/1044940
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/jD14f7p/philadelphia-phillies.png" ,MLB: Philadelphia Phillies (PHI) (F)
-http://ua-iptv.com:8080/Pete/stopoulos/1044941
+http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99237
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/jD14f7p/philadelphia-phillies.png" ,MLB: Philadelphia Phillies (PHI) (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044942
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/jD14f7p/philadelphia-phillies.png" ,MLB: Philadelphia Phillies (PHI) SD (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044943
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/jD14f7p/philadelphia-phillies.png" ,MLB: Philadelphia Phillies (S)
 http://ua-iptv.com:8080/Pete/stopoulos/1044944
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/pjQ9v1P/pittsburgh-pirates.png" ,MLB: Pittsburgh Pirates (PIT) (F)
-http://ua-iptv.com:8080/Pete/stopoulos/1044945
+http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99238
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/pjQ9v1P/pittsburgh-pirates.png" ,MLB: Pittsburgh Pirates (PIT) SD (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044946
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/pjQ9v1P/pittsburgh-pirates.png" ,MLB: Pittsburgh Pirates (S)
 http://ua-iptv.com:8080/Pete/stopoulos/1044947
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/c2KMJhy/san-diego-padres.png" ,MLB: San Diego Padres (S)
-http://ua-iptv.com:8080/Pete/stopoulos/1044950
+http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99239
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/c2KMJhy/san-diego-padres.png" ,MLB: San Diego Padres (SDP) (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044948
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/c2KMJhy/san-diego-padres.png" ,MLB: San Diego Padres (SDP) SD (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044949
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/z2kBfNc/san-francisco-giants.png" ,MLB: San Francisco Giants (S)
-http://ua-iptv.com:8080/Pete/stopoulos/1044953
+http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99240
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/z2kBfNc/san-francisco-giants.png" ,MLB: San Francisco Giants (SFG) (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044951
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/z2kBfNc/san-francisco-giants.png" ,MLB: San Francisco Giants (SFG) SD (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044952
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Seattle_Mariners_logo_%28low_res%29.svg/100px-Seattle_Mariners_logo_%28low_res%29.svg.png" ,MLB: Seattle Mariners (S)
-http://ua-iptv.com:8080/Pete/stopoulos/1044956
+http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99241
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Seattle_Mariners_logo_%28low_res%29.svg/100px-Seattle_Mariners_logo_%28low_res%29.svg.png" ,MLB: Seattle Mariners (SEA) (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044954
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Seattle_Mariners_logo_%28low_res%29.svg/100px-Seattle_Mariners_logo_%28low_res%29.svg.png" ,MLB: Seattle Mariners (SEA) SD (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044955
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/DbwN2sw/st-louis-cardinals.png" ,MLB: St. Louis Cardinals (S)
-http://ua-iptv.com:8080/Pete/stopoulos/1044958
+http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99242
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/DbwN2sw/st-louis-cardinals.png" ,MLB: St. Louis Cardinals (STL) (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044957
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/DbwN2sw/st-louis-cardinals.png" ,MLB: St. Louis Cardinals (STL) SD (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044959
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/L6f31jR/tampa-bay-rays.png" ,MLB: Tampa Bay Rays (S)
-http://ua-iptv.com:8080/Pete/stopoulos/1044962
+http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99243
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/L6f31jR/tampa-bay-rays.png" ,MLB: Tampa Bay Rays (TBR) (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044960
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/L6f31jR/tampa-bay-rays.png" ,MLB: Tampa Bay Rays (TBR) SD (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044961
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/GkMqzmR/texas-rangers.png" ,MLB: Texas Rangers (S)
-http://ua-iptv.com:8080/Pete/stopoulos/1044965
+http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99244
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/GkMqzmR/texas-rangers.png" ,MLB: Texas Rangers (TEX) (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044963
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/GkMqzmR/texas-rangers.png" ,MLB: Texas Rangers (TEX) SD (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044964
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/hcp7HPB/toronto-blue-jays.png" ,MLB: Toronto Blue Jays (S)
-http://ua-iptv.com:8080/Pete/stopoulos/1044968
+http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99245
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/hcp7HPB/toronto-blue-jays.png" ,MLB: Toronto Blue Jays (TOR) (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044966
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/hcp7HPB/toronto-blue-jays.png" ,MLB: Toronto Blue Jays (TOR) SD (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044967
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/Df85zSL/washington-nationals.png" ,MLB: Washington Nationals (S)
-http://ua-iptv.com:8080/Pete/stopoulos/1044971
+http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99246
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/Df85zSL/washington-nationals.png" ,MLB: Washington Nationals (WAS) (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044969
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/Df85zSL/washington-nationals.png" ,MLB: Washington Nationals (WAS) SD (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044970
 
 
-#EXTINF:-1 group-title="MLB" tvg-logo="https://content.sportslogos.net/logos/4/490/full/4227__major_league_baseball-primary-2019.png" ,MLB 01: EN VIVO
 
 
-
-#EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,MLB EXCLUSIVO🟢ALVAROTV🔵
+#EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,MLB EXCLUSIVO🟢ALVAROTV🔵
 http://embed-cloudfront.wistia.com/deliveries/80c9c73aed3f00a41d47114bb1e379f8717b965e.m3u8
 
-
-#EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/29ab412b32be53e4ce5c275146576c7f.png" ,MLB NETWORK opc1
-http://ua-iptv.com:8080/live/Pete/stopoulos/1003997.ts
-#EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/29ab412b32be53e4ce5c275146576c7f.png" ,MLB NETWORK opc2
-http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99231
-
-#EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/fda9a7aed9c7abc054ef036e7b663f99.png" ,NETWORK STRIKE ZONE USA
-http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99233
-
-
-#EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/5d45e165ca38cb86952dd8ca8a86e4ce.png" ,ARIZONA DIAMONDBACKS
-
-
-#EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/5d45e165ca38cb86952dd8ca8a86e4ce.png" ,ARIZONA DIAMONDBACKS
-http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99214
-#EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/3b0ef075fda563cfe702407242237836.png" ,ATLANTA BRAVES
-http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99215
-#EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/291ae307ef41bdedb50860a97d148b78.png" ,BALTIMORE ORIOLES
-http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99216
-#EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/1e167ede65fbb96e8ba5ec891a998001.png" ,BOSTON RED SOX
-http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99217
-#EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/017ab4085e5b54f48515475e07ecadf0.png" ,CHICAGO CUBS
-http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99218
-#EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/cdba3c885874e3d96598bbb40c91f88b.png" ,CHICAGO WHITE SOX
-http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99219
-#EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/0de0d2779813b4f616e87b8cbb59b643.png" ,CINCINNATI REDS
-http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99220
-#EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/eb51bbd7893c4be4f970b6c6040bf77d.png" ,CLEVELAND GUARDIANS
-http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99221
-#EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/b7ac12025b52196a92b2fec52fff2ef4.png" ,COLORADO ROCKIES
-http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99222
-#EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/f17675e7b6e9a0c50b6dd46762965aeb.png" ,DETROIT TIGERS
-http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99223
-#EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/f14141b7c0f3b4e77453e22d5fa60b5e.png" ,HOUSTON ASTROS
-http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99224
-#EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/10ea8a1a175a1878178861d19563e60d.png" ,ROYALS
-http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99225
-#EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/f87fae1b91e83e94244dec0075990374.png" ,LOS ANGELES ANGELS
-http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99226
-#EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/e8fdc9a7a5ee0c6377ea14d84679464f.png" ,LOS ANGELES DODGERS
-http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99227
-#EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/d959b0dd549e60f823d67dd5885953d1.png" ,MIAMI MARLINS
-http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99228
-#EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/c2997ae232c461bd1a9dc264658016d6.png" ,MILWAUKEE BREWERS
-http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99229
-#EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/f9d42d30a47fbfb55ea64bec5905e97e.png" ,MINNESOTA TWINS
-http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99230
-
-#EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/850fd93ed3f209400ed5b08cd69f6868.png" ,NEW YORK METS
-http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99234
-#EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/9136194216960057c9c318f8a21e3954.png" ,NEW YORK YANKEES
-http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99235
-#EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/511a2407164d1876e473177f163de3f0.png" ,OAKLAND ATHLETICS
-http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99236
-#EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/42738e6b8b48e8d053fc9faad49118d7.png" ,PHILADELPHIA PHILLIES
-http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99237
-#EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/10bd41b613005ef9372efb2f08efd432.png" ,PITTSBURGH PIRATES
-http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99238
-#EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/a1ff0fe9b23a46ecdb574331ebf1d404.png" ,SAN DIEGO PADRES
-http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99239
-#EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/b30b55b3dfb639a5f086dae11543bdc5.png" ,SAN FRANCISCO GIANTS
-http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99240
-#EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/429e1d3c23a35c0fe572a9944ef2ea68.png" ,SEATTLE MARINERS
-http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99241
-#EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/d256a90731c98a6ed6860b4405bad9e3.png" ,ST LOUIS CARDINALS
-http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99242
-#EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/0c52d216e7bca9b3810882db2ea75cac.png" ,TAMPA BAY RAYS
-http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99243
-#EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/031578a18f7e2fa33af8e0c210d3bc3b.png" ,TEXAS RANGERS
-http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99244
-#EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/f72979e7ca68d28b58062133f3692e95.png" ,TORONTO BLUE JAYS
-http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99245
-#EXTINF:-1 group-title="29. MLB TEAM FEEDS" tvg-logo="http://onlytimewilltell.xyz:2086/images/3433db872d590c299c362b53568a58d7.png" ,WASHINGTON NATIONALS
-http://ns106911.ip-51-81-106.us:25461/rjames3804@verizon.net/xaDjwwNmXY/99246
 
