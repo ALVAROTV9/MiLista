@@ -2,6 +2,22 @@
 
 lista expira 4marzo2026 encontrada en telegram
 
+#EXTINF:-1 group-title="MLB" tvg-logo="https://content.sportslogos.net/logos/4/490/full/4227__major_league_baseball-primary-2019.png" ,MLB 01: EN VIVO
+http://ua-iptv.com:8080/Pete/stopoulos/1045562
+#EXTINF:-1 group-title="MLB" tvg-logo="https://content.sportslogos.net/logos/4/490/full/4227__major_league_baseball-primary-2019.png" ,MLB 02: EN VIVO
+http://ua-iptv.com:8080/Pete/stopoulos/1045563
+#EXTINF:-1 group-title="MLB" tvg-logo="https://content.sportslogos.net/logos/4/490/full/4227__major_league_baseball-primary-2019.png" ,MLB 03: EN VIVO
+http://ua-iptv.com:8080/Pete/stopoulos/1049042
+#EXTINF:-1 group-title="MLB" tvg-logo="https://content.sportslogos.net/logos/4/490/full/4227__major_league_baseball-primary-2019.png" ,MLB 04: EN VIVO
+http://ua-iptv.com:8080/Pete/stopoulos/1045565
+#EXTINF:-1 group-title="MLB" tvg-logo="https://content.sportslogos.net/logos/4/490/full/4227__major_league_baseball-primary-2019.png" ,MLB 05: EN VIVO
+http://ua-iptv.com:8080/Pete/stopoulos/1049043
+#EXTINF:-1 group-title="MLB" tvg-logo="https://content.sportslogos.net/logos/4/490/full/4227__major_league_baseball-primary-2019.png" ,MLB 06: EN VIVO
+http://ua-iptv.com:8080/Pete/stopoulos/1049044
+#EXTINF:-1 group-title="MLB" tvg-logo="https://content.sportslogos.net/logos/4/490/full/4227__major_league_baseball-primary-2019.png" ,MLB 07: EN VIVO
+http://ua-iptv.com:8080/Pete/stopoulos/1049045
+
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/8zbcwSh/mlb-network.png" tvg-id="MLBNetwork.us" ,MLB: MLB Network
 http://ua-iptv.com:8080/Pete/stopoulos/1003997
 #EXTINF:-1 group-title="MLB" tvg-logo="https://res.cloudinary.com/clearlink/image/upload/f_auto,q_auto/w_660,h_160/v1691782842/Dish/logos/MLBSZ_wzhwbd.png" ,MLB: MLB Strike Zone
@@ -188,20 +204,9 @@ http://ua-iptv.com:8080/Pete/stopoulos/1044971
 http://ua-iptv.com:8080/Pete/stopoulos/1044969
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/Df85zSL/washington-nationals.png" ,MLB: Washington Nationals (WAS) SD (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044970
-#EXTINF:-1 group-title="MLB" tvg-logo="https://content.sportslogos.net/logos/4/490/full/4227__major_league_baseball-primary-2019.png" ,MLB 01: Philadelphia Phillies vs Miami Marlins Jun 16 6:40 PM
-http://ua-iptv.com:8080/Pete/stopoulos/1045562
-#EXTINF:-1 group-title="MLB" tvg-logo="https://content.sportslogos.net/logos/4/490/full/4227__major_league_baseball-primary-2019.png" ,MLB 02: Colorado Rockies vs Washington Nationals Jun 16 6:45 PM
-http://ua-iptv.com:8080/Pete/stopoulos/1045563
-#EXTINF:-1 group-title="MLB" tvg-logo="https://content.sportslogos.net/logos/4/490/full/4227__major_league_baseball-primary-2019.png" ,MLB 03: Los Angeles Angels vs New York Yankees Jun 16 7:05 PM
-http://ua-iptv.com:8080/Pete/stopoulos/1049042
-#EXTINF:-1 group-title="MLB" tvg-logo="https://content.sportslogos.net/logos/4/490/full/4227__major_league_baseball-primary-2019.png" ,MLB 04: Baltimore Orioles vs Tampa Bay Rays Jun 16 7:35 PM
-http://ua-iptv.com:8080/Pete/stopoulos/1045565
-#EXTINF:-1 group-title="MLB" tvg-logo="https://content.sportslogos.net/logos/4/490/full/4227__major_league_baseball-primary-2019.png" ,MLB 05: Boston Red Sox vs Seattle Mariners Jun 16 9:40 PM
-http://ua-iptv.com:8080/Pete/stopoulos/1049043
-#EXTINF:-1 group-title="MLB" tvg-logo="https://content.sportslogos.net/logos/4/490/full/4227__major_league_baseball-primary-2019.png" ,MLB 06: Houston Astros vs Oakland Athletics Jun 16 10:05 PM
-http://ua-iptv.com:8080/Pete/stopoulos/1049044
-#EXTINF:-1 group-title="MLB" tvg-logo="https://content.sportslogos.net/logos/4/490/full/4227__major_league_baseball-primary-2019.png" ,MLB 07: San Diego Padres vs Los Angeles Dodgers Jun 16 10:10 PM
-http://ua-iptv.com:8080/Pete/stopoulos/1049045
+
+
+#EXTINF:-1 group-title="MLB" tvg-logo="https://content.sportslogos.net/logos/4/490/full/4227__major_league_baseball-primary-2019.png" ,MLB 01: EN VIVO
 
 
 
