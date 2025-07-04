@@ -1,6 +1,5 @@
 
 
-
 #EXTM3U
 
 
@@ -26,24 +25,37 @@ http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/682986.ts
 http://ua-iptv.com:8080/Pete/stopoulos/1044881
 
 
-#EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/4Rr7Sgq/atlanta-braves.png" ,MLB: Atlanta Braves (ATL) (F)
+#EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/4Rr7Sgq/atlanta-braves.png" ,MLB: Atlanta Braves (opc1)
 http://ua-iptv.com:8080/Pete/stopoulos/1044884
-#EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/4Rr7Sgq/atlanta-braves.png" ,MLB: Atlanta Braves (ATL) SD (F)
-http://ua-iptv.com:8080/Pete/stopoulos/1044885
-#EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/4Rr7Sgq/atlanta-braves.png" ,MLB: Atlanta Braves (S)
-http://ua-iptv.com:8080/Pete/stopoulos/1044886
-#EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/X2DLYzK/baltimore-orioles.png" ,MLB: Baltimore Orioles (BAL) (F)
+
+
+#EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/4Rr7Sgq/atlanta-braves.png" ,MLB: Atlanta Braves (opc2)
+http://ns106911.ip-51-81-106.us:25461/live/rjames3804@verizon.net/xaDjwwNmXY/99215.ts
+
+#EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/4Rr7Sgq/atlanta-braves.png" ,MLB: Atlanta Braves (opc3)
+http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/682988.ts
+
+
+#EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/X2DLYzK/baltimore-orioles.png" ,MLB: Baltimore Orioles (op1)
 http://ua-iptv.com:8080/Pete/stopoulos/1044887
-#EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/X2DLYzK/baltimore-orioles.png" ,MLB: Baltimore Orioles (BAL) SD (F)
-http://ua-iptv.com:8080/Pete/stopoulos/1044888
-#EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/X2DLYzK/baltimore-orioles.png" ,MLB: Baltimore Orioles (S)
-http://ua-iptv.com:8080/Pete/stopoulos/1044889
-#EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/vcJvMpJ/boston-red-sox.png" ,MLB: Boston Red Sox (BOS) (F)
+
+
+#EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/X2DLYzK/baltimore-orioles.png" ,MLB: Baltimore Orioles (opc2)
+http://ns106911.ip-51-81-106.us:25461/live/rjames3804@verizon.net/xaDjwwNmXY/99216.ts
+
+
+#EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/X2DLYzK/baltimore-orioles.png" ,MLB: Baltimore Orioles (opc3)
+http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/682991.ts
+
+#EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/vcJvMpJ/boston-red-sox.png" ,MLB: Boston Red Sox (opc1)
 http://ua-iptv.com:8080/Pete/stopoulos/1044890
-#EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/vcJvMpJ/boston-red-sox.png" ,MLB: Boston Red Sox (BOS) SD (F)
-http://ua-iptv.com:8080/Pete/stopoulos/1044891
-#EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/vcJvMpJ/boston-red-sox.png" ,MLB: Boston Red Sox (S)
-http://ua-iptv.com:8080/Pete/stopoulos/1044892
+
+#EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/vcJvMpJ/boston-red-sox.png" ,MLB: Boston Red Sox (opc2)
+http://ns106911.ip-51-81-106.us:25461/live/rjames3804@verizon.net/xaDjwwNmXY/99217.ts
+
+#EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/vcJvMpJ/boston-red-sox.png" ,MLB: Boston Red Sox (opc3)
+http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/682994.ts
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/rvZSqzm/chicago-cubs.png" ,MLB: Chicago Cubs (CHC) (F)
 http://ua-iptv.com:8080/Pete/stopoulos/1044893
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/rvZSqzm/chicago-cubs.png" ,MLB: Chicago Cubs (CHC) SD (F)
