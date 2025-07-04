@@ -1,4 +1,6 @@
 
+
+
 #EXTM3U
 
 
@@ -361,23 +363,38 @@ http://ns106911.ip-51-81-106.us:25461/live/rjames3804@verizon.net/xaDjwwNmXY/992
 http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/683075.ts
 
 
-#EXTINF:-1 group-title="MLB" tvg-logo="https://content.sportslogos.net/logos/4/490/full/4227__major_league_baseball-primary-2019.png" ,MLB 01: Texas Rangers vs Baltimore Orioles Jun 23 6:35 PM
+#EXTINF:-1 group-title="MLB" tvg-logo="https://content.sportslogos.net/logos/4/490/full/4227__major_league_baseball-primary-2019.png" ,MLB 01
 http://ua-iptv.com:8080/Pete/stopoulos/1045562
-#EXTINF:-1 group-title="MLB" tvg-logo="https://content.sportslogos.net/logos/4/490/full/4227__major_league_baseball-primary-2019.png" ,MLB 02: Atlanta Braves vs New York Mets Jun 23 7:10 PM
+
+
+#EXTINF:-1 group-title="MLB" tvg-logo="https://content.sportslogos.net/logos/4/490/full/4227__major_league_baseball-primary-2019.png" ,MLB 02
 http://ua-iptv.com:8080/Pete/stopoulos/1045563
-#EXTINF:-1 group-title="MLB" tvg-logo="https://content.sportslogos.net/logos/4/490/full/4227__major_league_baseball-primary-2019.png" ,MLB 03: New York Yankees vs Cincinnati Reds Jun 23 7:10 PM
+
+
+#EXTINF:-1 group-title="MLB" tvg-logo="https://content.sportslogos.net/logos/4/490/full/4227__major_league_baseball-primary-2019.png" ,MLB 03:
 http://ua-iptv.com:8080/Pete/stopoulos/1049042
-#EXTINF:-1 group-title="MLB" tvg-logo="https://content.sportslogos.net/logos/4/490/full/4227__major_league_baseball-primary-2019.png" ,MLB 04: Seattle Mariners vs Minnesota Twins Jun 23 7:40 PM
+
+#EXTINF:-1 group-title="MLB" tvg-logo="https://content.sportslogos.net/logos/4/490/full/4227__major_league_baseball-primary-2019.png" ,MLB 04
 http://ua-iptv.com:8080/Pete/stopoulos/1045565
-#EXTINF:-1 group-title="MLB" tvg-logo="https://content.sportslogos.net/logos/4/490/full/4227__major_league_baseball-primary-2019.png" ,MLB 05: D-backs vs Chicago White Sox Jun 23 7:40 PM
+
+
+#EXTINF:-1 group-title="MLB" tvg-logo="https://content.sportslogos.net/logos/4/490/full/4227__major_league_baseball-primary-2019.png" ,MLB 05
 http://ua-iptv.com:8080/Pete/stopoulos/1049043
-#EXTINF:-1 group-title="MLB" tvg-logo="https://content.sportslogos.net/logos/4/490/full/4227__major_league_baseball-primary-2019.png" ,MLB 06: Pittsburgh Pirates vs Milwaukee Brewers Jun 23 7:40 PM
+
+
+#EXTINF:-1 group-title="MLB" tvg-logo="https://content.sportslogos.net/logos/4/490/full/4227__major_league_baseball-primary-2019.png" ,MLB 06
 http://ua-iptv.com:8080/Pete/stopoulos/1049044
-#EXTINF:-1 group-title="MLB" tvg-logo="https://content.sportslogos.net/logos/4/490/full/4227__major_league_baseball-primary-2019.png" ,MLB 07: Chicago Cubs vs St. Louis Cardinals Jun 23 7:45 PM
+
+
+#EXTINF:-1 group-title="MLB" tvg-logo="https://content.sportslogos.net/logos/4/490/full/4227__major_league_baseball-primary-2019.png" ,MLB 07
 http://ua-iptv.com:8080/Pete/stopoulos/1049045
-#EXTINF:-1 group-title="MLB" tvg-logo="https://content.sportslogos.net/logos/4/490/full/4227__major_league_baseball-primary-2019.png" ,MLB 08: Boston Red Sox vs Los Angeles Angels Jun 23 9:38 PM
+
+
+#EXTINF:-1 group-title="MLB" tvg-logo="https://content.sportslogos.net/logos/4/490/full/4227__major_league_baseball-primary-2019.png" ,MLB 08
 http://ua-iptv.com:8080/Pete/stopoulos/1049385
-#EXTINF:-1 group-title="MLB" tvg-logo="https://content.sportslogos.net/logos/4/490/full/4227__major_league_baseball-primary-2019.png" ,MLB 09: Washington Nationals vs San Diego Padres Jun 23 9:40 PM
+
+
+#EXTINF:-1 group-title="MLB" tvg-logo="https://content.sportslogos.net/logos/4/490/full/4227__major_league_baseball-primary-2019.png" ,MLB 09
 http://ua-iptv.com:8080/Pete/stopoulos/1049386
 
 
@@ -467,6 +484,5 @@ http://masterprotv1.com:8080/56983589845wspzero/200821zero/1328
 
 #EXTINF:-1 group-title="DIRECTVSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png" ,Directv Sports +
 http://masterprotv1.com:8080/56983589845wspzero/200821zero/592
-
 
 
