@@ -365,7 +365,7 @@ http://alexyatvcasa.xyz:8080/live/Corina/KZygc6WbsrtA/47520.ts
 http://cord-cutter.net:8080/live/20DKn6/055490/78697.ts
 
 #EXTINF:-1 group-title="DEPORTES⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png" ,Win Sports Plus op3
-http://cord-cutter.net:8080/live/Y3DvY8/934867/78717.ts
+http://cord-cutter.net:8080/live/Y3DvY8/934867/78697.ts
 
 
 #EXTINF:-1 group-title="DEPORTES⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" ,WIN SPORT VIP
@@ -418,17 +418,23 @@ http://alexyatvcasa.xyz:8080/live/Corina/KZygc6WbsrtA/48757.ts
 #EXTINF:-1 group-title="DEPORTES⚽" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,🟢TIGO SPORTS2🔵
 http://alexyatvcasa.xyz:8080/live/Corina/KZygc6WbsrtA/48912.ts
 
-#EXTINF:-1 group-title="DEPORTES⚽" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,🟢ESPN opc1🔵
+#EXTINF:-1 group-title="DEPORTES⚽" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,🟢ESPN col🔵
 http://cord-cutter.net:8080/live/Y3DvY8/934867/86765.ts
 
 
-#EXTINF:-1 group-title="DEPORTES⚽" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,🟢ESPN opc2🔵
+#EXTINF:-1 group-title="DEPORTES⚽" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,🟢ESPN🔵
 http://alexyatvcasa.xyz:8080/live/Corina/KZygc6WbsrtA/47445.ts
+
+#EXTINF:-1 group-title="DEPORTES⚽" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,🟢ESPN Caribe🔵
+http://cord-cutter.net:8080/live/Y3DvY8/934867/66372.ts
 
 
 
 #EXTINF:-1 group-title="DEPORTES⚽" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,🟢ESPN2🔵
 http://alexyatvcasa.xyz:8080/live/Corina/KZygc6WbsrtA/47447.ts
+
+#EXTINF:-1 group-title="DEPORTES⚽" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,🟢ESPN2🔵
+http://cord-cutter.net:8080/live/Y3DvY8/934867/99623.ts
 
 #EXTINF:-1 group-title="DEPORTES⚽" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,🟢ESPN3🔵
 http://alexyatvcasa.xyz:8080/live/Corina/KZygc6WbsrtA/47449.ts
