@@ -9,6 +9,10 @@ http://cord-cutter.net:8080/live/Y3DvY8/934867/21360.ts
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" , Yes net(YanKees)
 http://cord-cutter.net:8080/live/Y3DvY8/934867/57972.ts
 
+#EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" , ppv YanKees
+http://cord-cutter.net:8080/live/Y3DvY8/934867/250342.ts
+
+
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/T8T84Ps/arizona-diamondbacks.png" ,MLB: Arizona Diamondbacks (opc1)
 
 
