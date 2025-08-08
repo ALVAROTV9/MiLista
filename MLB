@@ -365,10 +365,8 @@ http://ns106911.ip-51-81-106.us:25461/live/rjames3804@verizon.net/xaDjwwNmXY/992
 http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/683075.ts
 
 
-#EXTINF:-1 group-title="🟢EVENTOS🔴HOY🔵" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,🔵PPV INFO EVENTOS
-
-
-
+#EXTINF:-1 group-title="🟢EVENTOS🔴HOY🔵" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,🔵INFORMACION
+http://embed-cloudfront.wistia.com/deliveries/0846b2f4cdaefc43bececfaffc93d07079c79c91.m3u8
 
 #EXTINF:-1 group-title="🟢COLOMBIA⚽SPORTS" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,🔵 COLOMBIA 1
 http://cord-cutter.net:8080/live/Y3DvY8/934867/78697.ts
@@ -393,7 +391,8 @@ http://alexyatvcasa.xyz:8080/live/Corina/KZygc6WbsrtA/47516.ts
 http://cord-cutter.net:8080/live/20DKn6/055490/78717.ts
 
 
-#EXTINF:-1 group-title="🟢BUNDESLIGA⚽LuchoDiaz" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,🔵BUNDESLIGA 1
+#EXTINF:-1 group-title="🟢BUNDESLIGA⚽" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,🔵INFORMACION
+http://embed-cloudfront.wistia.com/deliveries/0846b2f4cdaefc43bececfaffc93d07079c79c91.m3u8
 
 
 #EXTINF:-1 group-title="🟢BUNDESLIGA⚽LuchoDiaz" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,🔵BUNDESLIGA 2
