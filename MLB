@@ -123,8 +123,6 @@ http://alexyatvcasa.xyz:8080/live/Corina/KZygc6WbsrtA/102549.ts
 
 
 
-#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,⚽ INFORMACION
-http://embed-cloudfront.wistia.com/deliveries/0846b2f4cdaefc43bececfaffc93d07079c79c91.m3u8
 
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/8zbcwSh/mlb-network.png" tvg-id="MLBNetwork.us" ,MLB: MLB Network
 http://cord-cutter.net:8080/live/Y3DvY8/934867/21360.ts
@@ -479,66 +477,44 @@ http://ns106911.ip-51-81-106.us:25461/live/rjames3804@verizon.net/xaDjwwNmXY/992
 http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/683075.ts
 
 
-
-
-#EXTINF:-1 group-title="🟢BUNDESLIGA⚽" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,🔵INFORMACION
+#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,⚽ BUNDESLIGA 1
 http://embed-cloudfront.wistia.com/deliveries/0846b2f4cdaefc43bececfaffc93d07079c79c91.m3u8
 
 
-#EXTINF:-1 group-title="🟢BUNDESLIGA⚽LuchoDiaz" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,🔵BUNDESLIGA 2
+#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,⚽ BUNDESLIGA 2
+http://embed-cloudfront.wistia.com/deliveries/0846b2f4cdaefc43bececfaffc93d07079c79c91.m3u8
 
+#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,⚽ BUNDESLIGA 3
+http://embed-cloudfront.wistia.com/deliveries/0846b2f4cdaefc43bececfaffc93d07079c79c91.m3u8
 
-#EXTINF:-1 group-title="🟢BUNDESLIGA⚽LuchoDiaz" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,🔵BUNDESLIGA 3
-
-
-#EXTINF:-1 group-title="🟢BUNDESLIGA⚽LuchoDiaz" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,🔵BUNDESLIGA 4
-
-
-#EXTINF:-1 group-title="🟢LA⚽LIGA" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,🔵 1 LA LIGA HOMBRES
+#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,⚽ LA LIGA 1
 http://alexyatvcasa.xyz:8080/live/Corina/KZygc6WbsrtA/330.ts
 
-#EXTINF:-1 group-title="🟢LA⚽LIGA" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,🔵 2 LA LIGA HOMBRES
+#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,⚽ LA LIGA 2
 http://alexyatvcasa.xyz:8080/live/Corina/KZygc6WbsrtA/322.ts
 
-#EXTINF:-1 group-title="🟢LA⚽LIGA" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,🔵 3 LA LIGA HOMBRES
+#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,⚽ LA LIGA 3
 http://alexyatvcasa.xyz:8080/live/Corina/KZygc6WbsrtA/47750.ts
 
-#EXTINF:-1 group-title="🟢LA⚽LIGA" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,🔵 4 LA LIGA HOMBRES 
-
-
-#EXTINF:-1 group-title="🟢LA⚽LIGA" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,🔵 5 LA LIGA HOMBRES
-
-
-#EXTINF:-1 group-title="🟢LA⚽LIGA" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,🔵 6 LA LIGA HOMBRES
 
 
 
-#EXTINF:-1 group-title="🟢LA⚽LIGA" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,🔵 1 MUJERES
+#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,⚽ LA LIGA F 1
 http://alexyatvcasa.xyz:8080/live/Corina/KZygc6WbsrtA/6265.ts
 
-#EXTINF:-1 group-title="🟢LA⚽LIGA" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,🔵 2 MUJERES
+
+#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,⚽ LA LIGA F 2
 http://alexyatvcasa.xyz:8080/live/Corina/KZygc6WbsrtA/6266.ts
 
-#EXTINF:-1 group-title="🟢LA⚽LIGA" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,🔵 3 MUJERES
-http://alexyatvcasa.xyz:8080/live/Corina/KZygc6WbsrtA/6267.ts
-
-#EXTINF:-1 group-title="🟢LA⚽LIGA" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,🔵 4 MUJERES
-http://alexyatvcasa.xyz:8080/live/Corina/KZygc6WbsrtA/6268.ts
-
-#EXTINF:-1 group-title="🟢LA⚽LIGA" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,🔵 5 MUJERES
 
 
-
-#EXTINF:-1 group-title="🟢PREMIER⚽LEAGE" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,🔵 1 PREMIER LEAGUE
+#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,⚽ PREMIER LEAGUE 1
 http://alexyatvcasa.xyz:8080/live/Corina/KZygc6WbsrtA/60142.ts
 
-#EXTINF:-1 group-title="🟢PREMIER⚽LEAGE" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,🔵 2 PREMIER LEAGUE
+#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,⚽ PREMIER LEAGUE 2
 http://alexyatvcasa.xyz:8080/live/Corina/KZygc6WbsrtA/7541.ts
 
-#EXTINF:-1 group-title="🟢PREMIER⚽LEAGE" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,🔵 3 PREMIER LEAGUE
-
-
-#EXTINF:-1 group-title="🟢PREMIER⚽LEAGE" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" ,🔵 4 PREMIER LEAGUE
+#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , ⚽ PREMIER LEAGUE 3
 http://cord-cutter.net:8080/live/Y3DvY8/934867/53717.ts
 
 
