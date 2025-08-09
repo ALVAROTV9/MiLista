@@ -12,6 +12,11 @@ http://embed-cloudfront.wistia.com/deliveries/0846b2f4cdaefc43bececfaffc93d07079
 http://embed-cloudfront.wistia.com/deliveries/1a65adaf36ce207da59a52c45f2c73fe5f97ac06.m3u8
 
 
+#EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/8zbcwSh/mlb-network.png" tvg-id="MLBNetwork.us" ,MLB: MLB Network
+http://cord-cutter.net:8080/live/Y3DvY8/934867/21360.ts
+
+
+
 #EXTINF:-1 group-title="🟢AMERICA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,⚽ COLOMBIA 1
 http://cord-cutter.net:8080/live/sY6kSEQnpF/YciGw9rYxJ/78717.ts
 
@@ -124,8 +129,6 @@ http://alexyatvcasa.xyz:8080/live/Corina/KZygc6WbsrtA/102549.ts
 
 
 
-#EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/8zbcwSh/mlb-network.png" tvg-id="MLBNetwork.us" ,MLB: MLB Network
-http://cord-cutter.net:8080/live/Y3DvY8/934867/21360.ts
 
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" , Yes net(YanKees)
 http://cord-cutter.net:8080/live/Y3DvY8/934867/57972.ts
