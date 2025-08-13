@@ -23,16 +23,21 @@ http://tv.zapping.life:8080/movie/mayleenfunez1/135535683598/13147.mkv
 
 
 
-#EXTINF:-1 group-title="🔵INFORMACION🔴" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , TOY STORY 2010
-http
+#EXTINF:-1 group-title="🔵INFORMACION🔴" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , TOY STORY 2
+http://tv.zapping.life:8080/movie/mayleenfunez1/135535683598/41288.mkv
+
+
+ #EXTINF:-1 group-title="🔵INFORMACION🔴" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , TOY STORY toons
+http://tv.zapping.life:8080/movie/mayleenfunez1/135535683598/41339.mkv
 
 
 
+ #EXTINF:-1 group-title="🔵INFORMACION🔴" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , TOY STORY 
+http://tv.zapping.life:8080/movie/mayleenfunez1/135535683598/41344.mkv
 
-  #EXTINF:-1 group-title="🔵INFORMACION🔴" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , TOY STORY 2010
-http
 
-
+ #EXTINF:-1 group-title="🔵INFORMACION🔴" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , TOY STORY 4
+http://tv.zapping.life:8080/movie/mayleenfunez1/135535683598/46294.mkv
 
 
 
