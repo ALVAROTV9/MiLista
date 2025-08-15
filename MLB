@@ -6,6 +6,39 @@
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/8zbcwSh/mlb-network.png" tvg-id="MLBNetwork.us" ,MLB: MLB Network
 http://cord-cutter.net:8080/live/Y3DvY8/934867/21360.ts
 
+
+#EXTINF:-1 group-title="🟢AMERICA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EN VIVO ALVAROTV 1
+http://embed-cloudfront.wistia.com/deliveries/0846b2f4cdaefc43bececfaffc93d07079c79c91.m3u8
+
+
+
+#EXTINF:-1 group-title="🟢AMERICA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EN VIVO ALVAROTV 1
+http://embed-cloudfront.wistia.com/deliveries/0846b2f4cdaefc43bececfaffc93d07079c79c91.m3u8
+
+
+
+#EXTINF:-1 group-title="🟢AMERICA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EN VIVO ALVAROTV 1
+http://embed-cloudfront.wistia.com/deliveries/0846b2f4cdaefc43bececfaffc93d07079c79c91.m3u8
+
+
+#EXTINF:-1 group-title="🟢AMERICA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EN VIVO ALVAROTV 2
+http://embed-cloudfront.wistia.com/deliveries/0846b2f4cdaefc43bececfaffc93d07079c79c91.m3u8
+
+
+#EXTINF:-1 group-title="🟢AMERICA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EN VIVO ALVAROTV 3
+http://embed-cloudfront.wistia.com/deliveries/0846b2f4cdaefc43bececfaffc93d07079c79c91.m3u8
+
+
+
+#EXTINF:-1 group-title="🟢AMERICA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EN VIVO ALVAROTV 4
+http://embed-cloudfront.wistia.com/deliveries/0846b2f4cdaefc43bececfaffc93d07079c79c91.m3u8
+
+
+#EXTINF:-1 group-title="🟢AMERICA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EN VIVO ALVAROTV 5
+http://embed-cloudfront.wistia.com/deliveries/0846b2f4cdaefc43bececfaffc93d07079c79c91.m3u8
+
+
+
 #EXTINF:-1 group-title="🟢AMERICA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EVENTOS 1
 http://alexyatvcasa.xyz:8080//live/Corina/KZygc6WbsrtA/47454.ts
 
@@ -64,7 +97,6 @@ http://alexyatvcasa.xyz:8080//live/Corina/KZygc6WbsrtA/47516.ts
 
 
 #EXTINF:-1 group-title="🟢AMERICA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EVENTOS COLOMBIA 14
-
 http://alexyatvcasa.xyz:8080//live/Corina/KZygc6WbsrtA/47522.ts
 
 #EXTINF:-1 group-title="🟢AMERICA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EVENTOS COLOMBIA 15
@@ -87,38 +119,38 @@ http://cord-cutter.net:8080/live/Y3DvY8/934867/11885.ts
 
 
 
-#EXTINF:-1 group-title="🟢AMERICA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,⚽ MEXICO 2
+#EXTINF:-1 group-title="🟢AMERICA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EVENTOS MEXICO 19
 http://alexyatvcasa.xyz:8080//live/Corina/KZygc6WbsrtA/47657.ts
 
 
-#EXTINF:-1 group-title="🟢AMERICA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,⚽ BRASIL 1
+#EXTINF:-1 group-title="🟢AMERICA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EVENTOS BRASIL 20
 http://alexyatvcasa.xyz:8080/live/Corina/KZygc6WbsrtA/102577.ts
 
 
-#EXTINF:-1 group-title="🟢AMERICA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,⚽ BRASIL 2
+#EXTINF:-1 group-title="🟢AMERICA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EVENTOS BRASIL 21
 http://alexyatvcasa.xyz:8080/live/Corina/KZygc6WbsrtA/102574.ts
 
-#EXTINF:-1 group-title="🟢AMERICA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,⚽ CHILE
+#EXTINF:-1 group-title="🟢AMERICA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EVENTOS CHILE 22
 http://embed-cloudfront.wistia.com/deliveries/0846b2f4cdaefc43bececfaffc93d07079c79c91.m3u8
 
 
-#EXTINF:-1 group-title="🟢AMERICA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,⚽ BOLIVIA
+#EXTINF:-1 group-title="🟢AMERICA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EVENTOS BOLIVIA 23
 http://alexyatvcasa.xyz:8080//live/Corina/KZygc6WbsrtA/48757.ts
 
 
-#EXTINF:-1 group-title="🟢AMERICA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,⚽ PERU
+#EXTINF:-1 group-title="🟢AMERICA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EVENTOS PERU 24
 http://alexyatvcasa.xyz:8080/live/Corina/KZygc6WbsrtA/47905.ts
 
 
-#EXTINF:-1 group-title="🟢AMERICA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,⚽ ECUADOR
+#EXTINF:-1 group-title="🟢AMERICA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EVENTOS ECUADOR 25
 http://alexyatvcasa.xyz:8080//live/Corina/KZygc6WbsrtA/47930.ts
 
 
-#EXTINF:-1 group-title="🟢AMERICA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,⚽ URUGUAY
+#EXTINF:-1 group-title="🟢AMERICA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EVENTOS URUGUAY 26
 http://alexyatvcasa.xyz:8080//live/Corina/KZygc6WbsrtA/102665.ts
 
 
-#EXTINF:-1 group-title="🟢AMERICA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,⚽ PARAGUAY
+#EXTINF:-1 group-title="🟢AMERICA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EVENTOS PARAGUAY 27
 http://embed-cloudfront.wistia.com/deliveries/0846b2f4cdaefc43bececfaffc93d07079c79c91.m3u8
 
 
@@ -475,97 +507,97 @@ http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/683075.ts
 
 
 
-#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , ⚽ PPV 1
+#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,PPV 1
 http://alexyatvcasa.xyz:8080//live/Corina/KZygc6WbsrtA/61009.ts
 
-#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , ⚽ PPV 2
+#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , PPV 2
 http://alexyatvcasa.xyz:8080//live/Corina/KZygc6WbsrtA/60990.ts
 
-#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , ⚽ PPV 3
+#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , PPV 3
 http://alexyatvcasa.xyz:8080//live/Corina/KZygc6WbsrtA/60994.ts
 
-#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , ⚽ PPV 4
+#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , PPV 4
 http://alexyatvcasa.xyz:8080//live/Corina/KZygc6WbsrtA/60998.ts
 
-#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , ⚽ PPV 5
+#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,PPV 5
 http://alexyatvcasa.xyz:8080//live/Corina/KZygc6WbsrtA/61001.ts
 
 
-#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , ⚽ PPV 6
+#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,PPV 6
 http://alexyatvcasa.xyz:8080//live/Corina/KZygc6WbsrtA/61004.ts
 
 
-#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , ⚽ PPV 7
+#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,PPV 7
 http://alexyatvcasa.xyz:8080//live/Corina/KZygc6WbsrtA/61007.ts
 
 
-#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , ⚽ PPV 8
+#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , PPV 8
 http://alexyatvcasa.xyz:8080//live/Corina/KZygc6WbsrtA/61008.ts
 
 
-#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , ⚽ PPV 9
+#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , PPV 9
 http://alexyatvcasa.xyz:8080//live/Corina/KZygc6WbsrtA/60138.ts
 
 
-#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , ⚽ PPV 10
+#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , PPV 10
 http://alexyatvcasa.xyz:8080//live/Corina/KZygc6WbsrtA/60148.ts
 
-#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , ⚽ PPV 11
+#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , PPV 11
 http://alexyatvcasa.xyz:8080//live/Corina/KZygc6WbsrtA/60151.ts
 
 
 
 
-#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/HLfzd9c4/BUNDESLIGA01.png" ,⚽ BUNDESLIGA 1
+#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/HLfzd9c4/BUNDESLIGA01.png" ,BUNDESLIGA 12
 http://alexyatvcasa.xyz:8080/live/Corina/KZygc6WbsrtA/7359.ts
 
-#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/HLfzd9c4/BUNDESLIGA01.png" ,⚽ BUNDESLIGA 2
+#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/HLfzd9c4/BUNDESLIGA01.png" ,BUNDESLIGA 13
 http://embed-cloudfront.wistia.com/deliveries/0bc3ff1e07043b25687eb66b4dd5ddd5fc06cf98.m3u8
 
-#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/HLfzd9c4/BUNDESLIGA01.png" ,⚽ BUNDESLIGA 3
+#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/HLfzd9c4/BUNDESLIGA01.png" ,BUNDESLIGA 14
 http://worldtvvip.net:8080/live/hogiratalan/ukNmKJrDHQ/29997.ts
 
-#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/kV4WF1WD/LaLiga01.png" ,⚽ LA LIGA 1
+#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/kV4WF1WD/LaLiga01.png" ,LA LIGA 15
 http://alexyatvcasa.xyz:8080/live/GqaLJvNacZes/Dygxvm7qp76g/330.ts
 
-#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/kV4WF1WD/LaLiga01.png" ,⚽ LA LIGA 2
+#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/kV4WF1WD/LaLiga01.png" ,LA LIGA 16
 http://alexyatvcasa.xyz:8080/live/GqaLJvNacZes/Dygxvm7qp76g/333.ts
 
-#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/kV4WF1WD/LaLiga01.png" ,⚽ LA LIGA 3
+#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/kV4WF1WD/LaLiga01.png" ,LA LIGA 17
 http://embed-cloudfront.wistia.com/deliveries/0bc3ff1e07043b25687eb66b4dd5ddd5fc06cf98.m3u8
 
 
 
 
-#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/wFvd1RT5/Premker-League01.png" ,⚽ PREMIER LEAGUE 1
+#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/wFvd1RT5/Premker-League01.png" ,PREMIER LEAGUE 18
 http://alexyatvcasa.xyz:8080/live/Corina/KZygc6WbsrtA/7433.ts
 
-#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/TD9WQvkv/premierL.jpg" ,⚽ PREMIER LEAGUE 2
+#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/TD9WQvkv/premierL.jpg" ,PREMIER LEAGUE 19
 http://alexyatvcasa.xyz:8080/live/Corina/KZygc6WbsrtA/7425.ts
 
-#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , ⚽ PREMIER LEAGUE 3
+#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,PREMIER LEAGUE 20
 http://alexyatvcasa.xyz:8080/live/Corina/KZygc6WbsrtA/60142.ts
 
-#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/tVT33Xs/SerieA01.png" , ⚽ SERIE A 1
+#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/tVT33Xs/SerieA01.png" ,SERIE A 21
 http://embed-cloudfront.wistia.com/deliveries/0bc3ff1e07043b25687eb66b4dd5ddd5fc06cf98.m3u8
 
-#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/N2wFBd3W/Serie-A-logo-2022-svg.png" , ⚽ SERIE A 2
+#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/N2wFBd3W/Serie-A-logo-2022-svg.png" ,SERIE A 22
 http://embed-cloudfront.wistia.com/deliveries/0bc3ff1e07043b25687eb66b4dd5ddd5fc06cf98.m3u8
 
-#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/QFt1MZkN/League1fr01.png" , LEAGUE 1 Francia
+#EXTINF:-1 group-title="🟢EUROPA⚽PPV🔵" tvg-logo="https://i.ibb.co/QFt1MZkN/League1fr01.png" ,LEAGUE 1 Francia 23
 http://embed-cloudfront.wistia.com/deliveries/0bc3ff1e07043b25687eb66b4dd5ddd5fc06cf98.m3u8
 
 
 
-#EXTINF:-1 group-title="🔵INFORMACION🔴" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , 🔵CONTACTAR🟢
+#EXTINF:-1 group-title="🔵INFORMACION🔴" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" ,CONTACTAR
 http://embed-cloudfront.wistia.com/deliveries/80369f624c5f502ebc2a48ed9a4edbf5a3a0517d.m3u8
 
 
-#EXTINF:-1 group-title="🔵INFORMACION🔴" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , 🔴PAGOS🟢
+#EXTINF:-1 group-title="🔵INFORMACION🔴" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" ,PAGOS
 http://embed-cloudfront.wistia.com/deliveries/0846b2f4cdaefc43bececfaffc93d07079c79c91.m3u8
 
 
-#EXTINF:-1 group-title="🔵INFORMACION🔴" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , 🟠CANALES🟢
+#EXTINF:-1 group-title="🔵INFORMACION🔴" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" ,CANALES
 http://embed-cloudfront.wistia.com/deliveries/1a65adaf36ce207da59a52c45f2c73fe5f97ac06.m3u8
 
 
