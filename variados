@@ -1,11 +1,11 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , History Channel
-http://alexyatvcasa.xyz:8080//live/Corina/KZygc6WbsrtA/7507.ts
+http://alexyatvcasa.xyz:8080//live/Corina/KZygc6WbsrtA/47677.ts
 
 
-#EXTINF:-1 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" ,
-http://embed-cloudfront.wistia.com/deliveries/0846b2f4cdaefc43bececfaffc93d07079c79c91.m3u8
+#EXTINF:-1 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , INVESTIGATION DISCOVERY
+http://alexyatvcasa.xyz:8080//live/Corina/KZygc6WbsrtA/47651.ts
 
 #EXTINF:-1 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , H2
 http://alexyatvcasa.xyz:8080//live/Corina/KZygc6WbsrtA/47655.ts
