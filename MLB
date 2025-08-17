@@ -155,8 +155,6 @@ http://embed-cloudfront.wistia.com/deliveries/0846b2f4cdaefc43bececfaffc93d07079
 
 
 
-#EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/PGbQMSt/alvarotv-Png.png" , Yes net(YanKees)
-http://cord-cutter.net:8080/live/Y3DvY8/934867/57972.ts
 
 
 
@@ -224,11 +222,11 @@ http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/683000.ts
 
 
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/WHMTWFh/cincinnati-reds.png" ,MLB: Cincinnati Reds (opc1)
-
+http://cord-cutter.net:8080/sY6kSEQnpF/YciGw9rYxJ/20931
 
 
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/WHMTWFh/cincinnati-reds.png" ,MLB: Cincinnati Reds (opc2)
-http://ns106911.ip-51-81-106.us:25461/live/rjames3804@verizon.net/xaDjwwNmXY/99220.ts
+http://cord-cutter.net:8080/sY6kSEQnpF/YciGw9rYxJ/17752
 
 
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/WHMTWFh/cincinnati-reds.png" ,MLB: Cincinnati Reds (opc3)
@@ -264,7 +262,7 @@ http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/683009.ts
 
 
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/gPQJ5fq/detroit-tigers.png" ,MLB: Detroit Tigers (opc2)
-http://ns106911.ip-51-81-106.us:25461/live/rjames3804@verizon.net/xaDjwwNmXY/99223.ts
+http://cord-cutter.net:8080/sY6kSEQnpF/YciGw9rYxJ/20936
 
 
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/gPQJ5fq/detroit-tigers.png" ,MLB: Detroit Tigers (opc3)
@@ -275,7 +273,7 @@ http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/683013.ts
 
 
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/zNpmjyH/houston-astros.png" ,MLB: Houston Astros (opc1)
-
+http://cord-cutter.net:8080/sY6kSEQnpF/YciGw9rYxJ/136909
 
 
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/zNpmjyH/houston-astros.png" ,MLB: Houston Astros (opc3)
@@ -289,7 +287,7 @@ http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/683018.ts
 
 
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/BgtwrHK/kansas-city-royals.png" ,MLB: Kansas City Royals (opc3)
-http://ns106911.ip-51-81-106.us:25461/live/rjames3804@verizon.net/xaDjwwNmXY/99225.ts
+http://cord-cutter.net:8080/sY6kSEQnpF/YciGw9rYxJ/66795
 
 
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/F04Fy3b/los-angeles-angels.png" ,MLB: Los Angeles Angels (opc1)
@@ -364,7 +362,7 @@ http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/683036.ts
 
 
 #EXTINF:-1 group-title="MLB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/New_York_Yankees_Primary_Logo.svg/90px-New_York_Yankees_Primary_Logo.svg.png" ,MLB: New York Yankees (opc2)
-http://ns106911.ip-51-81-106.us:25461/live/rjames3804@verizon.net/xaDjwwNmXY/99235.ts
+http://cord-cutter.net:8080/live/Y3DvY8/934867/57972.ts
 
 
 #EXTINF:-1 group-title="MLB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/New_York_Yankees_Primary_Logo.svg/90px-New_York_Yankees_Primary_Logo.svg.png" ,MLB: New York Yankees (opc3)
@@ -403,7 +401,7 @@ http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/683045.ts
 
 
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/pjQ9v1P/pittsburgh-pirates.png" ,MLB: Pittsburgh Pirates (opc2)
-http://ns106911.ip-51-81-106.us:25461/live/rjames3804@verizon.net/xaDjwwNmXY/99238.ts
+http://cord-cutter.net:8080/sY6kSEQnpF/YciGw9rYxJ/108178
 
 
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/pjQ9v1P/pittsburgh-pirates.png" ,MLB: Pittsburgh Pirates (opc3)
@@ -486,7 +484,7 @@ http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/683069.ts
 
 
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/hcp7HPB/toronto-blue-jays.png" ,MLB: Toronto Blue Jays (opc2)
-http://ns106911.ip-51-81-106.us:25461/live/rjames3804@verizon.net/xaDjwwNmXY/99245.ts
+http://cord-cutter.net:8080/sY6kSEQnpF/YciGw9rYxJ/9860
 
 
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/hcp7HPB/toronto-blue-jays.png" ,MLB: Toronto Blue Jays (opc3)
