@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , History Channel
+#EXTINF:0 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , History Channel
 http://alexyatvcasa.xyz:8080//live/Corina/KZygc6WbsrtA/47677.ts
 
 
-#EXTINF:-1 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , INVESTIGATION DISCOVERY
+#EXTINF:0 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , INVESTIGATION DISCOVERY
 http://alexyatvcasa.xyz:8080//live/Corina/KZygc6WbsrtA/47651.ts
 
 #EXTINF:-1 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , H2
