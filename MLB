@@ -3,17 +3,15 @@
 
 
 
-#EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/8zbcwSh/mlb-network.png" tvg-id="MLBNetwork.us" ,MLB: MLB Network
-http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/692656.ts
 
 
 #EXTINF:-1 group-title="🟢ALVAROTV⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EN VIVO ALVAROTV 1
-http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/692660.ts
+http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/698738.ts
 
 
 
 #EXTINF:-1 group-title="🟢ALVAROTV⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EN VIVO ALVAROTV 2
-http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/692666.ts
+http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/698739.ts
 
 
 
@@ -22,21 +20,30 @@ http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/692667.ts
 
 
 #EXTINF:-1 group-title="🟢ALVAROTV⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EN VIVO ALVAROTV 4
-http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/692668.ts
+http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/698744.ts
 
 
 #EXTINF:-1 group-title="🟢ALVAROTV⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EN VIVO ALVAROTV 5
-http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/692698.ts
+http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/698741.ts
 
 
 
-#EXTINF:-1 group-title="🟢AMERICA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EN VIVO ALVAROTV 6
-http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/418199.ts
+#EXTINF:-1 group-title="🟢ALVAROTV⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EN VIVO ALVAROTV 6
+http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/698743.ts
 
 
 #EXTINF:-1 group-title="🟢ALVAROTV⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EN VIVO ALVAROTV 7
-http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/693057.ts
+http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/418199.ts
 
+#EXTINF:-1 group-title="🟢ALVAROTV⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EN VIVO ALVAROTV 8
+http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/508248.ts
+
+
+#EXTINF:-1 group-title="🟢ALVAROTV⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EN VIVO ALVAROTV 7
+http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/508256.ts
+
+#EXTINF:-1 group-title="🟢ALVAROTV⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EN VIVO ALVAROTV 7
+http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/692698.ts
 
 
 #EXTINF:-1 group-title="🟢AMERICA⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EVENTOS 1
@@ -155,6 +162,8 @@ http://embed-cloudfront.wistia.com/deliveries/0846b2f4cdaefc43bececfaffc93d07079
 
 
 
+#EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/8zbcwSh/mlb-network.png" tvg-id="MLBNetwork.us" ,MLB: MLB Network
+http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/692656.ts
 
 
 
