@@ -1,57 +1,76 @@
 #EXTM3U
 
-#EXTINF:0 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , History Channel
-http://alexyatvcasa.xyz:8080//live/Corina/KZygc6WbsrtA/47677.ts
+#EXTINF:0 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , ANIMAL PLANET
+http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/693005.ts
 
 
-#EXTINF:0 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , INVESTIGATION DISCOVERY
-http://alexyatvcasa.xyz:8080//live/Corina/KZygc6WbsrtA/47651.ts
+#EXTINF:0 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , DISCOVERY CHANNEL
+http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/693029.ts
 
-#EXTINF:-1 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , H2
-http://alexyatvcasa.xyz:8080//live/Corina/KZygc6WbsrtA/47655.ts
+#EXTINF:-1 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , INVESTIGATION DISCOVERY
+http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/693033.ts
 
 
 #EXTINF:-1 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" ,NATIONAL GEOGRAPHIC
-http://alexyatvcasa.xyz:8080//live/Corina/KZygc6WbsrtA/179.ts
+http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/693084.ts
 
 
-#EXTINF:-1 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" ,NBC UNIVERSO
-http://alexyatvcasa.xyz:8080//live/Corina/KZygc6WbsrtA/48901.ts
+#EXTINF:-1 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , HISTORY CHANNEl
+http://fivetv.org:25461/live/luis20/cantos21/186509.ts
 
 
-#EXTINF:-1 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" ,ANIMAL PLANET
-http://alexyatvcasa.xyz:8080//live/Corina/KZygc6WbsrtA/47656.ts
+#EXTINF:-1 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , H2
+http://fivetv.org:25461/live/luis20/cantos21/186507.ts
 
 
-#EXTINF:-1 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" ,NAT GEO WILD
-http://alexyatvcasa.xyz:8080//live/Corina/KZygc6WbsrtA/47654.ts
-
-
+#EXTINF:-1 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , CNN
+http://cord-cutter.net:8080/sY6kSEQnpF/YciGw9rYxJ/57619
 
 
 
-EXTINF:-1 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" ,DISXOVERY WORLD
-http://alexyatvcasa.xyz:8080//live/Corina/KZygc6WbsrtA/47667.ts
+#EXTINF:-1 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , HBO
+http://fivetv.org:25461/live/luis20/cantos21/24300.ts
 
 
 
 
-EXTINF:-1 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" ,DISXOVERY WORLD
+#EXTINF:-1 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , HBO 2
+http://fivetv.org:25461/live/luis20/cantos21/186483.ts
+
+
+
+
+#EXTINF:-1 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , HBO PLUS
+http://fivetv.org:25461/live/luis20/cantos21/186497.ts
+
+
+
+#EXTINF:-1 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , HBO FANILY
+http://fivetv.org:25461/live/luis20/cantos21/187565.ts
+
+
+
+
+#EXTINF:-1 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , HBO POP
+http://fivetv.org:25461/live/luis20/cantos21/186499.ts
+
+
+
+
+#EXTINF:-1 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , HBO SIGNATURE
+http://fivetv.org:25461/live/luis20/cantos21/186500.ts
+
+
+
+
+
+#EXTINF:-1 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , HBO
 http://
 
 
 
 
-EXTINF:-1 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" ,DISXOVERY WORLD
-http://
 
 
-
-EXTINF:-1 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" ,DISXOVERY WORLD
-http://
-
-
-
-
-EXTINF:-1 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" ,DISXOVERY WORLD
+EXTINF:-1 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , HBO
 http://
