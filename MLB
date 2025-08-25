@@ -8,7 +8,7 @@ http://embed-cloudfront.wistia.com/deliveries/0846b2f4cdaefc43bececfaffc93d07079
 
 
 #EXTINF:-1 group-title="🟢ALVAROTV⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EN VIVO 1
-http://206.212.244.71:8080/live/4wVQA7/625159/78697.ts
+http://201.182.250.126:9999/play/a0rx/index.m3u8
 
 #EXTINF:-1 group-title="🟢ALVAROTV⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EN VIVO 2
 http://206.212.244.71:8080/live/4wVQA7/625159/78717.ts
@@ -55,7 +55,7 @@ http://143.0.67.77:8000/play/a02t/index.m3u8
 
 
 #EXTINF:-1 group-title="🟢ALVAROTV⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EN VIVO 15
-http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/418199.ts
+http://143.0.67.77:8000/play/a0bc/index.m3u8
 
 #EXTINF:-1 group-title="🟢ALVAROTV⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EN VIVO 16
 http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/691811.ts
