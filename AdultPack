@@ -256,17 +256,17 @@ http://embed-cloudfront.wistia.com/deliveries/0846b2f4cdaefc43bececfaffc93d07079
 
 
 #EXTINF:-1 group-title="🔵CANALES🔴" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" ,CANAL PEDIDO 1
-http://fortv.cc:8080/live/4QEdPu/127295/159962.ts
+http://143.0.67.77:8000/play/a033/index.m3u8
 
 
 #EXTINF:-1 group-title="🔵CANALES🔴" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" ,CANAL PEDIDO 2
-http://fortv.cc:8080/live/4QEdPu/127295/159966.ts
+http://143.0.67.77:8000/play/a034/index.m3u8
 
 
 
 
 #EXTINF:-1 group-title="🔵CANALES🔴" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" ,CANAL PEDIDO 3
-http://fortv.cc:8080/live/4QEdPu/127295/159974.ts
+http://143.0.67.77:8000/play/a032/index.m3u8
 
 
 
