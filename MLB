@@ -1,4 +1,17 @@
 #EXTM3U
+
+
+#EXTINF:0,SPORTV 1
+https://new.m3u8.one/sportv/index.m3u8
+#EXTINF:0,SPORTV 2
+https://new.m3u8.one/sportv2/index.m3u8
+#EXTINF:0,SPORTV 3
+https://new.m3u8.one/sportv3/index.m3u8
+#EXTINF:0,SPORTV 4
+https://new.m3u8.one/sportv4/index.m3u8
+
+
+
 #EXTINF:-1 group-title="🟢ALVAROTV⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EVENTOS INFORMACION
 http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
 
