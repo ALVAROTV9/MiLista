@@ -1,22 +1,22 @@
 #EXTM3U
 
 #EXTINF:0 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , ANIMAL PLANET
-http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/693005.ts
+http://205.235.6.29:8000/play/a0nb/index.m3u8
 
 
 #EXTINF:0 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , DISCOVERY CHANNEL
-http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/693029.ts
+http://205.235.6.29:8000/play/a0nc/index.m3u8
 
 #EXTINF:-1 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , INVESTIGATION DISCOVERY
 http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/693033.ts
 
 
 #EXTINF:-1 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" ,NATIONAL GEOGRAPHIC
-http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/693084.ts
+http://205.235.6.29:8000/play/a0ne/index.m3u8
 
 
 #EXTINF:-1 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , HISTORY CHANNEl
-http://fivetv.org:25461/live/luis20/cantos21/186509.ts
+http://205.235.6.29:8000/play/a0nd/index.m3u8
 
 
 #EXTINF:-1 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , H2
@@ -29,7 +29,7 @@ http://cord-cutter.net:8080/sY6kSEQnpF/YciGw9rYxJ/57619
 
 
 #EXTINF:-1 group-title="VARIADOS" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , HBO
-http://fivetv.org:25461/live/luis20/cantos21/24300.ts
+http://205.235.6.29:8000/play/a0l5/index.m3u8
 
 
 
