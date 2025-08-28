@@ -2,6 +2,40 @@
 
 
 
+#EXTINF:-1 group-title="-",SporTV HD
+http://37.49.224.20/sportv/index.m3u8
+#EXTINF:-1 group-title="-",SporTV 2 HD
+http://37.49.224.20/sportv2/index.m3u8
+#EXTINF:-1 group-title="-",SporTV 3 HD
+http://37.49.224.20/sportv3/index.m3u8
+#EXTINF:-1 group-title="-",BAND Sport HD
+http://37.49.224.20/bandsport/index.m3u8
+#EXTINF:-1 group-title="-",Espn HD
+http://37.49.224.20/espn/index.m3u8
+#EXTINF:-1 group-title="-",Espn 2 HD
+http://37.49.224.20/espn2/index.m3u8
+#EXTINF:-1 group-title="-",Espn 3 HD
+http://37.49.224.20/espn3/index.m3u8
+#EXTINF:-1 group-title="-",Espn 4 HD
+http://37.49.224.20/espn4/index.m3u8
+#EXTINF:-1 group-title="-",Premiere 1 HD
+http://37.49.224.20/pre1/index.m3u8
+#EXTINF:-1 group-title="-",PREMIERE 2 HD
+http://37.49.224.20/pre2/index.m3u8
+#EXTINF:-1 group-title="-",PREMIERE 3 HD
+http://37.49.224.20/pre3/index.m3u8
+#EXTINF:-1 group-title="-",PREMIERE 4 HD
+http://37.49.224.20/pre4/index.m3u8
+#EXTINF:-1 group-title="-",PREMIERE 5 HD
+http://37.49.224.20/pre5/index.m3u8
+#EXTINF:-1 group-title="-",PREMIERE 6 HD
+http://37.49.224.20/pre6/index.m3u8
+#EXTINF:-1 group-title="-",PREMIERE 7 HD
+http://37.49.224.20/pre7/index.m3u8
+#EXTINF:-1 group-title="-",GLOBO SP HD
+http://37.49.224.20/globosp/index.
+
+
 
 #EXTINF:-1 group-title="🟢ALVAROTV⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EVENTOS INFORMACION
 http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
