@@ -222,23 +222,23 @@ http
 
 
 #EXTINF:-1 group-title="🟢ALVAROTV⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EN VIVO 55
-http
+http://195.181.169.152:8080/Super_Sport_4_HD_AL/video.m3u8?token=test
 
 
 
 #EXTINF:-1 group-title="🟢ALVAROTV⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EN VIVO 56
-http
+http://195.181.169.152:8080/Super_Sport_3_HD_AL/video.m3u8?token=test
 
 
 
 #EXTINF:-1 group-title="🟢ALVAROTV⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EN VIVO 57
-http
+http://195.181.169.152:8080/Super_Sport_2_HD_AL/video.m3u8?token=test
 
 
 
 
 #EXTINF:-1 group-title="🟢ALVAROTV⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EN VIVO 58
-http
+http://195.181.169.152:8080/Super_Sport_2_HD_AL/video.m3u8?token=test
 
 
 
