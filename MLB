@@ -14,40 +14,40 @@ http://embed-cloudfront.wistia.com/deliveries/0846b2f4cdaefc43bececfaffc93d07079
 
 
 #EXTINF:-1 group-title="🟢ALVAROTV⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EN VIVO 1
-http://201.182.250.126:9999/play/a0rx/index.m3u8
+http://143.0.67.77:8000/play/a05a/index.m3u8
 
 #EXTINF:-1 group-title="🟢ALVAROTV⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EN VIVO 2
-http://a5cbcd3a.rostelekom.xyz/iptv/SYXKER4R9ZF9WAP8T5TKQLBM/6097/index.m3u8
+http://143.0.67.77:8000/play/a059/index.m3u8
 
 
 
 #EXTINF:-1 group-title="🟢ALVAROTV⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EN VIVO 3
-http://a5cbcd3a.rostelekom.xyz/iptv/SYXKER4R9ZF9WAP8T5TKQLBM/31590/index.m3u8
+http://143.0.67.77:8000/play/a05b/index.m3u8
 
 #EXTINF:-1 group-title="🟢ALVAROTV⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EN VIVO 4
-http://a5cbcd3a.rostelekom.xyz/iptv/SYXKER4R9ZF9WAP8T5TKQLBM/2525/index.m3u8
+http://143.0.67.77:8000/play/a076/index.m3u8
 
 #EXTINF:-1 group-title="🟢ALVAROTV⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EN VIVO 5
-http://a5cbcd3a.rostelekom.xyz/iptv/SYXKER4R9ZF9WAP8T5TKQLBM/2526/index.m3u8
+http://143.0.67.77:8000/play/a078/index.m3u8
 
 #EXTINF:-1 group-title="🟢ALVAROTV⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EN VIVO 6
-http://a5cbcd3a.rostelekom.xyz/iptv/SYXKER4R9ZF9WAP8T5TKQLBM/2527/index.m3u8
+http://143.0.67.77:8000/play/a0af/index.m3u8
 
 
 #EXTINF:-1 group-title="🟢ALVAROTV⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EN VIVO 7
-http://a5cbcd3a.rostelekom.xyz/iptv/SYXKER4R9ZF9WAP8T5TKQLBM/2528/index.m3u8
+http://143.0.67.77:8000/play/a0bc/index.m3u8
 
 #EXTINF:-1 group-title="🟢ALVAROTV⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EN VIVO 8
-http://a5cbcd3a.rostelekom.xyz/iptv/SYXKER4R9ZF9WAP8T5TKQLBM/2529/index.m3u8
+http://143.0.67.77:8000/play/a02s/index.m3u8
 
 #EXTINF:-1 group-title="🟢ALVAROTV⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EN VIVO 9
-http://a5cbcd3a.rostelekom.xyz/iptv/SYXKER4R9ZF9WAP8T5TKQLBM/6541/index.m3u8
+http://205.235.6.29:8000/play/a0nq/index.m3u8
 
 #EXTINF:-1 group-title="🟢ALVAROTV⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EN VIVO 10
-http://a5cbcd3a.rostelekom.xyz/iptv/SYXKER4R9ZF9WAP8T5TKQLBM/6542/index.m3u8
+http://205.235.6.29:8000/play/a0ns/index.m3u8
 
 #EXTINF:-1 group-title="🟢ALVAROTV⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EN VIVO 11
-http://a5cbcd3a.rostelekom.xyz/iptv/SYXKER4R9ZF9WAP8T5TKQLBM/6555/index.m3u8
+http://205.235.6.29:8000/play/a0ny/index.m3u8
 
 #EXTINF:-1 group-title="🟢ALVAROTV⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EN VIVO 12
 http://a5cbcd3a.rostelekom.xyz/iptv/SYXKER4R9ZF9WAP8T5TKQLBM/7336/index.m3u8
