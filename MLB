@@ -1,17 +1,6 @@
 #EXTM3U
 
 
-
-
-
-
-#EXTINF:-1 group-title="🟢ALVAROTV⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,EVENTOS INFORMACION
-http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
-
-#EXTINF:-1 group-title="🟢ALVAROTV⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" ,PAGOS
- 
-
-
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/8zbcwSh/mlb-network.png" tvg-id="MLBNetwork.us" ,MLB: MLB Network
 http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/367112.ts
 
@@ -384,6 +373,276 @@ http://37.49.224.20/espn4/index.m3u8
 http://37.49.224.20/pre1/index.m3u8
 #EXTINF:-1 group-title="-",PREMIERE 2 HD
 http://37.49.224.20/pre2/index.m3u8
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 1
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 2
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 3
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 4
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 5 
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 6
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 7
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 8
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 9
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 10
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 11
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 12
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 13
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 14
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 15
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS
+http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
