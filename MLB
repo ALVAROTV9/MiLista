@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , BOTYTV INFORMACION
+http://embed-cloudfront.wistia.com/deliveries/70d8dc945a0a727e49ed218d08dbf46731ebf46c.m3u8
 
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/8zbcwSh/mlb-network.png" tvg-id="MLBNetwork.us" ,MLB: MLB Network
 http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/367112.ts
@@ -373,6 +375,10 @@ http://37.49.224.20/espn4/index.m3u8
 http://37.49.224.20/pre1/index.m3u8
 #EXTINF:-1 group-title="-",PREMIERE 2 HD
 http://37.49.224.20/pre2/index.m3u8
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , BOTYTV INFORMACION
+http://embed-cloudfront.wistia.com/deliveries/70d8dc945a0a727e49ed218d08dbf46731ebf46c.m3u8
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 1
