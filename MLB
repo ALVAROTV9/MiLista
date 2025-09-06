@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , BOTYTV INFORMACION
-http://embed-cloudfront.wistia.com/deliveries/70d8dc945a0a727e49ed218d08dbf46731ebf46c.m3u8
+http://embed-cloudfront.wistia.com/deliveries/5a15e5e3ed51e5ce0b0a77448b8f979994709092.m3u8
 
 #EXTINF:-1 group-title="MLB" tvg-logo="https://i.ibb.co/8zbcwSh/mlb-network.png" tvg-id="MLBNetwork.us" ,MLB: MLB Network
 http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/367112.ts
