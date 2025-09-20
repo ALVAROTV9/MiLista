@@ -8,7 +8,7 @@ http://embed-cloudfront.wistia.com/deliveries/7f84833386b5af88621d0d3d5e4fb684ad
 http://205.235.6.29:8000/play/a0ve/index.m3u8
 
 #EXTINF:-1 group-title="PPV" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 2
-http://38.41.8.1:8000/play/a06r
+http://205.235.6.29:8000/play/a0vh/index.m3u8
 
 #EXTINF:-1 group-title="PPV" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 3
 http://38.41.8.1:8000/play/a06r
