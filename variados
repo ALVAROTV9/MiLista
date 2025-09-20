@@ -413,9 +413,11 @@ http://190.0.247.38:8000/play/a00j
 http://190.0.247.38:8000/play/a04p
 
 
+
 #EXTINF:0,BOTYTV Info
 #EXTGRP:BOTYTV2
 http://fast.wistia.com/embed/medias/5m1gmrwde6.m3u8
+
 #EXTINF:0,A&E HD
 #EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a05i/index.m3u8
@@ -423,602 +425,603 @@ http://143.0.67.77:8000/play/a05i/index.m3u8
 #EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a01o/index.m3u8
 #EXTINF:0,AM Sports
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a01v/index.m3u8
 #EXTINF:0,AMC
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a01z/index.m3u8
 #EXTINF:0,AXN HD
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a05f/index.m3u8
 #EXTINF:0,America TV HD
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a055/index.m3u8
 #EXTINF:0,Baby TV
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a02e/index.m3u8
 #EXTINF:0,C5N
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a01p/index.m3u8
 #EXTINF:0,CNN en EspaÃ¦ol
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a054/index.m3u8
 #EXTINF:0,Canal a
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a09j/index.m3u8
 #EXTINF:0,Canal de la Ciudad
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a06e/index.m3u8
 #EXTINF:0,Cartoon Network HD
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a075/index.m3u8
 #EXTINF:0,Cine.AR
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a024/index.m3u8
 #EXTINF:0,Cinecanal HD
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a07b/index.m3u8
 #EXTINF:0,Cinemax
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a04s/index.m3u8
 #EXTINF:0,Comedy Central HD
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a02x/index.m3u8
 #EXTINF:0,Cronica
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a01q/index.m3u8
 #EXTINF:0,DeporTV
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a06h/index.m3u8
 #EXTINF:0,Discovery Channel HD
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a07i/index.m3u8
 #EXTINF:0,Discovery H&H HD
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a07h/index.m3u8
 #EXTINF:0,Discovery Kids
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a06t/index.m3u8
 #EXTINF:0,Discovery Science
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a02k/index.m3u8
 #EXTINF:0,Discovery Theater HD
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a02z/index.m3u8
 #EXTINF:0,Discovery Turbo
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a01w/index.m3u8
 #EXTINF:0,Discovery World HD
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a031/index.m3u8
 #EXTINF:0,Disney Channel HD
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a02r/index.m3u8
 #EXTINF:0,Disney Junior
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a04y/index.m3u8
 #EXTINF:0,E! Entertainment
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a050/index.m3u8
 #EXTINF:0,ESPN 2 HD
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a059/index.m3u8
 #EXTINF:0,ESPN 3 HD
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a05b/index.m3u8
 #EXTINF:0,ESPN 4 HD
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a076/index.m3u8
 #EXTINF:0,ESPN HD
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a05a/index.m3u8
 #EXTINF:0,ESPN Premium HD
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a078/index.m3u8
 #EXTINF:0,El Canal  de las Estrellas
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a06z/index.m3u8
 #EXTINF:0,El Gourmet
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a06w/index.m3u8
 #EXTINF:0,Encuentro
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a01m/index.m3u8
 #EXTINF:0,Europa Europa
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a06v/index.m3u8
 #EXTINF:0,Eventos HD
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a0af/index.m3u8
 #EXTINF:0,FX HD
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a02v/index.m3u8
 #EXTINF:0,Film & Arts HD
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a030/index.m3u8
 #EXTINF:0,Fox Sports 2 HD
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a05c/index.m3u8
 #EXTINF:0,Fox Sports 3 HD
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a02t/index.m3u8
 #EXTINF:0,Fox Sports HD
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a07j/index.m3u8
 #EXTINF:0,Galicia TV
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a02q/index.m3u8
 #EXTINF:0,HBO
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a06o/index.m3u8
 #EXTINF:0,HBO 2
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a06q/index.m3u8
 #EXTINF:0,HBO Family
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a06r/index.m3u8
 #EXTINF:0,HBO Mundi
-#EXTGRP:-
+##EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a02a/index.m3u8
 #EXTINF:0,HBO Plus
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a06p/index.m3u8
 #EXTINF:0,HBO Signature
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a02c/index.m3u8
 #EXTINF:0,HBO Xtreme
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a02b/index.m3u8
 #EXTINF:0,HGTV
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a02j/index.m3u8
 #EXTINF:0,HTV
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a02o/index.m3u8
 #EXTINF:0,History 2
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a0ab/index.m3u8
 #EXTINF:0,History Channel
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a051/index.m3u8
 #EXTINF:0,La Nacion TV
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a01s/index.m3u8
 #EXTINF:0,Lifetime
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a06n/index.m3u8
 #EXTINF:0,MTV
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a02m/index.m3u8
 #EXTINF:0,MTVÃ—00
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a053/index.m3u8
 #EXTINF:0,Metro
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a02g/index.m3u8
 #EXTINF:0,Nat Geo HD
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a05g/index.m3u8
 #EXTINF:0,Nick Jr
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a06u/index.m3u8
 #EXTINF:0,Nickelodeon
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a04z/index.m3u8
 #EXTINF:0,Pakapaka
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a01n/index.m3u8
 #EXTINF:0,Paramount HD
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a02y/index.m3u8
 #EXTINF:0,Playboy
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a032/index.m3u8
 #EXTINF:0,Quiero Musica
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a02n/index.m3u8
 #EXTINF:0,RAI Italia
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a02p/index.m3u8
 #EXTINF:0,RT en EspaÃ¦ol
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a0ac/index.m3u8
 #EXTINF:0,Rural
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a02f/index.m3u8
 #EXTINF:0,Sextreme
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a034/index.m3u8
 #EXTINF:0,Sony HD
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a05d/index.m3u8
 #EXTINF:0,Sony Movies HD
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a05k/index.m3u8
 #EXTINF:0,Space HD
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a02w/index.m3u8
 #EXTINF:0,Star Channel HD
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a079/index.m3u8
 #EXTINF:0,Studio Universal
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a022/index.m3u8
 #EXTINF:0,TCM
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a020/index.m3u8
 #EXTINF:0,TLNovelas
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a0dg/index.m3u8
 #EXTINF:0,TN HD
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a058/index.m3u8
 #EXTINF:0,TNT HD
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a07d/index.m3u8
 #EXTINF:0,TNT Novelas HD
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a07g/index.m3u8
 #EXTINF:0,TNT Series HD
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a07e/index.m3u8
 #EXTINF:0,TNT Sports HD
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a0bc/index.m3u8
 #EXTINF:0,TV Publica HD
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a056/index.m3u8
 #EXTINF:0,TVE
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a072/index.m3u8
 #EXTINF:0,Telefe HD
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a06c/index.m3u8
 #EXTINF:0,The History Channel HD
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a05h/index.m3u8
 #EXTINF:0,TyC Sports HD
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a02s/index.m3u8
 #EXTINF:0,USA Network
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a023/index.m3u8
 #EXTINF:0,Universal HD
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a05j/index.m3u8
 #EXTINF:0,Venus
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a033/index.m3u8
 #EXTINF:0,Volver
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a021/index.m3u8
 #EXTINF:0,Warner Channel HD
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a05e/index.m3u8
 #EXTINF:0,ciudad magazine
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a02h/index.m3u8
 #EXTINF:0,el nueve HD
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a04h/index.m3u8
 #EXTINF:0,el trece HD
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a0bg/index.m3u8
 #EXTINF:0,folklorisima
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a0df/index.m3u8
 #EXTINF:0,t5 satelital
-#EXTGRP:-
+#EXTGRP:BOTYTV2
 http://143.0.67.77:8000/play/a0de/index.m3u8
 
 
 
 #EXTINF:0,BOTTTV
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://fast.wistia.com/embed/medias/5m1gmrwde6.m3u8
 #EXTINF:0,20.5 ESTRELLAS HD
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/13/index.m3u8
 #EXTINF:0,27.4 LA VOZ DE MARIA
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0md/index.m3u8
 #EXTINF:0,30.1 DEPORTES 1
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0ns/index.m3u8
 #EXTINF:0,31.1 DEPORTES 2
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0nq/index.m3u8
 #EXTINF:0,312-TLNOVELAS HD
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0vb/index.m3u8
 #EXTINF:0,Adult Swim
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0qt/index.m3u8
 #EXTINF:0,America TV HD
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0ut/index.m3u8
 #EXTINF:0,Animal Planet HD
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0nb/index.m3u8
 #EXTINF:0,Antena 3
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0ru/index.m3u8
-#EXTINF:0,CNN EspaÃ¦ol
-#EXTGRP:-
+#EXTINF:0,CNN Esp
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0qb/index.m3u8
 #EXTINF:0,Caracol
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0v7/index.m3u8
 #EXTINF:0,Caracol HD
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0v6/index.m3u8
 #EXTINF:0,DHE
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0py/index.m3u8
 #EXTINF:0,DTV
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0ok/index.m3u8
 #EXTINF:0,DW EspaÃ¦ol
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0s2/index.m3u8
 #EXTINF:0,De PelÅ¦cula
-#EXTGRP:-
+##EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0p8/index.m3u8
 #EXTINF:0,Discovery Channel  HD
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0nc/index.m3u8
 #EXTINF:0,Discovery Kids
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0m3/index.m3u8
 #EXTINF:0,Discovery Science
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0qk/index.m3u8
 #EXTINF:0,Discovery Theater HD
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0pj/index.m3u8
 #EXTINF:0,Discovery Turbo
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0qf/index.m3u8
 #EXTINF:0,Distrito Comedia
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0mr/index.m3u8
 #EXTINF:0,ECU RTU
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0ma/index.m3u8
 #EXTINF:0,ECUAVISA WEB
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0nt/index.m3u8
 #EXTINF:0,ESPN Premium HD
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0pz/index.m3u8
 #EXTINF:0,Food Network
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0px/index.m3u8
 #EXTINF:0,France 24
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0vd/index.m3u8
 #EXTINF:0,Golden HD
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0oq/index.m3u8
 #EXTINF:0,HGTV
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0qo/index.m3u8
 #EXTINF:0,HTV
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0oy/index.m3u8
 #EXTINF:0,Home & Health HD
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0qa/index.m3u8
 #EXTINF:0,ID HD
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0r6/index.m3u8
 #EXTINF:0,Las Estrellas HD
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0n3/index.m3u8
 #EXTINF:0,Latina HD
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0uw/index.m3u8
 #EXTINF:0,MEGA HD
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0pq/index.m3u8
 #EXTINF:0,ORO MAR WEB
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0nw/index.m3u8
 #EXTINF:0,PLIM PLIM
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0mp/index.m3u8
 #EXTINF:0,Pasiones HD
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0pl/index.m3u8
 #EXTINF:0,RTS
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0o6/index.m3u8
 #EXTINF:0,SPACE
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0oi/index.m3u8
 #EXTINF:0,STAR CHANEL
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0oj/index.m3u8
 #EXTINF:0,Space HD
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0r7/index.m3u8
 #EXTINF:0,Stingray Concerts
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0ur/index.m3u8
 #EXTINF:0,Sun Channel HD
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0q2/index.m3u8
 #EXTINF:0,TC TelevisiÃ°n
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0m8/index.m3u8
 #EXTINF:0,TLC
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0qj/index.m3u8
 #EXTINF:0,TNT HD
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0r4/index.m3u8
 #EXTINF:0,Telerama XUI
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0va/index.m3u8
 #EXTINF:0,Tlnovelas
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0ow/index.m3u8
 #EXTINF:0,Venus
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0pb/index.m3u8
 #EXTINF:0,WUAN+
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0mq/index.m3u8
 #EXTINF:0,Warner TV HD
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0r5/index.m3u8
 #EXTINF:0,Win Sports+ HD
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0ve/index.m3u8
 #EXTINF:0,ZAPPING
-#EXTGRP:-
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0ny/index.m3u8
+
 #EXTINF:0,DIRECTV
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0vh/index.m3u8
 #EXTINF:0,NITRO
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0vj/index.m3u8
 #EXTINF:0,TELERAMA ONCEPLAY 312
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0vg/index.m3u8
 #EXTINF:0,UNSION TV
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0vi/index.m3u8
 #EXTINF:0,15.3 RTS - LIKE TV
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/11/index.m3u8
 #EXTINF:0,CARACOL HD LIKETV
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV3VIP
 http://205.235.6.29:8000/play/a0vf/index.m3u8
 
 
 
 
 #EXTINF:0,123 TV
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV4
 http://38.41.8.1:8000/play/a03o
 #EXTINF:0,AE Mundo
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV4
 http://38.41.8.1:8000/play/a07v
 #EXTINF:0,ALBA TV
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV4
 http://38.41.8.1:8000/play/a03p
 #EXTINF:0,AMC
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV4
 http://38.41.8.1:8000/play/a0tx
 #EXTINF:0,AME CH47
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV4
 http://38.41.8.1:8000/play/a0cq
 #EXTINF:0,ANTV
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV4
 http://38.41.8.1:8000/play/a03m
 #EXTINF:0,ATRES SERIES
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV4
 http://38.41.8.1:8000/play/a0tw
 #EXTINF:0,ATV
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV4
 http://38.41.8.1:8000/play/a0s4
 #EXTINF:0,AXN
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV4
 http://38.41.8.1:8000/play/a0tr
 #EXTINF:0,America TV HD
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV4
 http://38.41.8.1:8000/play/a0t6
 #EXTINF:0,AmÃ˜rica TelevisiÃ°n
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV4
 http://38.41.8.1:8000/play/a0rz
 #EXTINF:0,Animal Planet
-#EXTGRP:unsorted
+##EXTGRP:BOTYTV4
 http://38.41.8.1:8000/play/a0tc
 #EXTINF:0,Avila TV
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV4
 http://38.41.8.1:8000/play/a03t
 #EXTINF:0,Az Corazon
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV4
 http://38.41.8.1:8000/play/a0yd
 #EXTINF:0,Azteca Deportes
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV4
 http://38.41.8.1:8000/play/a0ye
 #EXTINF:0,Azteca Internacional
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV4
 http://38.41.8.1:8000/play/a0yf
 #EXTINF:0,BBC NEWS
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV4
 http://38.41.8.1:8000/play/a0wa
 #EXTINF:0,BOLIVIA TV
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV4
 http://38.41.8.1:8000/play/a0ar
 #EXTINF:0,Baby TV
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV4
 http://38.41.8.1:8000/play/a0ug
 #EXTINF:0,BabyFirst
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV4
 http://38.41.8.1:8000/play/a055
 #EXTINF:0,CANAL HABANA
-#EXTGRP:unsorted
+##EXTGRP:BOTYTV4
 http://38.41.8.1:8000/play/a0ax
 #EXTINF:0,CANAL I
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV4
 http://38.41.8.1:8000/play/a046
 #EXTINF:0,CCS MOVIE
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV4
 http://38.41.8.1:8000/play/a0y4
 #EXTINF:0,CGTN
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV4
 http://38.41.8.1:8000/play/a03h
 #EXTINF:0,CGTN Documentary
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV4
 http://38.41.8.1:8000/play/a03z
 #EXTINF:0,CHV HD
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV4
 http://38.41.8.1:8000/play/a0sr
 #EXTINF:0,CINE PREMIUM
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV4
 http://38.41.8.1:8000/play/a0aw
 #EXTINF:0,COLOMBEIA
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV4
 http://38.41.8.1:8000/play/a03n
 #EXTINF:0,CUBAVISION INTERNACIONAL
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV4
 http://38.41.8.1:8000/play/a0av
 #EXTINF:0,Canal  Capital
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV4
 http://38.41.8.1:8000/play/a0w1
 #EXTINF:0,Canal 1
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV4
 http://38.41.8.1:8000/play/a0uc
 #EXTINF:0,Canal 13
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV4
 http://38.41.8.1:8000/play/a0ub
 #EXTINF:0,Canal 13 HD
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV4
 http://38.41.8.1:8000/play/a0re
 #EXTINF:0,Canal Caracol
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV4
 http://38.41.8.1:8000/play/a06i
 #EXTINF:0,Canal Claro
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV4
 http://38.41.8.1:8000/play/a073
 #EXTINF:0,Canal Estrellas
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV4
 http://38.41.8.1:8000/play/a080
 #EXTINF:0,Canal Institucional
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV4
 http://38.41.8.1:8000/play/a0vt
 #EXTINF:0,Canal N
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV4
 http://38.41.8.1:8000/play/a0s3
 #EXTINF:0,Canal Publico de Argentina
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV4
 http://38.41.8.1:8000/play/a040
 #EXTINF:0,Canal RCN
-#EXTGRP:unsorted
+#EXTGRP:BOTYTV4
 http://38.41.8.1:8000/play/a06j
 #EXTINF:0,Canal TRO
 #EXTGRP:unsorted
