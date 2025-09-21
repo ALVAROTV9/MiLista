@@ -37,6 +37,63 @@ http://38.41.8.1:8000/play/a0sv
 #EXTINF:-1 group-title="PPV" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 10
 http://38.41.8.1:8000/play/a07b
 
+
+#EXTINF:0,28 años despues
+#EXTGRP:PELIS2025
+http://tv.masterplaytv.club:8080/movie/Elcaleno25/wvdQwjUR7H/137753.mkv
+
+#EXTINF:0,Agarralo como puedas
+#EXTGRP:PELIS2025
+http://tv.masterplaytv.club:8080/movie/Elcaleno25/wvdQwjUR7H/144691.mkv
+
+#EXTINF:0,Ajuste de cuentas
+#EXTGRP:PELIS2025
+http://tv.masterplaytv.club:8080/movie/Elcaleno25/wvdQwjUR7H/145215.mkv
+
+#EXTINF:0,Amenaza en el aire
+#EXTGRP:PELIS2025
+http://tv.masterplaytv.club:8080/movie/Elcaleno25/wvdQwjUR7H/106932.mkv
+
+#EXTINF:0,Boda Letal
+#EXTGRP:PELIS2025
+http://tv.masterplaytv.club:8080/movie/Elcaleno25/wvdQwjUR7H/147003.mkv
+
+
+#EXTINF:0,Cobtrastsque
+#EXTGRP:PELIS2025
+http://tv.masterplaytv.club:8080/movie/Elcaleno25/wvdQwjUR7H/132716.mkv
+
+
+#EXTINF:0,Control Room
+#EXTGRP:PELIS2025
+http://tv.masterplaytv.club:8080/movie/Elcaleno25/wvdQwjUR7H/137926.mkv
+
+
+#EXTINF:0,Criatura Voraz
+#EXTGRP:PELIS2025
+http://tv.masterplaytv.club:8080/movie/Elcaleno25/wvdQwjUR7H/131924.mkv
+
+
+#EXTINF:0,Del Cielo al Infierno
+#EXTGRP:PELIS2025
+http://tv.masterplaytv.club:8080/movie/Elcaleno25/wvdQwjUR7H/145480.mkv
+
+
+#EXTINF:0,Destino Final lazos de Sangre
+#EXTGRP:PELIS2025
+http://tv.masterplaytv.club:8080/movie/Elcaleno25/wvdQwjUR7H/121858.mkv
+
+#EXTINF:0,A
+#EXTGRP:PELIS2025
+
+#EXTINF:0,A
+#EXTGRP:PELIS2025
+
+
+
+
+
+
 #EXTINF:0,A&E HD
 #EXTGRP:BOTYTV
 http://190.0.247.38:8000/play/a01h
