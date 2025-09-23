@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="PPV" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , BOTYTV INFORMACION Y CONTACTO
+#EXTINF:-1 group-title="PPV" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , BOTYTV Solo 3USD 3Meses
 http://embed-cloudfront.wistia.com/deliveries/7f84833386b5af88621d0d3d5e4fb684ad44f6e5.m3u8
 
 
@@ -83,13 +83,52 @@ http://tv.masterplaytv.club:8080/movie/Elcaleno25/wvdQwjUR7H/145480.mkv
 #EXTGRP:PELIS2025
 http://tv.masterplaytv.club:8080/movie/Elcaleno25/wvdQwjUR7H/121858.mkv
 
-#EXTINF:0,A
-#EXTGRP:PELIS2025
+#EXTINF:0,APARTAMENTO 7A 2024
+#EXTGRP:PELISTERROR
+http://tv.zapping.life:8080/movie/mayleenfunez1/135535683598/124452.mkv
 
-#EXTINF:0,A
-#EXTGRP:PELIS2025
+#EXTINF:0,Cuckook 2024
+#EXTGRP:PELISTERROR
+http://tv.zapping.life:8080/movie/mayleenfunez1/135535683598/124449.mkv
+
+#EXTINF:0,El Barrio del Diablo 2024
+#EXTGRP:PELISTERROR
+http://tv.zapping.life:8080/movie/mayleenfunez1/135535683598/124455.mkv
+
+#EXTINF:0,Estacion Rocafort 2024
+#EXTGRP:PELISTERROR
+http://tv.zapping.life:8080/movie/mayleenfunez1/135535683598/124460.mkv
 
 
+
+#EXTINF:0,La Casa de los Susurros 2024
+#EXTGRP:PELISTERROR
+http://tv.zapping.life:8080/movie/mayleenfunez1/135535683598/124474.mkv
+
+
+
+#EXTINF:0,En el Reino de las Sombras 2025
+#EXTGRP:PELISTERROR
+http://tv.zapping.life:8080/movie/mayleenfunez1/135535683598/141437.mkv
+
+
+#EXTINF:0,Poseida 2025
+#EXTGRP:PELISTERROR
+http://tv.zapping.life:8080/movie/mayleenfunez1/135535683598/125961.mkv
+
+
+#EXTINF:0,Presencia 2025
+#EXTGRP:PELISTERROR
+http://tv.zapping.life:8080/movie/mayleenfunez1/135535683598/118895.mkv
+
+#EXTINF:0,Se lo que Hiciste el ultimo Verano 2025
+#EXTGRP:PELISTERROR
+http://tv.zapping.life:8080/movie/mayleenfunez1/135535683598/145006.mkv
+
+
+#EXTINF:0,Jugaremos en el Bosque 2024
+#EXTGRP:PELISTERROR
+http://tv.zapping.life:8080/movie/mayleenfunez1/135535683598/124472.mkv
 
 
 
