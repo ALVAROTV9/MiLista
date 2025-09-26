@@ -522,7 +522,7 @@ http://190.0.247.38:8000/play/a05c
 #EXTGRP:NACIONALES
 http://190.0.247.38:8000/play/a02d
 #EXTINF:0,TELEVID HD
-#EXTGRP:RELIGION
+#EXTGRP:VARIADOS
 http://190.0.247.38:8000/play/a02o
 #EXTINF:0,TLNOVELAS HD
 #EXTGRP:VARIADOS
@@ -1244,7 +1244,6 @@ http://38.41.8.1:8000/play/a0rh
 http://38.41.8.1:8000/play/a0r7
 
 
-UUUUU
 
 
 #EXTINF:0,Disney HD
@@ -1452,10 +1451,10 @@ http://38.41.8.1:8000/play/a0uu
 
 
 #EXTINF:0,MÃ†sChic
-#EXTGRP:BOTYTV4
+#EXTGRP:VARIADOS
 http://38.41.8.1:8000/play/a0w9
 #EXTINF:0,NTV
-#EXTGRP:BOTYTV4
+#EXTGRP:VARIADOS
 http://38.41.8.1:8000/play/a0vr
 #EXTINF:0,Nat Geo
 #EXTGRP:CULTURAL
@@ -1464,124 +1463,124 @@ http://38.41.8.1:8000/play/a04o
 #EXTGRP:CULTURAL
 http://38.41.8.1:8000/play/a0td
 #EXTINF:0,Nick HD
-#EXTGRP:BOTYTV4
+#EXTGRP:INFANTIL
 http://38.41.8.1:8000/play/a0rt
 #EXTINF:0,Nick Music
-#EXTGRP:BOTYTV4
+#EXTGRP:INFANTIL
 http://38.41.8.1:8000/play/a0v6
 #EXTINF:0,Nickelodeon
-#EXTGRP:BOTYTV4
+#EXTGRP:INFANTIL
 http://38.41.8.1:8000/play/a0r6
 #EXTINF:0,Nuestra Tele
-#EXTGRP:BOTYTV4
+#EXTGRP:NACIONALES
 http://38.41.8.1:8000/play/a0v3
 #EXTINF:0,Oromar TV
-#EXTGRP:BOTYTV4
+#EXTGRP:VARIADOS
 http://38.41.8.1:8000/play/a045
 #EXTINF:0,Panamericana
-#EXTGRP:BOTYTV4
+#EXTGRP:NACIONALES
 http://38.41.8.1:8000/play/a0s0
 #EXTINF:0,Paramount Channel
-#EXTGRP:BOTYTV4
+#EXTGRP:CINE
 http://38.41.8.1:8000/play/a0sp
 #EXTINF:0,Paramount HD
-#EXTGRP:BOTYTV4
+#EXTGRP:CINE
 http://38.41.8.1:8000/play/a0t2
 #EXTINF:0,Pasiones
-#EXTGRP:BOTYTV4
+#EXTGRP:VARIADOS
 http://38.41.8.1:8000/play/a0tv
 #EXTINF:0,Peru Magico
-#EXTGRP:BOTYTV4
+#EXTGRP:NACIONALES
 http://38.41.8.1:8000/play/a0we
 #EXTINF:0,RAI
-#EXTGRP:BOTYTV4
+#EXTGRP:NACIONALES
 http://38.41.8.1:8000/play/a0wg
 #EXTINF:0,RCN HD
-#EXTGRP:BOTYTV4
+#EXTGRP:NACIONALES
 http://38.41.8.1:8000/play/a0t4
 #EXTINF:0,RCN Novelas
-#EXTGRP:BOTYTV4
+#EXTGRP:NACIONALES
 http://38.41.8.1:8000/play/a070
 #EXTINF:0,RED Television
-#EXTGRP:BOTYTV4
+#EXTGRP:NACIONALES
 http://38.41.8.1:8000/play/a0uw
 #EXTINF:0,RTV
-#EXTGRP:BOTYTV4
+#EXTGRP:NACIONALES
 http://38.41.8.1:8000/play/a0cu
 #EXTINF:0,Radio RNV Informativo
-##EXTGRP:BOTYTV4
+##EXTGRP:NACIONALES
 http://38.41.8.1:8000/play/a0y8
 #EXTINF:0,SEOTV HD
-#EXTGRP:BOTYTV4
+#EXTGRP:NACIONALES
 http://38.41.8.1:8000/play/a0xz
 #EXTINF:0,STAR CHANNEL
-#EXTGRP:BOTYTV4
+#EXTGRP:CINE
 http://38.41.8.1:8000/play/a04w
 #EXTINF:0,STAR CHANNEL HD
-#EXTGRP:BOTYTV4
+#EXTGRP:CINE
 http://38.41.8.1:8000/play/a0ri
 #EXTINF:0,STAR TVE
-#EXTGRP:BOTYTV4
+#EXTGRP:NACIONALES
 http://38.41.8.1:8000/play/a0uq
 #EXTINF:0,Show Ven TV
-#EXTGRP:BOTYTV4
+#EXTGRP:NACIONALES
 http://38.41.8.1:8000/play/a03s
 #EXTINF:0,Sin Limites
-#EXTGRP:BOTYTV4
+#EXTGRP:VARIADOS
 http://38.41.8.1:8000/play/a07e
 #EXTINF:0,Sony
-#EXTGRP:BOTYTV4
+#EXTGRP:CINE
 http://38.41.8.1:8000/play/a0tq
 #EXTINF:0,Space
-#EXTGRP:BOTYTV4
+#EXTGRP:CINE
 http://38.41.8.1:8000/play/a0ra
 #EXTINF:0,Space HD
-#EXTGRP:BOTYTV4
+#EXTGRP:CINE
 http://38.41.8.1:8000/play/a0rk
 #EXTINF:0,Studio Universal
-#EXTGRP:BOTYTV4
+#EXTGRP:CINE
 http://38.41.8.1:8000/play/a05n
 #EXTINF:0,SyFy
-#EXTGRP:BOTYTV4
+#EXTGRP:CINE
 http://38.41.8.1:8000/play/a057
 #EXTINF:0,TBS
-#EXTGRP:BOTYTV4
+#EXTGRP:CINE
 http://38.41.8.1:8000/play/a074
 #EXTINF:0,TCM
-#EXTGRP:BOTYTV4
+#EXTGRP:CINE
 http://38.41.8.1:8000/play/a04x
 #EXTINF:0,TELEANTILLAS
-#EXTGRP:BOTYTV4
+#EXTGRP:NACIONALES
 http://38.41.8.1:8000/play/a0y3
 #EXTINF:0,TELESUR
-#EXTGRP:BOTYTV4
+#EXTGRP:NACIONALES
 http://38.41.8.1:8000/play/a03l
 #EXTINF:0,TLNovelas
-#EXTGRP:BOTYTV4
+#EXTGRP:VARIADOS
 http://38.41.8.1:8000/play/a0df
 #EXTINF:0,TLT
-#EXTGRP:BOTYTV4
+#EXTGRP:VARIADOS
 http://38.41.8.1:8000/play/a03y
 #EXTINF:0,TLT HD
-#EXTGRP:BOTYTV4
+#EXTGRP:VARIADOS
 http://38.41.8.1:8000/play/a044
 #EXTINF:0,TNT
-#EXTGRP:BOTYTV4
+#EXTGRP:CINE
 http://38.41.8.1:8000/play/a0sn
 #EXTINF:0,TNT HD
-#EXTGRP:BOTYTV4
+#EXTGRP:CINE
 http://38.41.8.1:8000/play/a0su
 #EXTINF:0,TNT NOVELAS
-#EXTGRP:BOTYTV4
+#EXTGRP:VARIADOS
 http://38.41.8.1:8000/play/a0tk
 #EXTINF:0,TNT SPORTS
 #EXTGRP:PPV
 http://38.41.8.1:8000/play/a0yi
 #EXTINF:0,TNT Series
-##EXTGRP:BOTYTV4
+##EXTGRP:VARIADOS
 http://38.41.8.1:8000/play/a0so
 #EXTINF:0,TNT Series HD
-#EXTGRP:BOTYTV4
+#EXTGRP:VARIADOS
 http://38.41.8.1:8000/play/a0t1
 #EXTINF:0,TNT Sports Premiun HD
 #EXTGRP:PPV
@@ -1590,49 +1589,49 @@ http://38.41.8.1:8000/play/a0rn
 #EXTGRP:PPV
 http://38.41.8.1:8000/play/a0sf
 #EXTINF:0,TRO
-#EXTGRP:BOTYTV4
+#EXTGRP:NACIONALES
 http://38.41.8.1:8000/play/a06v
 #EXTINF:0,TV Galicia
-#EXTGRP:BOTYTV4
+#EXTGRP:NACIONALES
 http://38.41.8.1:8000/play/a042
 #EXTINF:0,TV PERU
-#EXTGRP:BOTYTV4
+#EXTGRP:NACIONALES
 http://38.41.8.1:8000/play/a0s2
 #EXTINF:0,TV+
-#EXTGRP:BOTYTV4
+#EXTGRP:NACIONALES
 http://38.41.8.1:8000/play/a0ux
 #EXTINF:0,TVE
-#EXTGRP:BOTYTV4
+#EXTGRP:NACIONALES
 http://38.41.8.1:8000/play/a054
 #EXTINF:0,TVES
-#EXTGRP:BOTYTV4
+#EXTGRP:NACIONALES
 http://38.41.8.1:8000/play/a03k
 #EXTINF:0,TVFANB
-#EXTGRP:BOTYTV4
+#EXTGRP:NACIONALES
 http://38.41.8.1:8000/play/a03r
 #EXTINF:0,TVN HD
-#EXTGRP:BOTYTV4
+#EXTGRP:NACIONALES
 http://38.41.8.1:8000/play/a0sq
 #EXTINF:0,Teen Nick
-#EXTGRP:BOTYTV4
+#EXTGRP:INFANTIL
 http://38.41.8.1:8000/play/a0v8
 #EXTINF:0,Telecafe
-#EXTGRP:BOTYTV4
+#EXTGRP:NACIONALES
 http://38.41.8.1:8000/play/a0w0
 #EXTINF:0,Telecaribe
-#EXTGRP:BOTYTV4
+#EXTGRP:NACIONALES
 http://38.41.8.1:8000/play/a0vw
 #EXTINF:0,Telemundo
-#EXTGRP:BOTYTV4
+#EXTGRP:NACIONALES
 http://38.41.8.1:8000/play/a0vd
 #EXTINF:0,Telemundo
-#EXTGRP:BOTYTV4
+#EXTGRP:NACIONALES
 http://38.41.8.1:8000/play/a083
 #EXTINF:0,Telenovelas
-#EXTGRP:BOTYTV4
+#EXTGRP:NACIONALES
 http://38.41.8.1:8000/play/a0w8
 #EXTINF:0,Tooncast
-#EXTGRP:BOTYTV4
+#EXTGRP:INFANTIL
 http://38.41.8.1:8000/play/a0vb
 #EXTINF:0,TyC Sports
 #EXTGRP:PPV
@@ -1641,80 +1640,79 @@ http://38.41.8.1:8000/play/a0wj
 #EXTGRP:PPV
 http://38.41.8.1:8000/play/a0v5
 #EXTINF:0,UNITEL HD
-#EXTGRP:BOTYTV4
+#EXTGRP:NACIONALES
 http://38.41.8.1:8000/play/a0d7
 #EXTINF:0,UNIVERSAL CHANNEL HD
-#EXTGRP:BOTYTV4
+#EXTGRP:CINE
 http://38.41.8.1:8000/play/a0u2
 #EXTINF:0,Universal
-#EXTGRP:BOTYTV4
+#EXTGRP:CINE
 http://38.41.8.1:8000/play/a04r
 #EXTINF:0,VEN-News Radio
-#EXTGRP:BOTYTV4
+#EXTGRP:NACIONALES
 http://38.41.8.1:8000/play/a0ya
 #EXTINF:0,VPACO TV
-#EXTGRP:BOTYTV4
+#EXTGRP:VARIADOS
 http://38.41.8.1:8000/play/a043
 #EXTINF:0,VTV
-#EXTGRP:BOTYTV4
+#EXTGRP:NACIONALES
 http://38.41.8.1:8000/play/a03i
 #EXTINF:0,VTV HD
-#EXTGRP:PPV
+#EXTGRP:NACIONALES
 http://38.41.8.1:8000/play/a0xq
 
 
-yyyy
 
 
 
 #EXTINF:0,Venevision
-#EXTGRP:BOTYTV4
+#EXTGRP:NACIONALES
 http://38.41.8.1:8000/play/a03v
 #EXTINF:0,Via X
-#EXTGRP:BOTYTV4
+#EXTGRP:VARIADOS
 http://38.41.8.1:8000/play/a0uz
 #EXTINF:0,Via X Esports
-#EXTGRP:BOTYTV4
+#EXTGRP:PPV
 http://38.41.8.1:8000/play/a0wk
 #EXTINF:0,Vive TV
-#EXTGRP:BOTYTV4
+#EXTGRP:VARIADOS
 http://38.41.8.1:8000/play/a03j
 #EXTINF:0,Warner
-#EXTGRP:BOTYTV4
+#EXTGRP:CINE
 http://38.41.8.1:8000/play/a07n
 #EXTINF:0,Warner Channel
-#EXTGRP:BOTYTV4
+#EXTGRP:CINE
 http://38.41.8.1:8000/play/a0r9
 #EXTINF:0,Warner Channel HD
-#EXTGRP:BOTYTV4
+#EXTGRP:CINE
 http://38.41.8.1:8000/play/a0rj
 #EXTINF:0,Win Sports
-#EXTGRP:BOTYTV4
+#EXTGRP:PPV
 http://38.41.8.1:8000/play/a0un
 #EXTINF:0,Win Sports+
-#EXTGRP:BOTYTV4
+#EXTGRP:PPV
 http://38.41.8.1:8000/play/a0tp
 #EXTINF:0,Zona Latina
-#EXTGRP:BOTYTV4
+#EXTGRP:NACIONALES
 http://38.41.8.1:8000/play/a0uy
 #EXTINF:0,Zoom
-#EXTGRP:BOTYTV4
+#EXTGRP:NACIONALES
 http://38.41.8.1:8000/play/a06u
 
 
 
 
 #EXTINF:0,123 TV
-#EXTGRP:BOTYTV4
+#EXTGRP:VARIADOS
 http://38.41.8.1:8000/play/a03o
 #EXTINF:0,AE Mundo
-#EXTGRP:BOTYTV4
+#EXTGRP:CINE
 http://38.41.8.1:8000/play/a07v
 #EXTINF:0,ALBA TV
-#EXTGRP:BOTYTV4
+#EXTGRP:VARIADOS
 http://38.41.8.1:8000/play/a03p
 #EXTINF:0,AMC
-#EXTGRP:BOTYTV4
+#EXTGRP:CINE
 http://38.41.8.1:8000/play/a0tx
 
 
@@ -1842,229 +1840,229 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
 
 #EXTINF:0,Aragon Internacional (ES)
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:0,TeleMadrid Internacional (ES)
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://new-international-23-secure2.akamaized.net/index.m3u8
 #EXTINF:0,AmÃ©rica TV (EU)
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://live.gideo.video:443/americateve2/HD720/HD720.m3u8
 #EXTINF:0,Canal 57 (EU)
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/playlist.m3u8
 #EXTINF:0,Glewed TV Spanish (EU)
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/glewedtv-spanish/master.m3u8
 #EXTINF:0,Canela TV
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0,Canela Cine Picante
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://amg00658-amg00658c106-canelatv-international-7979.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0,Canela ClÃ¡sicos
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://amg00658-amg00658c9-canelatv-international-7219.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0,Canela Cinema
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://amg00658-amg00658c8-canelatv-international-7227.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0,Canela Accion Mexicana
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://amg00658-amg00658c104-canelatv-international-7980.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0,Canela Cine Romantico
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://amg00658-amg00658c66-canelatv-international-5554.playouts.now.amagi.tv/master.m3u8
 #EXTINF:0,Canela Pelimex
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pelimexta-canelatvinternational/playlist.m3u8
 #EXTINF:0,Caracol Mix
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://amg01433-amg01433c1-canelatv-international-8611.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0,TV Publica
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://g4.proy-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 #EXTINF:0,Cali TV
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:0,Estrella TV
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://estrellatv-plex.amagi.tv/playlist.m3u8
 #EXTINF:0,FreeTV
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 #EXTINF:0,FreeTV AcciÃ³n
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://amg01024-olympusat-topcinelatam-ono-ad-99.amagi.tv/playlist/amg01024-olympusat-topcinelatam-ono/playlist.m3u8
 #EXTINF:0,FreeTV Banda
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://amg01024-olympusat-mmcfreetv-ono-ad-kj.amagi.tv/playlist/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8
 #EXTINF:0,FreeTV Drama
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8
 #EXTINF:0,FreeTV Estelar
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
 #EXTINF:0,FreeTV Familia
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntosco-lgco/playlist.m3u8
 #EXTINF:0,FreeTV Hits
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8
 #EXTINF:0,FreeTV Live
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
 #EXTINF:0,FreeTV SureÃ±o
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/playlist.m3u8
 #EXTINF:0,FreeTV Saber Mas
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8
 #EXTINF:0,tve
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_720.m3u8
 #EXTINF:0,Runtime MX
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://run-rt-mx.otteravision.com/run/rt_mx/rt_mx.m3u8
 #EXTINF:0,Es Tu Tele
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8
 #EXTINF:0,13C Cultura Chile
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:0,13 Festival Chile
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 #EXTINF:0,13 Realities Chile
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 #EXTINF:0,13 Teleseries Chile
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:0,13Max TelevisiÃ³n Chile
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF:0,Pride TV Latam
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:0,ITV
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://redirector.dps.live/hls/itv/playlist.m3u8
 #EXTINF:0,Latina Peru
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:0,Motorvision
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=757
 #EXTINF:0,RT EspaÃ±ol
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:0,Taste Made
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
 #EXTINF:0,Ecuavisa
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1400
 #EXTINF:0,Canal 7 - Ecuador TV
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://samson.streamerr.co:8081/shogun/index.m3u8
 #EXTINF:0,El Pinguino TV
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1650
 #EXTINF:0,Venevision Internacional
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:0,UCL
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:0,TV Marti - Cuba
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
 #EXTINF:0,Telemundo
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://d1rqgw5gocwo9i.cloudfront.net/10009/88886036/hls/playlist.m3u8?ads.xumo_channelId=99951227|User-Agent=Dalvik/2.1.0
 #EXTINF:0,Telemundo Puerto Rico
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:0,Tele 11 Puerto Rico
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://na.gt-app.com:2083/live/UIapp/qLzpvNzf04JgYjTvKbGjMnRoLgXf/3.ts
 #EXTINF:0,Villa TV
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://inliveserver.com:1936/10016/10016/playlist.m3u8
 #EXTINF:0,TeleNovelas
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0,AFV
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 #EXTINF:0,Bolivision
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://d3ew2cr4djta2j.cloudfront.net/index.m3u8
 #EXTINF:0,Bolivia TV
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://5fe2654d6127d.streamlock.net/boliviatv/videoboliviatv/.m3u8
 #EXTINF:0,TV Peru Internacional
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:0,RCN+ MÃ¡s
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:0,Hola TV Play
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
 #EXTINF:0,Film & Co.
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5625
 #EXTINF:0,TV Azteca Guatemala
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://ch1-tva.duin.dev/hls/stream.m3u8
 #EXTINF:0,Novelas | Pasiones Legendarias
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://amg00658-amg00658c49-canelatv-international-7982.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0,Novelas | Novelas Turcas
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://amg00658-amg00658c102-canelatv-international-7231.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0,Novelas | Pasion Latina
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://amg00658-amg00658c99-canelatv-international-7218.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0,Novelas | Mas Pasiones
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://amg00658-amg00658c93-canelatv-international-6082.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-todonovelasta-canelatvinternational/playlist.m3u8
 #EXTINF:0,Novelas | Pasion BrasileÃ±a
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://amg00658-amg00658c107-canelatv-international-7981.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0,Novelas | Sony Novelas
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 #EXTINF:0,Novelas | Novelisima 2
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://amg00658-amg00658c60-canelatv-international-5442.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelisimaappta-canelatvinternational/playlist.m3u8
 #EXTINF:0,Novelas | Stormcast
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://stormcast-novelas-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0,CANAL 19 - Megavision El Salvador
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
 #EXTINF:0,CANAL 21 El Salvador
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
 #EXTINF:0,CANAL 57 El Salvador
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://stream.giostreaming.net:19360/canal57/canal57.m3u8
 #EXTINF:0,TCS+
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live/live-audio_0=64000-video=2000000.m3u8
 #EXTINF:0,Oromar TV
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 #EXTINF:0,Telecentro (Ven)
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
 #EXTINF:0,Canal 5 del Pueblo
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
 #EXTINF:0,Naturaleza Salvaje
-#EXTGRP:Variedades
+#EXTGRP:VARIADOS
 https://jmp2.uk/rok-098bce44be895630a3e437516fe70853.m3u8
 
 #EXTINF:0,Baby Shark
@@ -2857,55 +2855,55 @@ https://stitcher.pluto.tv/stitch/hls/channel/5ff608e60e2996000768c366/master.m3u
 #EXTGRP:Pluto TV
 https://stitcher.pluto.tv/stitch/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,Nickelodeon Teen
-#EXTGRP:Pluto TV
+#EXTGRP:INFANTIL
 https://stitcher.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,Nickelodeon iCarly
-#EXTGRP:Pluto TV
+#EXTGRP:INFANTIL
 https://stitcher.pluto.tv/stitch/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,Kenan y Kel
 #EXTGRP:Pluto TV
 https://stitcher.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,Nick Jr. Club
-#EXTGRP:Pluto TV
+#EXTGRP:INFANTIL
 https://stitcher.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,Baby Shark TV
-#EXTGRP:Pluto TV
+#EXTGRP:INFANTIL
 https://stitcher.pluto.tv/stitch/hls/channel/619d5e6a093e7c0007489211/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,Babyfirst
-#EXTGRP:Pluto TV
+#EXTGRP:INFANTIL
 https://stitcher.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,Junior
-#EXTGRP:Pluto TV
+#EXTGRP:INFANTIL
 https://stitcher.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,Barney
-#EXTGRP:Pluto TV
+#EXTGRP:INFANTIL
 https://stitcher.pluto.tv/stitch/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,El Reino Infantil
-#EXTGRP:Pluto TV
+#EXTGRP:INFANTIL
 https://stitcher.pluto.tv/stitch/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,Nickelodeon ClÃ¡sico
-#EXTGRP:Pluto TV
+#EXTGRP:INFANTIL
 https://stitcher.pluto.tv/stitch/hls/channel/6824cda00101510f9eeaa011/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,Hey Arnold!
-#EXTGRP:Pluto TV
+#EXTGRP:INFANTIL
 https://stitcher.pluto.tv/stitch/hls/channel/66c79221b1a34600087e264d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,Avatar: La Leyenda de Aang
 #EXTGRP:Pluto TV
 https://stitcher.pluto.tv/stitch/hls/channel/6759ee82bd523200083b4f0f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,Rugrats
-#EXTGRP:Pluto TV
+#EXTGRP:INFANTIL
 https://stitcher.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,Nickelodeon Toons
 #EXTGRP:Pluto TV
 https://stitcher.pluto.tv/stitch/hls/channel/645952687cb4b100084ed52e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,Bob Esponja
-#EXTGRP:Pluto TV
+#EXTGRP:INFANTIL
 https://stitcher.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,Los Padrinos MÃ¡gicos
-#EXTGRP:Pluto TV
+#EXTGRP:INFANTIL
 https://stitcher.pluto.tv/stitch/hls/channel/6322099c822bbc00074857db/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,Las Tortugas Ninja
-#EXTGRP:Pluto TV
+#EXTGRP:INFANTIL
 https://stitcher.pluto.tv/stitch/hls/channel/63dd5d7a4e83e700088fbca8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,Pluto TV Kids
 #EXTGRP:Pluto TV
