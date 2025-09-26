@@ -1,7 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="PPV" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , BOTYTV Solo 3USD 3Meses
-http://embed-cloudfront.wistia.com/deliveries/7f84833386b5af88621d0d3d5e4fb684ad44f6e5.m3u8
+#EXTINF:0,PIDE TU CUENTA PERSONALIZADA
+#EXTGRP:PPV
+http://embed-cloudfront.wistia.com/deliveries/c3e1795eb910ef703f0ad18bf2c253ed436fe5ea.m3u8
 
 
 #EXTINF:-1 group-title="PPV" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , EVENTOS 1
@@ -37,6 +38,9 @@ http://38.41.8.1:8000/play/a0sv
 #EXTINF:-1 group-title="PPV" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 10
 http://38.41.8.1:8000/play/a07b
 
+#EXTINF:0,PIDE TU CUENTA PERSONALIZADA
+#EXTGRP:PELIS2025
+http://embed-cloudfront.wistia.com/deliveries/c3e1795eb910ef703f0ad18bf2c253ed436fe5ea.m3u8
 
 #EXTINF:0,28 años despues
 #EXTGRP:PELIS2025
@@ -129,6 +133,28 @@ http://tv.zapping.life:8080/movie/mayleenfunez1/135535683598/145006.mkv
 #EXTINF:0,Jugaremos en el Bosque 2024
 #EXTGRP:PELISTERROR
 http://tv.zapping.life:8080/movie/mayleenfunez1/135535683598/124472.mkv
+
+#EXTINF:0,PIDE TU CUENTA PERSONALIZADA
+#EXTGRP:CINE
+http://embed-cloudfront.wistia.com/deliveries/c3e1795eb910ef703f0ad18bf2c253ed436fe5ea.m3u8
+
+#EXTINF:0,PIDE TU CUENTA PERSONALIZADA
+#EXTGRP:CINEPREMIUM
+http://embed-cloudfront.wistia.com/deliveries/c3e1795eb910ef703f0ad18bf2c253ed436fe5ea.m3u8
+
+#EXTINF:0,PIDE TU CUENTA PERSONALIZADA
+#EXTGRP:CULTURAL
+http://embed-cloudfront.wistia.com/deliveries/c3e1795eb910ef703f0ad18bf2c253ed436fe5ea.m3u8
+
+
+#EXTINF:0,PIDE TU CUENTA PERSONALIZADA
+#EXTGRP:VARIADOS
+http://embed-cloudfront.wistia.com/deliveries/c3e1795eb910ef703f0ad18bf2c253ed436fe5ea.m3u8
+
+
+#EXTINF:0,PIDE TU CUENTA PERSONALIZADA
+#EXTGRP:NACIONALES
+http://embed-cloudfront.wistia.com/deliveries/c3e1795eb910ef703f0ad18bf2c253ed436fe5ea.m3u8
 
 
 #EXTINF:0,HBO
