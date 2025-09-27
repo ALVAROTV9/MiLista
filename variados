@@ -15,10 +15,10 @@ http://205.235.6.29:8000/play/a0vh/index.m3u8
 http://38.41.8.1:8000/play/a06r
 
 #EXTINF:-1 group-title="PPV" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 4
-http://cord-cutter.net:8080/live/Y3DvY8/934867/167742.ts
+http://ip96.uk:8080/live/Ghosia104/pathan104/302967.ts
 
 #EXTINF:-1 group-title="PPV" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 5 
-http://cord-cutter.net:8080/live/Y3DvY8/934867/167745.ts
+http://ip96.uk:8080/live/Ghosia104/pathan104/302966.ts
 
 #EXTINF:-1 group-title="PPV" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 6
 http://cord-cutter.net:8080/live/Y3DvY8/934867/53706.ts
@@ -36,7 +36,26 @@ http://38.41.8.1:8000/play/a0sv
 
 
 #EXTINF:-1 group-title="PPV" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 10
-http://38.41.8.1:8000/play/a07b
+http://ip96.uk:8080/live/Ghosia104/pathan104/293609.ts
+
+#EXTINF:-1 group-title="PPV" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , BAYERN MUNICH luis diaz
+http://ip96.uk:8080/live/Ghosia104/pathan104/293596.ts
+
+#EXTINF:-1 group-title="PPV" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , ITALIA CALCIO
+http://ip96.uk:8080/live/Ghosia104/pathan104/293273.ts
+
+#EXTINF:-1 group-title="PPV" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , LA LIGA
+http://ip96.uk:8080/live/Ghosia104/pathan104/292980.ts
+
+#EXTINF:-1 group-title="PPV" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , FRANCUA LIGUE ONE
+http://ip96.uk:8080/live/Ghosia104/pathan104/301961.ts
+
+#EXTINF:-1 group-title="PPV" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , BRASIL FUTBOL
+http://ip96.uk:8080/live/Ghosia104/pathan104/304357.ts
+
+#EXTINF:-1 group-title="PPV" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , FRANCUA LIGUE ONE
+http://ip96.uk:8080/live/Ghosia104/pathan104/291615.ts
+
 
 #EXTINF:0,PIDE TU CUENTA PERSONALIZADA
 #EXTGRP:PELIS2025
