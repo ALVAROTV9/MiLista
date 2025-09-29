@@ -1,8 +1,9 @@
-
 #EXTM3U
+
 #EXTINF:0,PIDE TU CUENTA PERSONALIZADA
 #EXTGRP:PPV
 http://embed-cloudfront.wistia.com/deliveries/c3e1795eb910ef703f0ad18bf2c253ed436fe5ea.m3u8
+
 #EXTINF:0,EVENTOS 1
 #EXTGRP:PPV
 http://205.235.6.29:8000/play/a0ve/index.m3u8
@@ -212,18 +213,3 @@ https://stitcher.pluto.tv/stitch/hls/channel/66997d18a1b69e00082ee85f/master.m3u
 
 
 
-#
-.
-
-
-
-#EXTINF:0,BANDAMAX_IN
-#EXTGRP:
-http://190.0.247.38:8000/play/a047
-#EXTINF:0,E! HD
-#EXTGRP:
-http://190.0.247.38:8000/play/a02v
-#EXTINF:0,E! HD IN
-#EXTGRP:
-http://190.0.247.38:8000/play/a050
-#EXTINF:0,LIFE TIME HD IN
