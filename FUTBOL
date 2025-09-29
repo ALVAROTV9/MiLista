@@ -24,7 +24,7 @@ http://cord-cutter.net:8080/live/Y3DvY8/934867/167748.ts
 
 #EXTINF:0,EVENTOS 6
 #EXTGRP:PPV
-http://cord-cutter.net:8080/live/Y3DvY8/934867/167745.ts
+https://live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8
 
 #EXTINF:0,EVENTOS 7
 #EXTGRP:PPV
@@ -105,12 +105,53 @@ http://38.41.8.1:8000/play/a0sx
 
 #EXTINF:0,EVENTOS 24
 #EXTGRP:PPV
+http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200600.ts
 
-#EXTINF:0,EVENTOS 20
+#EXTINF:0,EVENTOS 25
+#EXTGRP:PPV
+http://ip96.uk:8080/live/Ghosia104/pathan104/293609.ts
+
+#EXTINF:0,EVENTOS 26
+#EXTGRP:PPV
+http://ip96.uk:8080/live/Ghosia104/pathan104/302967.ts
+
+
+#EXTINF:0,EVENTOS 27
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a0yi
+
+
+#EXTINF:0,EVENTOS 28
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a0rn
+
+#EXTINF:0,EVENTOS 29
+#EXTGRP:PPV
+http://78.130.250.2:8023/play/a02w/index.m3u8
+
+
+#EXTINF:0,EVENTOS 30
+#EXTGRP:PPV
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+
+#EXTINF:0,EVENTOS 31
 #EXTGRP:PPV
 
-#EXTINF:0,EVENTOS 20
+
+#EXTINF:0,EVENTOS 26
 #EXTGRP:PPV
+
+#EXTINF:0,EVENTOS 26
+#EXTGRP:PPV
+
+
+
+
+
+
+
+
+
 
 
 
