@@ -12,40 +12,123 @@ http://205.235.6.29:8000/play/a0ve/index.m3u8
 http://205.235.6.29:8000/play/a0vh/index.m3u8
 #EXTINF:0,EVENTOS 3
 #EXTGRP:PPV
-http://38.41.8.1:8000/play/a06r
+http://cord-cutter.net:8080/live/Y3DvY8/934867/167742.ts
+
 #EXTINF:0,EVENTOS 4
 #EXTGRP:PPV
-http://ip96.uk:8080/live/Ghosia104/pathan104/302967.ts
+http://cord-cutter.net:8080/live/Y3DvY8/934867/167743.ts
+
 #EXTINF:0,EVENTOS 5
 #EXTGRP:PPV
-http://ip96.uk:8080/live/Ghosia104/pathan104/302966.ts
+http://cord-cutter.net:8080/live/Y3DvY8/934867/167748.ts
+
 #EXTINF:0,EVENTOS 6
 #EXTGRP:PPV
-http://cord-cutter.net:8080/live/Y3DvY8/934867/53706.ts
+http://cord-cutter.net:8080/live/Y3DvY8/934867/167745.ts
+
 #EXTINF:0,EVENTOS 7
 #EXTGRP:PPV
-http://cord-cutter.net:8080/live/Y3DvY8/934867/35243.ts
+http://205.235.6.29:8000/play/a0pz/index.m3u8
+
 #EXTINF:0,EVENTOS 8
 #EXTGRP:PPV
-http://38.41.8.1:8000/play/a0sm
+http://38.41.8.1:8000/play/a0t3
+
 #EXTINF:0,EVENTOS 9
 #EXTGRP:PPV
-http://38.41.8.1:8000/play/a0sv
+http://38.41.8.1:8000/play/a0rv
+
 #EXTINF:0,EVENTOS 10
 #EXTGRP:PPV
-http://ip96.uk:8080/live/Ghosia104/pathan104/293609.ts
+http://190.0.247.38:8000/play/a00z
+
 #EXTINF:0,BAYERN MUNICH luis diaz
 #EXTGRP:PPV
-http://ip96.uk:8080/live/Ghosia104/pathan104/293596.ts
-#EXTINF:0,ITALIA CALCIO
+http://205.235.6.29:8000/play/a0vn/index.m3u8
+
+#EXTINF:0, EVENTOS 11
 #EXTGRP:PPV
-http://ip96.uk:8080/live/Ghosia104/pathan104/293273.ts
-#EXTINF:0,LA LIGA
+http://190.0.247.38:8000/play/a010
+
+#EXTINF:0, EVENTOS 12
 #EXTGRP:PPV
-http://ip96.uk:8080/live/Ghosia104/pathan104/292980.ts
-#EXTINF:0,FRANCUA LIGUE ONE
+http://205.235.6.29:8000/play/a0vp/index.m3u8
+
+#EXTINF:0,EVENTOS 13
 #EXTGRP:PPV
-http://ip96.uk:8080/live/Ghosia104/pathan104/291615.ts
+http://38.41.8.1:8000/play/a0sm
+
+#EXTINF:0,EVENTOS 14
+#EXTGRP:PPV
+http://205.235.6.29:8000/play/a0w0/index.m3u8
+
+#EXTINF:0,EVENTOS 15
+#EXTGRP:PPV
+http://205.235.6.29:8000/play/a0vo/index.m3u8
+
+#EXTINF:0,EVENTOS 16
+#EXTGRP:PPV
+http://190.0.247.38:8000/play/a069
+
+#EXTINF:0,EVENTOS 17
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a0sv
+
+
+#EXTINF:0,EVENTOS 18
+#EXTGRP:PPV
+http://205.235.6.29:8000/play/a0vw/index.m3u8
+
+
+#EXTINF:0,EVENTOS 19
+#EXTGRP:PPV
+http://190.0.247.38:8000/play/a012
+
+#EXTINF:0,EVENTOS 20
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a0rm
+
+
+#EXTINF:0,EVENTOS 21
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a0sk
+
+
+#EXTINF:0,EVENTOS 22
+#EXTGRP:PPV
+http://190.0.247.38:8000/play/a013
+
+
+#EXTINF:0,EVENTOS 23
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a0sx
+
+#EXTINF:0,EVENTOS 24
+#EXTGRP:PPV
+
+#EXTINF:0,EVENTOS 20
+#EXTGRP:PPV
+
+#EXTINF:0,EVENTOS 20
+#EXTGRP:PPV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:0,BRASIL FUTBOL
 #EXTGRP:PPV
 http://ip96.uk:8080/live/Ghosia104/pathan104/304357.ts
