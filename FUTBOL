@@ -127,22 +127,8 @@ http://190.0.247.38:8000/play/a06a
 #EXTGRP:PPV
 http://190.0.247.38:8000/play/a068
 
-#EXTINF:0,AM Sports
-#EXTGRP:PPV
-http://143.0.67.77:8000/play/a01v/index.m3u8
-
-#EXTINF:0,DeporTV
-#EXTGRP:PPV
-http://143.0.67.77:8000/play/a06h/index.m3u8
 
 
-#EXTINF:0,Eventos HD
-#EXTGRP:PPV
-http://143.0.67.77:8000/play/a0af/index.m3u8
-
-#EXTINF:0,TNT Sports HD
-#EXTGRP:PPV
-http://143.0.67.77:8000/play/a0bc/index.m3u8
 
 #EXTINF:0,TyC Sports HD
 #EXTGRP:PPV
@@ -156,9 +142,6 @@ http://38.41.8.1:8000/play/a0b0
 #EXTGRP:PPV
 http://205.235.6.29:8000/play/a0ve/index.m3u8
 
-#EXTINF:0,ZAPPING
-#EXTGRP:PPV
-http://205.235.6.29:8000/play/a0ny/index.m3u8
 
 #EXTINF:0,DIRECTV
 #EXTGRP:PPV
@@ -196,25 +179,13 @@ http://38.41.8.1:8000/play/a0ry
 #EXTGRP:PPV
 http://38.41.8.1:8000/play/a0yi
 
-#EXTINF:0,TNT Sports Premiun HD
-#EXTGRP:PPV
-http://38.41.8.1:8000/play/a0rn
 
-#EXTINF:0,TNT Sports Premiun SD
-#EXTGRP:PPV
-http://38.41.8.1:8000/play/a0sf
 
-#EXTINF:0,TyC Sports
-#EXTGRP:PPV
-http://38.41.8.1:8000/play/a0wj
 
 #EXTINF:0,UCL
 #EXTGRP:PPV
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
-#EXTINF:0,Via X Esports
-#EXTGRP:PPV
-http://38.41.8.1:8000/play/a0wk
 
 #EXTINF:0,Win Sports
 #EXTGRP:PPV
