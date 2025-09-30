@@ -147,7 +147,9 @@ http://xv5myned.otttv.pw/iptv/88EYGGKCK5RASE2LR8XWTRTR/2517/index.m3u8
 #EXTGRP:PPV
 http://xv5myned.otttv.pw/iptv/88EYGGKCK5RASE2LR8XWTRTR/7322/index.m3u8
 
-
+#EXTINF:0,EVENTOS 34
+#EXTGRP:PPV
+http://xv5myned.otttv.pw/iptv/88EYGGKCK5RASE2LR8XWTRTR/9334/index.m3u8
 
 
 
