@@ -12,47 +12,44 @@ http://205.235.6.29:8000/play/a0ve/index.m3u8
 http://205.235.6.29:8000/play/a0vh/index.m3u8
 #EXTINF:0,EVENTOS 3
 #EXTGRP:PPV
-http://cord-cutter.net:8080/live/Y3DvY8/934867/167742.ts
+http://145.239.5.177:80/566/index.m3u8
 
 #EXTINF:0,EVENTOS 4
 #EXTGRP:PPV
-http://cord-cutter.net:8080/live/Y3DvY8/934867/167743.ts
+http://145.239.5.177:80/564/index.m3u8
 
 #EXTINF:0,EVENTOS 5
 #EXTGRP:PPV
-http://cord-cutter.net:8080/live/Y3DvY8/934867/167748.ts
+http://145.239.5.177:80/558/index.m3u8
 
 #EXTINF:0,EVENTOS 6
 #EXTGRP:PPV
-https://live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8
+http://145.239.5.177:80/559/index.m3u8
 
 #EXTINF:0,EVENTOS 7
 #EXTGRP:PPV
-http://205.235.6.29:8000/play/a0pz/index.m3u8
+http://145.239.5.177:80/557/index.m3u8
 
 #EXTINF:0,EVENTOS 8
 #EXTGRP:PPV
-http://38.41.8.1:8000/play/a0t3
+http://145.239.5.177:80/556/index.m3u8
 
 #EXTINF:0,EVENTOS 9
 #EXTGRP:PPV
-http://38.41.8.1:8000/play/a0rv
+http://178.23.88.55/Arena_sport/index.m3u8
 
 #EXTINF:0,EVENTOS 10
 #EXTGRP:PPV
-http://190.0.247.38:8000/play/a00z
+http://178.23.88.55/Sport1/index.m3u8
 
-#EXTINF:0,BAYERN MUNICH luis diaz
-#EXTGRP:PPV
-http://205.235.6.29:8000/play/a0vn/index.m3u8
 
 #EXTINF:0, EVENTOS 11
 #EXTGRP:PPV
-http://190.0.247.38:8000/play/a010
+http://178.23.88.55/Eurosport_2/index.m3u8
 
 #EXTINF:0, EVENTOS 12
 #EXTGRP:PPV
-http://205.235.6.29:8000/play/a0vp/index.m3u8
+http://178.23.88.55/Eurosport_1/index.m3u8
 
 #EXTINF:0,EVENTOS 13
 #EXTGRP:PPV
