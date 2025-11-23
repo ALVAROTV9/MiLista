@@ -1,276 +1,194 @@
 #EXTM3U
-
-#EXTINF:0,PIDE TU CUENTA PERSONALIZADA
-#EXTGRP:PPV
-http://embed-cloudfront.wistia.com/deliveries/c3e1795eb910ef703f0ad18bf2c253ed436fe5ea.m3u8
-
-#EXTINF:0,EVENTOS 1
-#EXTGRP:PPV
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,CoNtAcTar BoTyYV PreMiuM DEPORTES
+http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,TUDN MEXICO
+http://nocable.cc:8080/b2U9nd/520098/11885
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,WIN SPORTS + COL 1
 http://205.235.6.29:8000/play/a0ve/index.m3u8
-#EXTINF:0,EVENTOS 2
-#EXTGRP:PPV
-http://205.235.6.29:8000/play/a0vh/index.m3u8
-#EXTINF:0,EVENTOS 3
-#EXTGRP:PPV
-http://145.239.5.177:80/566/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,WIN SPORTS + COL 2
+http://190.0.247.38:8000/play/a06a
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,DIRECTV SPORTS 1
+http://205.235.6.29:8000/play/a0ok/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,T Y C SPORTS ARG
+http://205.235.6.29:8000/play/a0oi/index.m3u
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,ECDF ECUADOR
+http://205.235.6.29:8000/play/a0we/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,TNT SPORTS CHILE
+http://38.41.8.1:8000/play/a0rn
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS SPORTV 1
+http://nocable.cc:8080/b2U9nd/520098/167742
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS SPORTV 2
+http://nocable.cc:8080/b2U9nd/520098/167743
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS SPORTV 3
+http://nocable.cc:8080/b2U9nd/520098/167744
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS SPORTV 4
+http://nocable.cc:8080/b2U9nd/520098/167745
 
-#EXTINF:0,EVENTOS 4
-#EXTGRP:PPV
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,SUPER SPORTS FOOTBALL
 http://145.239.5.177:80/564/index.m3u8
 
-#EXTINF:0,EVENTOS 5
-#EXTGRP:PPV
-http://145.239.5.177:80/558/index.m3u8
 
-#EXTINF:0,EVENTOS 6
-#EXTGRP:PPV
-http://145.239.5.177:80/559/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS ESPN PREMIUM 1 VIP
+http://205.235.6.29:8000/play/a0pz/index.m3u8
 
-#EXTINF:0,EVENTOS 7
-#EXTGRP:PPV
-http://145.239.5.177:80/557/index.m3u8
-
-#EXTINF:0,EVENTOS 8
-#EXTGRP:PPV
-http://145.239.5.177:80/556/index.m3u8
-
-#EXTINF:0,EVENTOS 9
-#EXTGRP:PPV
-http://178.23.88.55/Arena_sport/index.m3u8
-
-#EXTINF:0,EVENTOS 10
-#EXTGRP:PPV
-http://178.23.88.55/Sport1/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS ESPN PREMIUM 2 VIP
+http://38.41.8.1:8000/play/a0t7
 
 
-#EXTINF:0, EVENTOS 11
-#EXTGRP:PPV
-http://178.23.88.55/Eurosport_2/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS ESPN 1 A
+http://38.41.8.1:8000/play/a0t3
 
-#EXTINF:0, EVENTOS 12
-#EXTGRP:PPV
-http://178.23.88.55/Eurosport_1/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS ESPN 2 B
+http://190.0.247.38:8000/play/a010
 
-#EXTINF:0,EVENTOS 13
-#EXTGRP:PPV
-http://38.41.8.1:8000/play/a0sm
-
-#EXTINF:0,EVENTOS 14
-#EXTGRP:PPV
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS ESPN 3 A
 http://205.235.6.29:8000/play/a0w0/index.m3u8
 
-#EXTINF:0,EVENTOS 15
-#EXTGRP:PPV
-http://205.235.6.29:8000/play/a0vo/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS ESPN 3 B
+http://38.41.8.1:8000/play/a0sm
 
-#EXTINF:0,EVENTOS 16
-#EXTGRP:PPV
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS ESPN 3 C
+http://190.0.247.38:8000/play/a03u
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS ESPN 4 A
+http://38.41.8.1:8000/play/a0sl
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS ESPN 4 B
 http://190.0.247.38:8000/play/a069
 
-#EXTINF:0,EVENTOS 17
-#EXTGRP:PPV
-http://38.41.8.1:8000/play/a0sv
-
-
-#EXTINF:0,EVENTOS 18
-#EXTGRP:PPV
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS ESPN 5 A
 http://205.235.6.29:8000/play/a0vw/index.m3u8
 
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS ESPN 6 A
+http://205.235.6.29:8000/play/a0vy/index.m3u8
 
-#EXTINF:0,EVENTOS 19
-#EXTGRP:PPV
-http://190.0.247.38:8000/play/a012
-
-#EXTINF:0,EVENTOS 20
-#EXTGRP:PPV
-http://38.41.8.1:8000/play/a0rm
-
-
-#EXTINF:0,EVENTOS 21
-#EXTGRP:PPV
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS ESPN 6 B
 http://38.41.8.1:8000/play/a0sk
 
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS ESPN 7 A
+http://205.235.6.29:8000/play/a0vu/index.m3u8
 
-#EXTINF:0,EVENTOS 22
-#EXTGRP:PPV
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS  DAZN 1
+http://nocable.cc:8080/b2U9nd/520098/167748
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS  DAZN 2
+http://nocable.cc:8080/b2U9nd/520098/167749
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS IDAZN 3
+http://145.239.5.177:80/566/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS Eurosport 1
+http://178.23.88.55/Eurosport_1/index.m3u8
+
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS ESPN 5
+http://190.0.247.38:8000/play/a012
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS ESPN 6
 http://190.0.247.38:8000/play/a013
-
-
-#EXTINF:0,EVENTOS 23
-#EXTGRP:PPV
-http://38.41.8.1:8000/play/a0sx
-
-#EXTINF:0,EVENTOS 24
-#EXTGRP:PPV
-http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200600.ts
-
-#EXTINF:0,EVENTOS 25
-#EXTGRP:PPV
-http://ip96.uk:8080/live/Ghosia104/pathan104/293609.ts
-
-#EXTINF:0,EVENTOS 26
-#EXTGRP:PPV
-http://ip96.uk:8080/live/Ghosia104/pathan104/302967.ts
-
-
-#EXTINF:0,EVENTOS 27
-#EXTGRP:PPV
-http://38.41.8.1:8000/play/a0yi
-
-
-#EXTINF:0,EVENTOS 28
-#EXTGRP:PPV
-http://38.41.8.1:8000/play/a0rn
-
-#EXTINF:0,EVENTOS 29
-#EXTGRP:PPV
-http://78.130.250.2:8023/play/a02w/index.m3u8
-
-
-#EXTINF:0,EVENTOS 30
-#EXTGRP:PPV
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS rai Sports
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
-
-#EXTINF:0,EVENTOS 31
-#EXTGRP:PPV
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS eleven Sports
 http://xv5myned.otttv.pw/iptv/88EYGGKCK5RASE2LR8XWTRTR/2518/index.m3u8
-
-
-#EXTINF:0,EVENTOS 32
-#EXTGRP:PPV
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS eleven Sports 2
 http://xv5myned.otttv.pw/iptv/88EYGGKCK5RASE2LR8XWTRTR/2517/index.m3u8
-
-#EXTINF:0,EVENTOS 33
-#EXTGRP:PPV
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS fox Sports 1
 http://xv5myned.otttv.pw/iptv/88EYGGKCK5RASE2LR8XWTRTR/7322/index.m3u8
-
-#EXTINF:0,EVENTOS 34
-#EXTGRP:PPV
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS Sky Sports premier league
 http://xv5myned.otttv.pw/iptv/88EYGGKCK5RASE2LR8XWTRTR/9334/index.m3u8
-
-
-
-
-
-
-
-
-
-
-#EXTINF:0,BRASIL FUTBOL
-#EXTGRP:PPV
-http://ip96.uk:8080/live/Ghosia104/pathan104/304357.ts
-
-
-#EXTINF:0,WIN SPORTS HD
-#EXTGRP:PPV
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS WIN SPORTS HD
 http://190.0.247.38:8000/play/a06a
-
-#EXTINF:0,WIN SPORTS HD IN
-#EXTGRP:PPV
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS win Sports plus
 http://190.0.247.38:8000/play/a068
-
-
-
-
-#EXTINF:0,TyC Sports HD
-#EXTGRP:PPV
-http://143.0.67.77:8000/play/a02s/index.m3u8
-
-#EXTINF:0,DTV
-#EXTGRP:PPV
-http://38.41.8.1:8000/play/a0b0
-
-#EXTINF:0,Win Sports+ HD
-#EXTGRP:PPV
-http://205.235.6.29:8000/play/a0ve/index.m3u8
-
-
-#EXTINF:0,DIRECTV
-#EXTGRP:PPV
-http://205.235.6.29:8000/play/a0vh/index.m3u8
-
-#EXTINF:0,Azteca Deportes
-#EXTGRP:PPV
-https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
-
-#EXTINF:0,Claro Sports
-#EXTGRP:PPV
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://lh3.googleusercontent.com/-jOfICTahjos/YoBRF4ftRiI/AAAAAAAADns/sO-bk2urxu0N3pCgD0ADRNC-D40slmGCgCNcBGAsYHQ/w200-h200/1652576530328166-0.png" tvg-id="ESPN.PREMIUM.ar" tvg-name="DEPORTES - ESPN Premium ARG ()(1080)" ,DEPORTES - ESPN PremiuM
+http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9550.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://1.bp.blogspot.com/-bwERD1EYUso/XjHTaAko5tI/AAAAAAAAA-M/MpTKAtCF0rUt9cvpn-Chpk3PKth9aEWJwCLcBGAsYHQ/s200/33.png" tvg-id="CW.Plus.Mountain.us" tvg-name="DEPORTES - beIN Sport USA (M)(720)" ,BeIN Sport USA
+http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9551.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://lh3.googleusercontent.com/-ZKORTNZ8Szo/Ydx2UQH0MaI/AAAAAAAACfI/KuHHd0WsnfInxBXCju3l_xrCzRyVBQASwCNcBGAsYHQ/w200-h200/1641838155930717-1.png" tvg-id="beIN.Sports.HDTV.(Spanish).(beINHD).us" tvg-name="DEPORTES - beIN Sports Xtra Ñ (TV)(720)" ,BeIN Sports Xtra Ñ
+http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9552.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://1.bp.blogspot.com/-T4UnDWGyhb0/Xay_YgqwzVI/AAAAAAAAAkE/mta3F4p2leUOXJzzGQQWIW0Jjxw2uLYHACLcBGAsYHQ/s200/17.png" tvg-id="beIN.Sports.HDTV.(Spanish).(beINHD).us" tvg-name="DEPORTES - beIN Sports Ñ (T)(1080)" ,BeIN Sports Ñ FHD
+http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9553.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://1.bp.blogspot.com/-WZoevRCibrQ/XazFPI2G7nI/AAAAAAAAAlQ/Tm2GHOyjZuIjYxYN8ynbjF34iTCRQZzSQCLcBGAsYHQ/s200/18.png" tvg-id="DSPORTS.+.HD.dtvsp" tvg-name="DEPORTES - Directv Sports + (TV)(720)" ,Directv Sports + HD
+http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9558.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" tvg-id="Canal.Discovery.Kids.(Chile).cl" tvg-name="DEPORTES - Directv Sports 1 CHI (e)(1080)" ,Directv Sports 1 HD
+http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9561.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png" tvg-id="DSPORTS.2.HD.dtvsp" tvg-name="DEPORTES - Directv Sports 2 (e)(1080)" ,Directv Sports 2 HD
+http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9564.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png" tvg-name="DEPORTES - Claro Sports 2 (Z)(720)" ,Claro Sports 2 HD
+http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9556.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,Sportsnet World HD
+http://nocable.cc:8080/b2U9nd/520098/75675
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,ESPN EEUU
+http://nocable.cc:8080/b2U9nd/520098/66372
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,Sky Sports Main Event
+http://nocable.cc:8080/b2U9nd/520098/35243
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,ky Sports Premier League
+http://nocable.cc:8080/b2U9nd/520098/35241
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,Sky Sports F1 FHD
+http://nocable.cc:8080/b2U9nd/520098/35244
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,SKY SP RACING FHD
+http://nocable.cc:8080/b2U9nd/520098/76842
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,NBC Sports Network (F)
+http://nocable.cc:8080/b2U9nd/520098/46725
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,WWE NETWORK
+http://nocable.cc:8080/b2U9nd/520098/11645
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,US Fanduel Sports
+http://nocable.cc:8080/b2U9nd/520098/21843
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,PT Eleven Sports 1 FHD
+http://nocable.cc:8080/b2U9nd/520098/35264
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,US NBC Sports Bay Area
+http://nocable.cc:8080/b2U9nd/520098/9900
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,US NBC Sports Boston
+http://nocable.cc:8080/b2U9nd/520098/20939
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,US NBC Sports California
+http://nocable.cc:8080/b2U9nd/520098/20940
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,US NBC Sports Chicago
+http://nocable.cc:8080/b2U9nd/520098/20941
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,US NBC Sports Network (FHD)
+http://nocable.cc:8080/b2U9nd/520098/20926
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,US NBC Sports Philladelfia
+http://nocable.cc:8080/b2U9nd/520098/20943
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,,US ESPN SEC Network
+http://nocable.cc:8080/b2U9nd/520098/17608
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,US Spectrum SportsNet LA Dodgers (HD)
+http://nocable.cc:8080/b2U9nd/520098/31636
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,US Spectrum SportsNet Lakers (FHD)
+http://nocable.cc:8080/b2U9nd/520098/21842
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,US Tennis Channel
+http://nocable.cc:8080/b2U9nd/520098/20184
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,US YES Network
+http://nocable.cc:8080/b2U9nd/520098/57972
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,CBS Sports Network HD
+http://nocable.cc:8080/b2U9nd/520098/10454
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,US ESPN 2
+http://nocable.cc:8080/b2U9nd/520098/2210
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,US ESPN 1 (HD)
+http://nocable.cc:8080/b2U9nd/520098/14197
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,US Fox Sports 1
+http://nocable.cc:8080/b2U9nd/520098/1846
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,US Fox Sports 2
+http://nocable.cc:8080/b2U9nd/520098/1847
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,US Golf Channel
+http://nocable.cc:8080/b2U9nd/520098/9806
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,US Sportsnet New York
+http://nocable.cc:8080/b2U9nd/520098/135810
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,SD CLARO SPORTS
 http://38.41.8.1:8000/play/a050
-
-#EXTINF:0,GOLPERU
-#EXTGRP:PPV
-http://38.41.8.1:8000/play/a0u8
-
-#EXTINF:0,Gol TV
-#EXTGRP:PPV
-http://38.41.8.1:8000/play/a0wi
-
-#EXTINF:0,Golf Channel
-#EXTGRP:PPV
-http://38.41.8.1:8000/play/a0to
-
-#EXTINF:0,Meridiano
-#EXTGRP:PPV
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS PERU
+http://38.41.8.1:8000/play/a0z1
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS VENEZUELA
 http://38.41.8.1:8000/play/a03w
-
-#EXTINF:0,Movistar Deportes
-#EXTGRP:PPV
-http://38.41.8.1:8000/play/a0ry
-
-#EXTINF:0,TNT SPORTS
-#EXTGRP:PPV
-http://38.41.8.1:8000/play/a0yi
-
-
-
-
-#EXTINF:0,UCL
-#EXTGRP:PPV
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
-
-
-#EXTINF:0,Win Sports
-#EXTGRP:PPV
-http://38.41.8.1:8000/play/a0un
-
-#EXTINF:0,Win Sports+
-#EXTGRP:PPV
-http://38.41.8.1:8000/play/a0tp
-
-#EXTINF:0,Deportes
-#EXTGRP:PPV
-https://stitcher.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
-
-#EXTINF:0,Claro Sports Mexico
-#EXTGRP:PPV
-https://stitcher.pluto.tv/stitch/hls/channel/6320d2755e54db000783fd87/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
-
-#EXTINF:0,ITV Deportes
-#EXTGRP:PPV
-https://stitcher.pluto.tv/stitch/hls/channel/63f7e3f9dff38e00082a57af/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
-
-#EXTINF:0,Peleas
-#EXTGRP:PPV
-https://stitcher.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
-
-#EXTINF:0,Lucha Libre AAA
-#EXTGRP:PPV
-https://stitcher.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
-
-#EXTINF:0,DAZN Combat
-#EXTGRP:PPV
-https://stitcher.pluto.tv/stitch/hls/channel/64df7a9a44fe100009b6ac5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
-
-#EXTINF:0,UFC
-#EXTGRP:PPV
-https://stitcher.pluto.tv/stitch/hls/channel/67a52cd4ec91870008a62164/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
-
-#EXTINF:0,FIFA+
-#EXTGRP:PPV
-https://stitcher.pluto.tv/stitch/hls/channel/66997d18a1b69e00082ee85f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
-
-
-
-
-
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://lh3.googleusercontent.com/-jOfICTahjos/YoBRF4ftRiI/AAAAAAAADns/sO-bk2urxu0N3pCgD0ADRNC-D40slmGCgCNcBGAsYHQ/w200-h200/1652576530328166-0.png" tvg-id="ESPN.PREMIUM.ar" tvg-name="DEPORTES - ESPN Premium ARG ()(1080)" ,DEPORTES - ESPN PremiuM
+http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9550.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://1.bp.blogspot.com/-bwERD1EYUso/XjHTaAko5tI/AAAAAAAAA-M/MpTKAtCF0rUt9cvpn-Chpk3PKth9aEWJwCLcBGAsYHQ/s200/33.png" tvg-id="CW.Plus.Mountain.us" tvg-name="DEPORTES - beIN Sport USA (M)(720)" ,BeIN Sport USA
+http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9551.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://lh3.googleusercontent.com/-ZKORTNZ8Szo/Ydx2UQH0MaI/AAAAAAAACfI/KuHHd0WsnfInxBXCju3l_xrCzRyVBQASwCNcBGAsYHQ/w200-h200/1641838155930717-1.png" tvg-id="beIN.Sports.HDTV.(Spanish).(beINHD).us" tvg-name="DEPORTES - beIN Sports Xtra Ñ (TV)(720)" ,BeIN Sports Xtra Ñ
+http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9552.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://1.bp.blogspot.com/-T4UnDWGyhb0/Xay_YgqwzVI/AAAAAAAAAkE/mta3F4p2leUOXJzzGQQWIW0Jjxw2uLYHACLcBGAsYHQ/s200/17.png" tvg-id="beIN.Sports.HDTV.(Spanish).(beINHD).us" tvg-name="DEPORTES - beIN Sports Ñ (T)(1080)" ,BeIN Sports Ñ FHD
+http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9553.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://1.bp.blogspot.com/-WZoevRCibrQ/XazFPI2G7nI/AAAAAAAAAlQ/Tm2GHOyjZuIjYxYN8ynbjF34iTCRQZzSQCLcBGAsYHQ/s200/18.png" tvg-id="DSPORTS.+.HD.dtvsp" tvg-name="DEPORTES - Directv Sports + (TV)(720)" ,Directv Sports + HD
+http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9558.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" tvg-id="Canal.Discovery.Kids.(Chile).cl" tvg-name="DEPORTES - Directv Sports 1 CHI (e)(1080)" ,Directv Sports 1 HD
+http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9561.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png" tvg-id="DSPORTS.2.HD.dtvsp" tvg-name="DEPORTES - Directv Sports 2 (e)(1080)" ,Directv Sports 2 HD
+http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9564.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png" tvg-name="DEPORTES - Claro Sports 2 (Z)(720)" ,Claro Sports 2 HD
+http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9556.m3u8
